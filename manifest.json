@@ -1,0 +1,5052 @@
+{
+  "version": "1.0.10",
+  "date": "2026-09-28",
+  "scope": [
+    "plugins",
+    "src"
+  ],
+  "encrypted": true,
+  "minVersion": "",
+  "requiresInstall": false,
+  "changelog": [
+    "rilis awal payload terenkripsi (setara v1.0.10)"
+  ],
+  "removed": [],
+  "files": [
+    {
+      "path": "plugins/ai/ai.js",
+      "sha256": "8613a8e9ff860601cbf98cba6097f340b0b66829f05dd1376d9ccd87a2d743e9",
+      "size": 6811
+    },
+    {
+      "path": "plugins/ai/anime-gen.js",
+      "sha256": "c16a1947f0ec26889247b88e1ea361f5dfc1a6849ac362f2f8f96cf4cd58dd1f",
+      "size": 5058
+    },
+    {
+      "path": "plugins/ai/characterai.js",
+      "sha256": "7f274b6ff265b9241cd55d5e7a32792ca430173abe93671e7d00ef7730d029c6",
+      "size": 11514
+    },
+    {
+      "path": "plugins/ai/claudehaiku.js",
+      "sha256": "bace425924caecccfefdd230faad2e877a1d52fb4f48f1d674122d89795e9c9f",
+      "size": 4518
+    },
+    {
+      "path": "plugins/ai/deepseek.js",
+      "sha256": "e6cbcfc9fb4960b82c047be7c108aa6f1bc5b1b74f2942572447ab1ec4d56ff5",
+      "size": 4780
+    },
+    {
+      "path": "plugins/ai/dolphin.js",
+      "sha256": "2ea8244bce358f712bea79e00f7c7bba452fc9dd02873a4509ace28ef94a345f",
+      "size": 5863
+    },
+    {
+      "path": "plugins/ai/feelbetter.js",
+      "sha256": "c4ab7e774c500358c6f37dc65a4b16cd1a450d6bed70015a93f8850c2c3654b7",
+      "size": 4446
+    },
+    {
+      "path": "plugins/ai/gita.js",
+      "sha256": "48efc3486e53f639e78fba2a4528e5d51edb94a37d34a42a9de89a737d20ee50",
+      "size": 3653
+    },
+    {
+      "path": "plugins/ai/gpt4o.js",
+      "sha256": "3b627ccf1f2789fb3baaafaa383d3b380f2d1c46f19620ebabaf883201e884fe",
+      "size": 3772
+    },
+    {
+      "path": "plugins/ai/gpt5.js",
+      "sha256": "e5bf2402ea90d4cdc89b72493499579dfb591d74b1c4d70329deb229ecd4758a",
+      "size": 4297
+    },
+    {
+      "path": "plugins/ai/jokowi-ai.js",
+      "sha256": "bcfd6ee5658837ec1bd3c6612f9c40491a1e888b46f5b261a77a7034a9b33c49",
+      "size": 4133
+    },
+    {
+      "path": "plugins/ai/kobo-ai.js",
+      "sha256": "5ee81f365500833f75e657ee903cfd223f792d4e6ecf302a2185f3378bc1bda7",
+      "size": 4243
+    },
+    {
+      "path": "plugins/ai/matematika.js",
+      "sha256": "6c48f5fe04c5d6a7b4d4a0ee9a88ec9cb4ca09cb22969f525b2cc5d199022d1c",
+      "size": 4052
+    },
+    {
+      "path": "plugins/ai/musicmaker.js",
+      "sha256": "c2655d4558c0ce88a616eb2ba40500cf3629970a442983129740cd5ccf22d462",
+      "size": 4876
+    },
+    {
+      "path": "plugins/ai/muslimai.js",
+      "sha256": "d36d8d8c7b1f43fac4454baf8e60a6870f14510bc4747a0e194365e217b83a26",
+      "size": 4635
+    },
+    {
+      "path": "plugins/ai/prabowo-ai.js",
+      "sha256": "c6c39e5337b403e4e4ab86761e1294ab8880ac3e9562f91fdfafa2757cb80fa1",
+      "size": 4224
+    },
+    {
+      "path": "plugins/ai/quillbot.js",
+      "sha256": "fa19fb1098e8eb02e80a4a83995c0e502933cb18364567a49d23923252e1b38e",
+      "size": 4014
+    },
+    {
+      "path": "plugins/ai/qwen3.js",
+      "sha256": "83af9a87eef840ea73de37d6705ffa8813568991d3b35f7d7871515acfeaabc6",
+      "size": 4473
+    },
+    {
+      "path": "plugins/ai/simi.js",
+      "sha256": "a082ad19607417a32fc8126672ddccbcbb2ff5a720d9cf483893b109e70fb0c3",
+      "size": 4049
+    },
+    {
+      "path": "plugins/ai/sologo.js",
+      "sha256": "96df11561334d29491162f63f61e31c17eeba1d3dbaa49ed369da173b3b8e6d1",
+      "size": 4721
+    },
+    {
+      "path": "plugins/ai/tenki-ai.js",
+      "sha256": "bcc2a19e2cee53757dce801f2ff2369e48c71621769c92db737d6ee189899eb6",
+      "size": 4084
+    },
+    {
+      "path": "plugins/ai/tenkibanana.js",
+      "sha256": "0676df21630acdf18a2dc5059acbf2d7cf9d3a02537228837356770f03599641",
+      "size": 4576
+    },
+    {
+      "path": "plugins/ai/tenkibanana2.js",
+      "sha256": "4872eb87da9dc8b5ef46def8da73f8327cee2e168f1d7c0361677298a908a1b6",
+      "size": 3711
+    },
+    {
+      "path": "plugins/ai/text2img.js",
+      "sha256": "0a8bde9b7a2e82c7a9a7c86689f851c5379cc1efa67fa6077cc6b8443c996899",
+      "size": 3847
+    },
+    {
+      "path": "plugins/ai/text2img2.js",
+      "sha256": "a48cace75489d31d7f009e951c840c862970abaacf9f252cc0d5cfeff274ac75",
+      "size": 4061
+    },
+    {
+      "path": "plugins/ai/to3d.js",
+      "sha256": "749f5aa9e27e10f5041147bff2b1238b2427ef91dcdfa822553dfe5bb4c55028",
+      "size": 4385
+    },
+    {
+      "path": "plugins/ai/toanime.js",
+      "sha256": "d9a7d83f3d89d8e3515bded49b74c803318d7fc75b38cb386b3d1414dabc9ec2",
+      "size": 4646
+    },
+    {
+      "path": "plugins/ai/toblack.js",
+      "sha256": "604162092e399b8b66f223246116c96296b4b5240187614af341fafade399a07",
+      "size": 4517
+    },
+    {
+      "path": "plugins/ai/tocartoon.js",
+      "sha256": "bbd86eff5ac61fd8a04f02f7d0603c5851c5b9a72a2ae715fbcc3cde02257c9d",
+      "size": 4607
+    },
+    {
+      "path": "plugins/ai/tocermin.js",
+      "sha256": "f2a089ca009984d4fa35469a076a04772d6a3f8b36bfb29ca7b21bc439240d71",
+      "size": 4439
+    },
+    {
+      "path": "plugins/ai/tochibi.js",
+      "sha256": "c266898488d08fc9ed04fa80b6f246d7820c9a4e535a4aa3c8c2c6e1db993eea",
+      "size": 4366
+    },
+    {
+      "path": "plugins/ai/toemotebatu.js",
+      "sha256": "afdfb57790e6ac5fcf776e51ac4eddc31875bb69f612eaeeae436ebf784fcee1",
+      "size": 4278
+    },
+    {
+      "path": "plugins/ai/tofigure.js",
+      "sha256": "a8343f23c7ab7961fcecf4e2f1c27cf22839b6b328d20810ecdb68337e4bb07c",
+      "size": 4445
+    },
+    {
+      "path": "plugins/ai/tofigurev2.js",
+      "sha256": "a11a1d100168e221b4ce8738e644789c35238f0a098d39950974026e3e8b7eac",
+      "size": 4408
+    },
+    {
+      "path": "plugins/ai/tofigurine.js",
+      "sha256": "d6e5cb7876857e791970e4425fb76693281e98e480065ed205c3b75b1305f187",
+      "size": 5093
+    },
+    {
+      "path": "plugins/ai/toghibli.js",
+      "sha256": "816b0b672da8e97d85ac39c42be71dcff2014a6f1ba4f92af6f39499f7edbd0f",
+      "size": 4217
+    },
+    {
+      "path": "plugins/ai/tohijab.js",
+      "sha256": "f0a01f482cf8caccc7726f1608a2906a318dabcc4aa2feb7bb995b9dbe8dc2aa",
+      "size": 4315
+    },
+    {
+      "path": "plugins/ai/toisland.js",
+      "sha256": "206caca9954a6b895328810bed6cf63d9e4b26e2e7d902bcbe207005dbad2ba0",
+      "size": 4577
+    },
+    {
+      "path": "plugins/ai/tojapanese.js",
+      "sha256": "85973d3714b504c069772183cee21e815d4da67016523edf296261bf64a39593",
+      "size": 4307
+    },
+    {
+      "path": "plugins/ai/tomanga.js",
+      "sha256": "1861a5de648680af0108884b8d71ccdd8279b44fb5391ed091d4657dec8432e7",
+      "size": 4656
+    },
+    {
+      "path": "plugins/ai/tomekah.js",
+      "sha256": "2d77262bed793deebdcf671baa3baa8829ebd2a8e1bf9794406677588f08ddaf",
+      "size": 4293
+    },
+    {
+      "path": "plugins/ai/tooilpainting.js",
+      "sha256": "1444ca5fe65419dfef9bbb09c0e688236a26af1a7b1163da8a009515e34a602a",
+      "size": 4712
+    },
+    {
+      "path": "plugins/ai/txt2img.js",
+      "sha256": "061caa60514b6b09318374c539569d0b9d5cdcd5241ef3899b6e0e71aceb9335",
+      "size": 4496
+    },
+    {
+      "path": "plugins/ai/txt2img2.js",
+      "sha256": "ab6e6449c857b675478ebf2ce1fff1ee8d5b84450c79fcc23c3254497dac7038",
+      "size": 4291
+    },
+    {
+      "path": "plugins/ai/waguri-ai.js",
+      "sha256": "947d463a0ef595187245464d21167abb8a3a633ec7029fcf2f9b6e6929e5dca3",
+      "size": 4190
+    },
+    {
+      "path": "plugins/ai/wormgpt.js",
+      "sha256": "97af6c109d90d70c99b1f473077b7bb09c7894ab8bf2b3b124ea0cb3d7d1831d",
+      "size": 3873
+    },
+    {
+      "path": "plugins/anime/autoanimewinbu.js",
+      "sha256": "48f908059584775165512ec544f2587da1a29cdbd423253e1fb9801827dc0852",
+      "size": 12222
+    },
+    {
+      "path": "plugins/anime/mywaifu.js",
+      "sha256": "c298e4dfb489b2b302ad9d30c2e81985ccebf9fcf34d9791ac23f47bc9ec68ed",
+      "size": 6670
+    },
+    {
+      "path": "plugins/anime/topanime.js",
+      "sha256": "1ad04c0e45209c97d8fa191dc5212216be7a9fef946bf291ac580ec868b1200a",
+      "size": 4624
+    },
+    {
+      "path": "plugins/asupan/asupan.js",
+      "sha256": "94536a8bba3d42b4f910e14c865e12e739e473401e99dd94da75474a86c6feb6",
+      "size": 4332
+    },
+    {
+      "path": "plugins/asupan/asupantiktok.js",
+      "sha256": "ad475dadbfc965d335e8aa70c33d7f0967b3d3996a16babd349638e51e110498",
+      "size": 5620
+    },
+    {
+      "path": "plugins/asupan/bocil.js",
+      "sha256": "6a1816a661b7df43193de3856667bab0815adb67445c1a332cdc80244f0234ff",
+      "size": 3726
+    },
+    {
+      "path": "plugins/asupan/ukhty.js",
+      "sha256": "58fb1a0b4ad95bcc0127734c7d7582562dbb64c224042fad18f068bd1c2a5416",
+      "size": 3787
+    },
+    {
+      "path": "plugins/canvas/applemusic.js",
+      "sha256": "0e109b36559436eaa42ef75c90627c48fd805ffd2508392a41e8476e05355568",
+      "size": 6244
+    },
+    {
+      "path": "plugins/canvas/balogo.js",
+      "sha256": "0584d52162e5f55a37df99c78743c55490562ce9a6af741c91b6be7fdbcb30d4",
+      "size": 3868
+    },
+    {
+      "path": "plugins/canvas/buatquotes.js",
+      "sha256": "5cae6961a466a32e4b7b471733039164ebb2b826bba19a2c48b7a1ba0e03e71b",
+      "size": 15731
+    },
+    {
+      "path": "plugins/canvas/facepalm.js",
+      "sha256": "b091b093d7aed29c0ee54a5b6733769bb2317b0aa67037cd91f7000045356b5b",
+      "size": 4574
+    },
+    {
+      "path": "plugins/canvas/fakebankjago.js",
+      "sha256": "c926eddf8877f2c25a89ce28c22e21127761b63a7a220e1c2f4537414a25eab4",
+      "size": 5326
+    },
+    {
+      "path": "plugins/canvas/fakecall.js",
+      "sha256": "55e9aeb1735d03651545e2a020df4906f3963c0bf209d6cd9621b9f849c9c0d9",
+      "size": 6945
+    },
+    {
+      "path": "plugins/canvas/fakedana.js",
+      "sha256": "f04cc7a52a3238d08e924271dc023548771e22a898c7ccb06858ab3ae70a4c41",
+      "size": 4404
+    },
+    {
+      "path": "plugins/canvas/fakedev7.js",
+      "sha256": "adeee66afce19beaba22bb53f1a9fe86f1fffcd3fa2f62ea819af022223b63c9",
+      "size": 10695
+    },
+    {
+      "path": "plugins/canvas/fakegopay.js",
+      "sha256": "8a147cd7cc8dfacfd325b2f59fa53dad1834ed1a62ec1bb732d1aa9776aadb57",
+      "size": 4584
+    },
+    {
+      "path": "plugins/canvas/fakeml.js",
+      "sha256": "64993870e65aa167dae9bba66f34cfc7d6723bd817b1ba6a1ce13f9bd026e622",
+      "size": 5281
+    },
+    {
+      "path": "plugins/canvas/fakeovo.js",
+      "sha256": "eba2968a37e5372e3759c13824ca2b7cc3f6aba4cb2fcb5209d35c17e696ce3a",
+      "size": 3929
+    },
+    {
+      "path": "plugins/canvas/fakestory.js",
+      "sha256": "4eb936132564edc815911a0cd435ea0c6eaf5c738a8f8a1180ed27a8cdf371ef",
+      "size": 12305
+    },
+    {
+      "path": "plugins/canvas/fakestory2.js",
+      "sha256": "370cc24b418d82e92a37c1e3c8ae04e1cda5fb33527ba807d1825c3b68cbe3c3",
+      "size": 11690
+    },
+    {
+      "path": "plugins/canvas/fakestory3.js",
+      "sha256": "0c227dc7de0f4eb04a5eefa0dc24a553c7f79d46f847e0e8fc94a04ebb405ade",
+      "size": 14549
+    },
+    {
+      "path": "plugins/canvas/fakestory4.js",
+      "sha256": "c515c15b1af7e174ee658d6e6616c2d194e20e17447ccdb0cfc42319a736b769",
+      "size": 12360
+    },
+    {
+      "path": "plugins/canvas/gura.js",
+      "sha256": "1ac7bd63e0c0ab1245eea0896c6eed1b87bfea8e3d5102a9e7e906a1671ea833",
+      "size": 5619
+    },
+    {
+      "path": "plugins/canvas/igstory.js",
+      "sha256": "0a7652417f2ece4d9fdc890a7b8bcd5fe67a2ab771deb397a76988aed3576f2e",
+      "size": 15559
+    },
+    {
+      "path": "plugins/canvas/igstoryimg.js",
+      "sha256": "0161cdc21b3b8cf12d4be8d233ef647c444e1195c68904f6c18fb709c79027cc",
+      "size": 15394
+    },
+    {
+      "path": "plugins/canvas/iqc.js",
+      "sha256": "149176c6ba704bf944f37d189384e103f7b246cd48bc34f198fab80cbcebf6cf",
+      "size": 4177
+    },
+    {
+      "path": "plugins/canvas/iqc2.js",
+      "sha256": "d9a519decbad230423aaac016ad636f422311be0e38f90c4a2930b95cd79d2e6",
+      "size": 4815
+    },
+    {
+      "path": "plugins/canvas/iqcpink.js",
+      "sha256": "25dcfefc2c31074fd2fa8aa41b9a13c506bc95a089668bd91791104a84a7da5e",
+      "size": 23052
+    },
+    {
+      "path": "plugins/canvas/kalender.js",
+      "sha256": "7057f2c3087f0e22953b5e753e487cfdc723d286b6d69cb4b40d2488a1fd8e03",
+      "size": 29785
+    },
+    {
+      "path": "plugins/canvas/musiccard.js",
+      "sha256": "bc11c0c2ff3000d2271008a7b2226cade0c3d175b74f04c6c0f42eb5e29354fe",
+      "size": 7483
+    },
+    {
+      "path": "plugins/canvas/pakustad.js",
+      "sha256": "8820a3ce2c5d3ae4b6bf96273cc2e9bba82f4b500f8b79b57a526c40427c4a5f",
+      "size": 3794
+    },
+    {
+      "path": "plugins/canvas/profileig.js",
+      "sha256": "8d21488feb9359f315358d6a2f7cba433bbb7792772b6210b72fff0804251f0b",
+      "size": 5722
+    },
+    {
+      "path": "plugins/canvas/sroast.js",
+      "sha256": "b51973355217ea29f49cd86c4d04db910f625d13a981e29bf7c5bc6f21c652ce",
+      "size": 7061
+    },
+    {
+      "path": "plugins/canvas/starboy.js",
+      "sha256": "c0dd665f4cd4876291c3875197efbc4ea3401fa670c263dbde7d7bdada71f791",
+      "size": 4625
+    },
+    {
+      "path": "plugins/canvas/tiktokchat.js",
+      "sha256": "98615b7d5f1a470f38338d739c87380484bcd6d9bed954e9901bb55f6359630d",
+      "size": 5524
+    },
+    {
+      "path": "plugins/canvas/topixel.js",
+      "sha256": "f5d437df12db2f1d288d0aa521dceba55044467f33a19c85862c1a5529a5ad94",
+      "size": 6748
+    },
+    {
+      "path": "plugins/canvas/ttqc.js",
+      "sha256": "6e85b3c482efc783216d9697302a6fb2037aac84ad02fdaa74222ad9eb66c90a",
+      "size": 15230
+    },
+    {
+      "path": "plugins/canvas/watercolortext.js",
+      "sha256": "5c3651f6380a78064671f9720f8652978a351801b4c05a2adc898b14dfd51f8d",
+      "size": 4087
+    },
+    {
+      "path": "plugins/cek/cekbaik.js",
+      "sha256": "12c855b326c2488a1f386454e3c4a7f956629e7c7f2d3e9fb3ce94c0b1f64f6c",
+      "size": 3711
+    },
+    {
+      "path": "plugins/cek/cekberat.js",
+      "sha256": "6a47cb6f7274cd75ef4795149f9a94dfb74b17ef896e01bd5859c33177983c37",
+      "size": 3623
+    },
+    {
+      "path": "plugins/cek/cekbucin.js",
+      "sha256": "52ef149ac66327ff452086c87f6d033d79d7b52e77df66e485180c0d6e7c0992",
+      "size": 3682
+    },
+    {
+      "path": "plugins/cek/cekcantik.js",
+      "sha256": "086929c5df2655e95c60103fcd15312046399430ae8efca107750719a9c4de7f",
+      "size": 3592
+    },
+    {
+      "path": "plugins/cek/cekcreative.js",
+      "sha256": "f8b4d5bc73908227024281ce6e985541d4f842a89e180aae6b30dc22976bf37e",
+      "size": 3723
+    },
+    {
+      "path": "plugins/cek/cekcupu.js",
+      "sha256": "8e8c11b1af1afc56353d7a63effe1833f3866c14cf2dcbeb7723e6c19434f248",
+      "size": 3703
+    },
+    {
+      "path": "plugins/cek/cekfemboy.js",
+      "sha256": "2389772dcd78f4e7a29d6eec6bd89ea07ddb730bb92c66f479a6d7bb93b48d1c",
+      "size": 5556
+    },
+    {
+      "path": "plugins/cek/cekgabut.js",
+      "sha256": "46b53953e0457ac165891d49ea72f208411a4213590d0777ba5f0db061d26f98",
+      "size": 3748
+    },
+    {
+      "path": "plugins/cek/cekgacha.js",
+      "sha256": "bd2f8c1e5cf2387ac95cf4fde253d8fd2dea72560b5c6ab471afd7647075df91",
+      "size": 3786
+    },
+    {
+      "path": "plugins/cek/cekgamer.js",
+      "sha256": "f0e911612923970af4d3880efd28c81f29cad1808b66d786f58fecb1576fdcad",
+      "size": 3664
+    },
+    {
+      "path": "plugins/cek/cekganteng.js",
+      "sha256": "dfa59e00aae0de556aede9877436593ee3009dda0dc478fa2034c9f5f85f1ee4",
+      "size": 3742
+    },
+    {
+      "path": "plugins/cek/cekgila.js",
+      "sha256": "7c4156bf77a9de2419f89fa6c42fb647aff22c9277e10b009bb80151a6921c81",
+      "size": 3764
+    },
+    {
+      "path": "plugins/cek/cekhoki.js",
+      "sha256": "cc05f57331e0dcaa341b623253ada6feaf486099cb45b6a91ea9ff827d276947",
+      "size": 3630
+    },
+    {
+      "path": "plugins/cek/cekimut.js",
+      "sha256": "3a2a9837638ff32492e02abd1a413afb6ba3c1e076d0575c32b60a82beb9f376",
+      "size": 3609
+    },
+    {
+      "path": "plugins/cek/cekintrovert.js",
+      "sha256": "49e8f3e4d80a7ad625a164599669c0f02474b1b1273147d204cd9e991d0b96c5",
+      "size": 3834
+    },
+    {
+      "path": "plugins/cek/cekjahat.js",
+      "sha256": "0067d6d4d27f2a288afafc51be9135f8964d0254dd5417111a1e0ac20e9eb20d",
+      "size": 3662
+    },
+    {
+      "path": "plugins/cek/cekjodoh.js",
+      "sha256": "6388356bf2ebd81d9985d2ce434a56f6e1555993b3f761bb2d4fad682387bb10",
+      "size": 4325
+    },
+    {
+      "path": "plugins/cek/cekjomblo.js",
+      "sha256": "f3a8485b31f3ea3dbea0591f063b8f54b3e6d67c42ff1c28e0a1b8819e66521b",
+      "size": 3709
+    },
+    {
+      "path": "plugins/cek/cekkarma.js",
+      "sha256": "6ad0554e131d6aab93016e19fe3725dee1fdd41917fd686dd023f9ea239b24c7",
+      "size": 3835
+    },
+    {
+      "path": "plugins/cek/cekkaya.js",
+      "sha256": "96992c48f5bc60c73f8eaf7f72baf3065aed6635bd022111e9e6cc668d2404d3",
+      "size": 3817
+    },
+    {
+      "path": "plugins/cek/cekkece.js",
+      "sha256": "a93c56dde4867679b0273f3df8f8f6e2aa416f78f8ca92005eaadb9da6ced6d2",
+      "size": 3716
+    },
+    {
+      "path": "plugins/cek/cekkepribadian.js",
+      "sha256": "2909061f401ec99df2202b459fb48939ba7c55659ce81eee590dc7c69a621309",
+      "size": 5782
+    },
+    {
+      "path": "plugins/cek/cekkpopers.js",
+      "sha256": "c0455167803cd59bf4285f9a387cb563fea65c1eb402a374a6891c618a34f404",
+      "size": 3756
+    },
+    {
+      "path": "plugins/cek/ceklapar.js",
+      "sha256": "04bf319dbc74eecdd4ddffc8ac7515ea3fc1a1547046d0fabafc15bf9ceb6ef9",
+      "size": 3613
+    },
+    {
+      "path": "plugins/cek/cekmalas.js",
+      "sha256": "ff409ae506442f600d060ebc2b0016fb0004b3b5d20ab8ef91f33104d27b5e89",
+      "size": 3650
+    },
+    {
+      "path": "plugins/cek/cekmesum.js",
+      "sha256": "33ef6886c81161fdbadad755f9bce121489685b8067ac58e96be6a0f7eb36037",
+      "size": 3581
+    },
+    {
+      "path": "plugins/cek/cekngantuk.js",
+      "sha256": "773f14eccb30fc8efe96e4e671b64a9d2df4c5cf56165c66c1c569e5b2947348",
+      "size": 3771
+    },
+    {
+      "path": "plugins/cek/cekotaku.js",
+      "sha256": "9eb0eb93c2ecb022cfb6f197055a531ce8494d3d5a66d8c67e237c1cc92473a9",
+      "size": 3713
+    },
+    {
+      "path": "plugins/cek/cekoverpower.js",
+      "sha256": "af3f0b7668b5dfde09f9e32b45e98b8fccf5f7824c9e1d489d9c36180e615eaf",
+      "size": 3772
+    },
+    {
+      "path": "plugins/cek/cekowner.js",
+      "sha256": "eba7571226522ef85f74a6dffb0c17ec2e87ad776bf1208f1ba34a312749566c",
+      "size": 5106
+    },
+    {
+      "path": "plugins/cek/cekpartner.js",
+      "sha256": "ce6f571f0f12fc576dd9f5bd9787d5a59aeceaf1fb70b7234580ceba181a4de5",
+      "size": 5542
+    },
+    {
+      "path": "plugins/cek/cekpelit.js",
+      "sha256": "95ebcccf95c2e4e97e83ebfe94428f572c774bd552a3f1f39d0a6300b021ec2b",
+      "size": 3799
+    },
+    {
+      "path": "plugins/cek/cekpintar.js",
+      "sha256": "cfa56334a694590d09c016e00f4558319ef62d8e2ed8a3f0476e5eaa8f41fbfd",
+      "size": 3756
+    },
+    {
+      "path": "plugins/cek/cekprem.js",
+      "sha256": "48028db91ce753b50493a158568df692df5d0933221cec9cb3d3655a38ed93ec",
+      "size": 5933
+    },
+    {
+      "path": "plugins/cek/cekprocastinator.js",
+      "sha256": "96ef618e10dffbb279579df133b389eeae14873a3d187441424ab24a146841df",
+      "size": 3757
+    },
+    {
+      "path": "plugins/cek/cekpsikopat.js",
+      "sha256": "df0a5256bc5d79ae1f828498a22ac275543419b71556b77dec0ea9689891ee14",
+      "size": 3795
+    },
+    {
+      "path": "plugins/cek/cekrezeki.js",
+      "sha256": "948354e71e77a365a454c94c16a8fe9bcdccc11c0189006f4e8e5298b9a38a13",
+      "size": 3853
+    },
+    {
+      "path": "plugins/cek/ceksabar.js",
+      "sha256": "f1977b9db5b5c31d639d0377b9ffb47627db437d9ff3eb5d01a3fbc754b45967",
+      "size": 3841
+    },
+    {
+      "path": "plugins/cek/ceksetia.js",
+      "sha256": "42adb75d66d5d5f3754391ae64e1b06286537ab2b09e02a2b98bb6c2ec8e2add",
+      "size": 3793
+    },
+    {
+      "path": "plugins/cek/ceksexy.js",
+      "sha256": "5d029b7921037fa0d572630d89a1c80eaa9abdc561ccf2acc45297f93ae5a3e2",
+      "size": 3713
+    },
+    {
+      "path": "plugins/cek/ceksial.js",
+      "sha256": "3c750222debb2041dc500a3ec442db32ce354f5cc1adc94336562898aeb42ff5",
+      "size": 3631
+    },
+    {
+      "path": "plugins/cek/ceksisaumur.js",
+      "sha256": "5ddb7f65aba3356c606e6eb55a7d7594d61e538958caf6ba4f700047ccc8ecf9",
+      "size": 3790
+    },
+    {
+      "path": "plugins/cek/ceksocmed.js",
+      "sha256": "f76b371eddaf62b943c7c9656ebb93a2ed5cfbfb3970d52286cdabe05f27b105",
+      "size": 3675
+    },
+    {
+      "path": "plugins/cek/cektinggi.js",
+      "sha256": "25d01b43ec0d56e976ffe2dc432fb5637a8730ada6eceb1b6dfda70686137078",
+      "size": 3790
+    },
+    {
+      "path": "plugins/cek/cektsundere.js",
+      "sha256": "6c460aa5e8cd94864cd7a86ca5b24e0a42de7f8bc1af87b6fd9e6ea9c0d14bce",
+      "size": 3826
+    },
+    {
+      "path": "plugins/cek/cekumur.js",
+      "sha256": "5940141fb3a4746473e5e97775260fa73556873ba0edc59f087832077408bd3c",
+      "size": 3487
+    },
+    {
+      "path": "plugins/cek/cekwibu.js",
+      "sha256": "0031f1a157ebe4f341eeb24655b48297f58995187f146f0da96003f6751c0469",
+      "size": 3675
+    },
+    {
+      "path": "plugins/cek/cekyandere.js",
+      "sha256": "ae4894bb84303347dd6c8167f02fb8392b7a92804fad805bb777b7c6074f138c",
+      "size": 3720
+    },
+    {
+      "path": "plugins/clan/clancreate.js",
+      "sha256": "789567fc1f283f7e342b7397d8e54a0852fb4ee78794ad64004d4e74df8b5106",
+      "size": 6824
+    },
+    {
+      "path": "plugins/clan/claninfo.js",
+      "sha256": "49f0f1c1c90998e350d13ef246b4a1ee5a032e4221b13fe5b3c3aca0face87f3",
+      "size": 6258
+    },
+    {
+      "path": "plugins/clan/claninvite.js",
+      "sha256": "d858c94d75dbd80165fb12b4f646fd6359c34964f49c0893db9dd1f4bf9b5ff4",
+      "size": 4592
+    },
+    {
+      "path": "plugins/clan/clanjoin.js",
+      "sha256": "f2567cb8dc42f7a752e22655dd7bc7a666e51928e2590fef4e6d15c8079f1d67",
+      "size": 5092
+    },
+    {
+      "path": "plugins/clan/clankick.js",
+      "sha256": "a725d5829aefbf4e22b64a46638919742a249932aa4d0f54e2df562b69b24e4f",
+      "size": 4524
+    },
+    {
+      "path": "plugins/clan/clanleaderboard.js",
+      "sha256": "f895da5f9578f016e5b1d348d1a88622b335227b1b0ad4b69e0bd525cd0788de",
+      "size": 4760
+    },
+    {
+      "path": "plugins/clan/clanleave.js",
+      "sha256": "a57ee766e10db75b09695c0e8f7765015c22027be4cb8486219a2a0d54a38fc2",
+      "size": 4522
+    },
+    {
+      "path": "plugins/clan/clanmembers.js",
+      "sha256": "87c5a907bb1d264e2746ea5c23584dab7e84a84acceaece0ee45d54f16f88396",
+      "size": 4286
+    },
+    {
+      "path": "plugins/clan/clanwar.js",
+      "sha256": "d134d97556be62a0bdc67f9507f70fb40a213f58f29df8f2750da14a12209fae",
+      "size": 10176
+    },
+    {
+      "path": "plugins/convert/audiofx.js",
+      "sha256": "265b7c3f4f888b64f8e1a9e06d33ca419ad08ae7eca5dc819d6be28201e10b69",
+      "size": 11324
+    },
+    {
+      "path": "plugins/download/aio.js",
+      "sha256": "c7701fc4f274d2c8ae171eaca5fc91e5fba17e06745d5a8628cc1584e3edd501",
+      "size": 5303
+    },
+    {
+      "path": "plugins/download/alightmotion.js",
+      "sha256": "e80275b59a47bad3bf59e18f32b9e9025df4fcc4f88bd5ce361ee38ec9f219c4",
+      "size": 5033
+    },
+    {
+      "path": "plugins/download/capcutdl.js",
+      "sha256": "2d9b1b65c05b394f0876ebe85dbeb6aaaf6e5f368baf45c8a077f4a6fa31c129",
+      "size": 4072
+    },
+    {
+      "path": "plugins/download/cocofundl.js",
+      "sha256": "d36ff2db12076770330b75109a14f6debadf81895e78de6984f3fb8642006097",
+      "size": 4241
+    },
+    {
+      "path": "plugins/download/dailymotiondl.js",
+      "sha256": "3a72fce147591a3f5ec797f489f0a6b37ff8f0edd45bf8d428cb8dd2432a4b66",
+      "size": 5457
+    },
+    {
+      "path": "plugins/download/douyindl.js",
+      "sha256": "70211f8349d6c4bbb648471a7d3fb71fe6f414f86fab67a01480180f6b1f9374",
+      "size": 4887
+    },
+    {
+      "path": "plugins/download/facebookdl.js",
+      "sha256": "824b1535d36fcf5cedc9b809ccc94d1e63b48fe681b5eff4b50ce247f3a8f96e",
+      "size": 5709
+    },
+    {
+      "path": "plugins/download/githubdl.js",
+      "sha256": "0ee0a76efa9c446cba99b2cbc0ba04a80cc194d5ee339983af9fdf532cee608f",
+      "size": 5549
+    },
+    {
+      "path": "plugins/download/instagramdl.js",
+      "sha256": "f7eb7c379f9efd41a9b069fd5376ed1fd44c1edb4e649d7463462517da489115",
+      "size": 5017
+    },
+    {
+      "path": "plugins/download/likeedl.js",
+      "sha256": "5911cee69d50bd870e1eaf5ad350a88b04d88f977618f14942f800e4ea078a58",
+      "size": 4125
+    },
+    {
+      "path": "plugins/download/mediafiredl.js",
+      "sha256": "74329f9864cb4c2d0361de6387fc5f9580c8c9b22548e94cbb94fc53e089766d",
+      "size": 4655
+    },
+    {
+      "path": "plugins/download/pindl.js",
+      "sha256": "2fe6c9278336a4b2dfb1b08cb928f2b492687f3d563e6c531423ffaee3311011",
+      "size": 11674
+    },
+    {
+      "path": "plugins/download/pixeldraindl.js",
+      "sha256": "911a25718ec28393892952656bd3949265a35c16e7466636a0ccbd36b9109371",
+      "size": 5324
+    },
+    {
+      "path": "plugins/download/rednotedl.js",
+      "sha256": "4192f1e4e4655c528e61139f9757e270763e88fad5e8e8b831c699620354ac0d",
+      "size": 4643
+    },
+    {
+      "path": "plugins/download/sfiledl.js",
+      "sha256": "9be2d77b483c4c78f680c84ee9b6f5f8c74b1d661d5ea04ce2144554d753f83f",
+      "size": 4392
+    },
+    {
+      "path": "plugins/download/shopeedl.js",
+      "sha256": "5b553717fc9b9008ede4070d49d6c929a4c2a3faab5b918a9e72fad7bc79e97e",
+      "size": 5502
+    },
+    {
+      "path": "plugins/download/snackvideodl.js",
+      "sha256": "e5c638a55443215bea5f14f9f8b12bbd140ccfa5fe85e359df6a86e4267c6164",
+      "size": 4136
+    },
+    {
+      "path": "plugins/download/spotifydl.js",
+      "sha256": "eae8643ddff325a07e6507030e44ff203ca8e4560eb698f2227f3f22c8f16c10",
+      "size": 4697
+    },
+    {
+      "path": "plugins/download/terabox.js",
+      "sha256": "abf60f153d2135c831d05d234a1ba51c44ba9f350e79a4164841c5b6c3ac506a",
+      "size": 6213
+    },
+    {
+      "path": "plugins/download/threaddl.js",
+      "sha256": "3945b472419e8812ae4a5bd3a5d782372fc8957c1401e0fe5afcd3fce0689d8d",
+      "size": 8221
+    },
+    {
+      "path": "plugins/download/tiktokdl.js",
+      "sha256": "ac2f3ced5f72b7016adcade8b75a2ab906111a7a9e2f57c07ab7a6775b07b635",
+      "size": 10823
+    },
+    {
+      "path": "plugins/download/tiktokdl2.js",
+      "sha256": "8e014c5656ccb8439557f547e48110176f7057b65da21194b9aa6397d28b0e6e",
+      "size": 12341
+    },
+    {
+      "path": "plugins/download/ttmp3.js",
+      "sha256": "e433322027f32713133ca85b13908895d799710ff5f89b4fe5dd22a6ef621f67",
+      "size": 6913
+    },
+    {
+      "path": "plugins/download/videy.js",
+      "sha256": "fabf77609a9a21f00df2657a457d36dd6447d51efde19159ed0cb5b47cd8f514",
+      "size": 4419
+    },
+    {
+      "path": "plugins/download/ytmp3.js",
+      "sha256": "aa3f0098e214ffed6aee7d5f1980fd40bfd583f92f4033abf66690af8b735fbe",
+      "size": 4891
+    },
+    {
+      "path": "plugins/download/ytmp4.js",
+      "sha256": "790a9e2ac693477faf4a7c6953ff05b1d263a0c9da0e097dfe6b76722807cdcf",
+      "size": 4878
+    },
+    {
+      "path": "plugins/ephoto/ephoto.js",
+      "sha256": "0a438783fbd0cc8e23665dc988b02508a8b7f37e5277bb4fea12c0439bbb402c",
+      "size": 11036
+    },
+    {
+      "path": "plugins/fun/akankah.js",
+      "sha256": "e41e37fcbcfa90aa8ef37fdd13e24df7a4420100a0a61d00bd7d77f823e790b4",
+      "size": 4104
+    },
+    {
+      "path": "plugins/fun/apakah.js",
+      "sha256": "d7ddf696204f28b0e5987c567b95ebecdb15728991357581afe67b105a515464",
+      "size": 4021
+    },
+    {
+      "path": "plugins/fun/bagaimana.js",
+      "sha256": "b794ae6d0d0bda18a1b345b85e6f23fe764965edf7d7730b088bd89dd9772493",
+      "size": 4491
+    },
+    {
+      "path": "plugins/fun/berapa.js",
+      "sha256": "21759a5e557c2e8a80c5915c8b0c51d57e5ce19d1f6b9285f0a01380b6329276",
+      "size": 3542
+    },
+    {
+      "path": "plugins/fun/bisakah.js",
+      "sha256": "63039144ad71ce10531712adb768ef46eb3d0942ca3e76bea514122a3f4e9d88",
+      "size": 3988
+    },
+    {
+      "path": "plugins/fun/bucin.js",
+      "sha256": "7884d833bad1ca4c8b6bea7e0f4bbaceb192fb73d1063c532626c21ab71cd6be",
+      "size": 2909
+    },
+    {
+      "path": "plugins/fun/cekkhodam.js",
+      "sha256": "2da07e975179489f98dc612029d1a30f88f38f59ff0ff755c87aadcba8213b0d",
+      "size": 11087
+    },
+    {
+      "path": "plugins/fun/cekpacar.js",
+      "sha256": "21d5906679e8a324ad96a2297c488a5013963e47456f96c31686d2a62f075374",
+      "size": 4930
+    },
+    {
+      "path": "plugins/fun/coba.js",
+      "sha256": "3d5ac41b808b5e1ea29ec2b59571b3d7ad93eea22eda3156bf058410073f78d0",
+      "size": 4522
+    },
+    {
+      "path": "plugins/fun/confess.js",
+      "sha256": "deb202e1b20509e5cc59a05c14918622b4ab336512b4c6ea8efb81eb31d086c5",
+      "size": 8800
+    },
+    {
+      "path": "plugins/fun/dare.js",
+      "sha256": "65d250243810abd0121f8c14a8edcbdae492ffffae6ba7b0455ddcf45da6aefe",
+      "size": 3014
+    },
+    {
+      "path": "plugins/fun/dimana.js",
+      "sha256": "e981aa2ac05b253b3bf895393d3b51b8ceabffb2802a1a1e78de4bac8e50e9a3",
+      "size": 4020
+    },
+    {
+      "path": "plugins/fun/fuckmylife.js",
+      "sha256": "3db85a694b85884f12f44811a48ab55d2c6a38d7b569de8feb77ddea9f05bb87",
+      "size": 3438
+    },
+    {
+      "path": "plugins/fun/gachahusbu.js",
+      "sha256": "896ca25c4de8f44ac9b37326a14941b3418502680285b0629fc73d6a9e7dc8b1",
+      "size": 40487
+    },
+    {
+      "path": "plugins/fun/gachawaifu.js",
+      "sha256": "4210f97a54937b2519db9376204640689adcd0accfd688561d77d1186721ff3a",
+      "size": 41558
+    },
+    {
+      "path": "plugins/fun/gay.js",
+      "sha256": "67df3940fca54592612b8172d06e49da13e6e6a3230e6816f3e99a1503ce5ce4",
+      "size": 3231
+    },
+    {
+      "path": "plugins/fun/haruskah.js",
+      "sha256": "cfc6dfbe6d3f6ada365c25e1d99b65b19e53a9e3cd163b8bf43fa7c20c46a362",
+      "size": 3981
+    },
+    {
+      "path": "plugins/fun/jodoh.js",
+      "sha256": "62b96f67282b7a1fc41631e9305e7b229142efc58f0532d18039b2a4caba6915",
+      "size": 9857
+    },
+    {
+      "path": "plugins/fun/kapan.js",
+      "sha256": "fb9dc0e3fed088e476eb510833fbcb8536fdbd217e02ffe8d87f2cf28eaea2d3",
+      "size": 3961
+    },
+    {
+      "path": "plugins/fun/mengapa.js",
+      "sha256": "594eaae58ab366d98df5baf863a1aca2e0b0127ae71f7bb06004a1f0c2f56041",
+      "size": 4528
+    },
+    {
+      "path": "plugins/fun/mimpi.js",
+      "sha256": "75d1c6760fd1be888e7ba258bf7e51f68734daf0c80cb47a7b48782b3f6d554c",
+      "size": 7837
+    },
+    {
+      "path": "plugins/fun/puisi.js",
+      "sha256": "d1f4f4358d99f927f26f6bdc490491a0f0031cc21cea5210e9e464da57b4292d",
+      "size": 3582
+    },
+    {
+      "path": "plugins/fun/putus.js",
+      "sha256": "637051c7e7173dcf0ee839abbe062814af5763ae6e1bf083d5d7517de1380df7",
+      "size": 3982
+    },
+    {
+      "path": "plugins/fun/rate.js",
+      "sha256": "3d5a2202383fe469c181475a7797a408cea937dd40dcf00e20996fcdd3f8a18b",
+      "size": 4780
+    },
+    {
+      "path": "plugins/fun/renungan.js",
+      "sha256": "35a54f81d507b88f652ce42d8845ea45b017e28a540d740e926c8135a8450a43",
+      "size": 3160
+    },
+    {
+      "path": "plugins/fun/senja.js",
+      "sha256": "0ea1e84e6a6eb9d5e20889f54e732bd25885f4be3fae9209f33fd0e444373bea",
+      "size": 3722
+    },
+    {
+      "path": "plugins/fun/siapa.js",
+      "sha256": "3a28f9e8ee5c37198500bedf96381057a1c6eb2e0742dfd0b2bed8da528c41de",
+      "size": 5197
+    },
+    {
+      "path": "plugins/fun/soulmatch.js",
+      "sha256": "7e48e095fee3d99a443f2c686336496a35d98f06061138c14cdc03b2d552cf96",
+      "size": 7928
+    },
+    {
+      "path": "plugins/fun/sulap.js",
+      "sha256": "035c194b2808e739b0ca0c19ebd9965f0da5f8e6639eb289fb5f069196825340",
+      "size": 6857
+    },
+    {
+      "path": "plugins/fun/tembak.js",
+      "sha256": "1c825bc9f9cc0b37a0c1ea604d5da6cd5125ac8b4f87b483375a48907abfca1a",
+      "size": 11944
+    },
+    {
+      "path": "plugins/fun/terima.js",
+      "sha256": "b731cf1d0b9bc734005ffb8251a72efbd78734bc73742be0746c6af4170048be",
+      "size": 6766
+    },
+    {
+      "path": "plugins/fun/tod.js",
+      "sha256": "02f0b39b4a5fef1c5255acc76bddba22f56e26ab5d6f92b80ac2dfe582fe0fc0",
+      "size": 8013
+    },
+    {
+      "path": "plugins/fun/tolak.js",
+      "sha256": "bfc0ab98445a40e5e6b82571e3d37f9d4ee255e4b2414518f8835648e0f7da64",
+      "size": 6635
+    },
+    {
+      "path": "plugins/fun/top.js",
+      "sha256": "c078c6219836b0e983c3209302c754bcedfab1e4b264624bfc7bc08b6accf60c",
+      "size": 4406
+    },
+    {
+      "path": "plugins/fun/truth.js",
+      "sha256": "d643924d2bc2ef6edf2a6f1f98658ff7f5e5d6b0bd68216083a9b6f11cd835d4",
+      "size": 2847
+    },
+    {
+      "path": "plugins/game/1.tutorial_buat_game.txt",
+      "sha256": "102a982d2fea02c0d3ac963b187477464bb75220ffe5fc7e7fff3b2685d46168",
+      "size": 4945
+    },
+    {
+      "path": "plugins/game/asahotak.js",
+      "sha256": "3b53d556d80e99b2301b412751aa0272934e539097bbc79ff27dc663527e1915",
+      "size": 2537
+    },
+    {
+      "path": "plugins/game/caklontong.js",
+      "sha256": "fc466c21196688909d101221b8d662cbb1842a240773b9f86c9c74411bca72ff",
+      "size": 2623
+    },
+    {
+      "path": "plugins/game/dungeon.js",
+      "sha256": "a692f974afe67e438c9679695e42958c0948652a1b6ba23d063c4a729f575e03",
+      "size": 18602
+    },
+    {
+      "path": "plugins/game/family100.js",
+      "sha256": "4ebcb1d386983401e0640f0480ba6c950ea7455f10ce79dd654703278c9d5d97",
+      "size": 12541
+    },
+    {
+      "path": "plugins/game/fisch.js",
+      "sha256": "5089e832c21e27c6e4e909eff183e15f88a0e61a02ffb32244278e9786e82d65",
+      "size": 48622
+    },
+    {
+      "path": "plugins/game/hillclimb.js",
+      "sha256": "249bbabdf733d80723901fb10cf90ca88385d5a002a0aa974703d39cb7e45c04",
+      "size": 47005
+    },
+    {
+      "path": "plugins/game/kataacak.js",
+      "sha256": "6f05f60556948de0e05e37285038d384202f01dd64e459f221af26bc1d862190",
+      "size": 2480
+    },
+    {
+      "path": "plugins/game/kyubigame.js",
+      "sha256": "e0540f959fcda7a53a9ea6d9009d633bbcfc466ed703ac134b23d8a82c7c3956",
+      "size": 17689
+    },
+    {
+      "path": "plugins/game/minecraft.js",
+      "sha256": "9f4854690c771bebc0fda6e29909e8656abb4aa0f05d50854adc8e49d799a55c",
+      "size": 58182
+    },
+    {
+      "path": "plugins/game/riddle.js",
+      "sha256": "4153ddfdfeb14d6af181a1c51fc0aba4d27a707d2c14e835cf2bbd7f869cb2fb",
+      "size": 2668
+    },
+    {
+      "path": "plugins/game/siapakahaku.js",
+      "sha256": "df268706754066fda5f7d433b886c16c8ad8d6b192b8f1c812f2d9a27b57a979",
+      "size": 2572
+    },
+    {
+      "path": "plugins/game/suitpvp.js",
+      "sha256": "dfe84db09b3bf5cd78a70dff8b5851f8214369ed7fc820d69dd90a9d7eabeb2f",
+      "size": 11909
+    },
+    {
+      "path": "plugins/game/susunkata.js",
+      "sha256": "ea433252e9d64f6caf13363cf52996decf02b3d193fbf61336d64ef90de0b1b7",
+      "size": 2616
+    },
+    {
+      "path": "plugins/game/tebakbendera.js",
+      "sha256": "2b4461415de06faf920a07abd06625263eadefbb07e1f61d98025d977cced3bc",
+      "size": 2624
+    },
+    {
+      "path": "plugins/game/tebakdrakor.js",
+      "sha256": "bfcd9ad633c1881e86a257e66412f25a977de499fcbbed0b968e015f088a347b",
+      "size": 2498
+    },
+    {
+      "path": "plugins/game/tebakepep.js",
+      "sha256": "b88efe17ed26fa92da29f4e3874b4109b380c08dafc270d2f39f9556fd06a6fe",
+      "size": 2632
+    },
+    {
+      "path": "plugins/game/tebakfilm.js",
+      "sha256": "fa8a361d27d4695d13c1d17ef7954bd6d631491e74bc8ffbeea2bc6bcc86f594",
+      "size": 2482
+    },
+    {
+      "path": "plugins/game/tebakgambar.js",
+      "sha256": "30959d7cffa61855d6273437c959059cd711fde289f5075af28f7827418115fd",
+      "size": 2635
+    },
+    {
+      "path": "plugins/game/tebakhewan.js",
+      "sha256": "ce511d81154c20ce626889d9e930a78b151916dd46bf6e9114dd16a800b69084",
+      "size": 2453
+    },
+    {
+      "path": "plugins/game/tebakjkt48.js",
+      "sha256": "9bc132b0e2638d551912626012fa01e717dd206e146bbe5744d44225ac3b3795",
+      "size": 2588
+    },
+    {
+      "path": "plugins/game/tebakkalimat.js",
+      "sha256": "9072a2f8306a96d872bb1127cee8e298bd94ef1cec6c93f81ecea6264357a411",
+      "size": 2505
+    },
+    {
+      "path": "plugins/game/tebakkata.js",
+      "sha256": "ee598f9828a3e1a2ab27a745b9dfa7a0b368955ce97799dd95692eae27ef3c13",
+      "size": 2596
+    },
+    {
+      "path": "plugins/game/tebakkimia.js",
+      "sha256": "7418e109b7b62650a459d8504c9645652adfee16340cc0c74ec29aeaf7808b36",
+      "size": 2605
+    },
+    {
+      "path": "plugins/game/tebaklagu.js",
+      "sha256": "6fb1bb931e0e3b71d5e8974572843146a8cf60fa1c383b65fa341f0cd7556343",
+      "size": 2532
+    },
+    {
+      "path": "plugins/game/tebaklirik.js",
+      "sha256": "d26546147248faa7e679c27634ebcdee2db9bd0519ab694b93479f4f317683e4",
+      "size": 2526
+    },
+    {
+      "path": "plugins/game/tebakmakanan.js",
+      "sha256": "001270bec4230d09b5c55385f7ce8d261ecafa455f3efec2608d381668f997ae",
+      "size": 2517
+    },
+    {
+      "path": "plugins/game/tebaknegara.js",
+      "sha256": "1ecdba5df605674816fb042c25f1c47f2c115f90d9e1f06a367a297b8d101f53",
+      "size": 2422
+    },
+    {
+      "path": "plugins/game/tebakprofesi.js",
+      "sha256": "2c4ea6b04110efdfa2100cc7d0935e9904566851a06de197073eb616671215ec",
+      "size": 2526
+    },
+    {
+      "path": "plugins/game/tebaktebakan.js",
+      "sha256": "b7353576896f3230a18600bdbae3319c13697777c4de80094453271334e55cea",
+      "size": 2609
+    },
+    {
+      "path": "plugins/game/tekateki.js",
+      "sha256": "36a8e942aeca221b2cefed898f1049e44a8407549e2a63759b58c37847175a99",
+      "size": 2434
+    },
+    {
+      "path": "plugins/game/tictactoe.js",
+      "sha256": "50ff1dafc87e4b1f98c408cc3719c56a39b4389fd0506c60bc92cabfbb896a1c",
+      "size": 14214
+    },
+    {
+      "path": "plugins/game/ulartangga.js",
+      "sha256": "e42f90ea0cbba907d6806d93cef4d78e1e0ef43930a6d7873f20d6bb96e48b29",
+      "size": 24579
+    },
+    {
+      "path": "plugins/game/werewolf.js",
+      "sha256": "01eeac69a13283755c069f4a0297410370cd2745e6919046a47df5b35328f1b5",
+      "size": 49217
+    },
+    {
+      "path": "plugins/game/wwkill.js",
+      "sha256": "b5d74af8535500b61d15229d0380e41ed6f624ce737e9a0d98589df32e2bbc38",
+      "size": 2979
+    },
+    {
+      "path": "plugins/game/wwprotect.js",
+      "sha256": "9ca14a820afff3e44ae9172d17371c4b10ec63839ae95ebb69c3f6ea92f67d00",
+      "size": 3117
+    },
+    {
+      "path": "plugins/game/wwsee.js",
+      "sha256": "f0643c66d9c6a0924ead14eec41403a6d33ad97032ba5611890b340de7a87119",
+      "size": 3057
+    },
+    {
+      "path": "plugins/game/wwsorcerer.js",
+      "sha256": "e2b69b8162e2cb2d97582681b6955c49c0cba735b08e54c3f784c479343f5e85",
+      "size": 2807
+    },
+    {
+      "path": "plugins/group/absen.js",
+      "sha256": "2de030b76424d07fe8ef5aa672401540b4eed9aae874cb957f3c498dd93c96f6",
+      "size": 4545
+    },
+    {
+      "path": "plugins/group/acc.js",
+      "sha256": "028c0db05bca4207513eb8478033dad3eed0636e75ac957cc7f62dc330c357fa",
+      "size": 8419
+    },
+    {
+      "path": "plugins/group/add.js",
+      "sha256": "7158e277b9daa0c7ef280d258858bc0ee3150dd19da5ea0f66760b99967ca731",
+      "size": 9938
+    },
+    {
+      "path": "plugins/group/addantilink.js",
+      "sha256": "357925a44548c4af144ec6c0fd4aef0f56befa7f080a88c140dbe8141524050f",
+      "size": 4099
+    },
+    {
+      "path": "plugins/group/addcmdsticker.js",
+      "sha256": "cd13c1ec73f41e995645efdc4ff5d5c7f5996609544f09f3a60d5d206943b45e",
+      "size": 5176
+    },
+    {
+      "path": "plugins/group/addtoxic.js",
+      "sha256": "093b88a39c13d9428509aa043d3f6d9db5384e439b47853ef1599d8a9ebcaa15",
+      "size": 4337
+    },
+    {
+      "path": "plugins/group/afk.js",
+      "sha256": "8f533c812e5e3657ff2dd945651822867887d4d93cea777fa2a03a05de27955d",
+      "size": 5716
+    },
+    {
+      "path": "plugins/group/antibot.js",
+      "sha256": "f2044db96611addf5da560b91674253cd29418c47fa7a21edcb3540450bf73d1",
+      "size": 12488
+    },
+    {
+      "path": "plugins/group/anticulik.js",
+      "sha256": "0612a2648a1cced04eb68cb5a3c85a09e6ddf0329040a78d524a64e9df0b0370",
+      "size": 7152
+    },
+    {
+      "path": "plugins/group/anticustom.js",
+      "sha256": "128b2f32607f3262a0c2fd5364310bedbb740c58993065ba53258ef8b834b9fc",
+      "size": 19610
+    },
+    {
+      "path": "plugins/group/antidocument.js",
+      "sha256": "6cd28a4dd9c701e1b7eaa2c2ca3f4c4a66001db8819415f173005369d7240900",
+      "size": 5246
+    },
+    {
+      "path": "plugins/group/antijudol.js",
+      "sha256": "2e5f08d0c684c8c914dd9d91744ea75baecfc08ac91c54ec8c82bf27625f4ab2",
+      "size": 5685
+    },
+    {
+      "path": "plugins/group/antilinkall.js",
+      "sha256": "8e732f1a0215013688d14d6c7294273def89abe378517f1ba7b2887ce1d46c3e",
+      "size": 6535
+    },
+    {
+      "path": "plugins/group/antilinkgc.js",
+      "sha256": "d5f9bf4a21bae08045af165f47c7d9af33880402df02dc4ffa4dda8934c1cfc6",
+      "size": 6321
+    },
+    {
+      "path": "plugins/group/antimedia.js",
+      "sha256": "b08797c405815a765d44150461c32789c6e34d7d476aa2bfc441132aea6a1142",
+      "size": 5408
+    },
+    {
+      "path": "plugins/group/antinsfw.js",
+      "sha256": "04e346d9f188b9082e852c200a67a09032c6cfac4416dd726e310902413cac27",
+      "size": 6719
+    },
+    {
+      "path": "plugins/group/antiphising.js",
+      "sha256": "0f1f6514bae890263b5b609041327622781fa518bd254b232144290bc82339f5",
+      "size": 5756
+    },
+    {
+      "path": "plugins/group/antiremove.js",
+      "sha256": "7ac4d3694dd8eb2cd9d3489f7dbbb33dfdbd3d8cd5fb071c8ace16c509bf1d6f",
+      "size": 3937
+    },
+    {
+      "path": "plugins/group/antispam.js",
+      "sha256": "8672cb61bebd21c71cc7db237c4895f1bd1877a1777cf523a0b3f0d00c3bca58",
+      "size": 11645
+    },
+    {
+      "path": "plugins/group/antisticker.js",
+      "sha256": "f4a0b47b4a824e2f61221a3bcf2d89b80aa48ede5d3570a24f3a644460723a0b",
+      "size": 5204
+    },
+    {
+      "path": "plugins/group/antiswgc.js",
+      "sha256": "a30e7d975464796b26e4197a5519ec45a6fd9340be32c4d5fa8eb515b0500a9d",
+      "size": 4333
+    },
+    {
+      "path": "plugins/group/antitagsw.js",
+      "sha256": "a1c87dcd36ce2ca730808b0d563335f2fca1e537c9672fd903d228e72d7026bd",
+      "size": 4458
+    },
+    {
+      "path": "plugins/group/antitoxic.js",
+      "sha256": "061cd1d65b427b3f805af4f1e57ad2bbf5c2350485665ef9555ac416d06fb65a",
+      "size": 9646
+    },
+    {
+      "path": "plugins/group/autoai.js",
+      "sha256": "77be1956e658fdfe3970db73a9f87a0fd8d6cd45296905d54284c8d4a79935fc",
+      "size": 26947
+    },
+    {
+      "path": "plugins/group/autodl.js",
+      "sha256": "698646f91192fb3ff88da4ba43d6f142f5c79781bab09dfbde3ca7c7b2489b6d",
+      "size": 4476
+    },
+    {
+      "path": "plugins/group/autoforward.js",
+      "sha256": "5a042b36dafe1834072aabd6a33a31d3eb67fda08d666dd172f87994baca46f0",
+      "size": 4383
+    },
+    {
+      "path": "plugins/group/automedia.js",
+      "sha256": "cc0c148062fc11c09bcdf91f1623e87fe94896501e16e474447ebb32322543ae",
+      "size": 5720
+    },
+    {
+      "path": "plugins/group/autoreply.js",
+      "sha256": "6f5abf053bfa2f94562f7633144ed3aaf780c9e333209d4d865398a1f0a025b2",
+      "size": 21709
+    },
+    {
+      "path": "plugins/group/autosticker.js",
+      "sha256": "255cb59c5a0b70f082402fdc29a150f5619c308588f4920bcd1a90e335d0d1e8",
+      "size": 6811
+    },
+    {
+      "path": "plugins/group/banchat.js",
+      "sha256": "a1084ce5a4c56964cd2afa71f3ef58553f63b166889a902c03e3c74c7d48711d",
+      "size": 5434
+    },
+    {
+      "path": "plugins/group/botmode.js",
+      "sha256": "ab724ead6ef511a7a964d49302f8887bb3636767d2b13d6fc7786c5e0041e1e7",
+      "size": 8359
+    },
+    {
+      "path": "plugins/group/cekabsen.js",
+      "sha256": "f8e8833824e3cd91b65c8b6af649d4b8124fd12c7fdf874f73eb336fb8e96d3b",
+      "size": 4882
+    },
+    {
+      "path": "plugins/group/cekidgc.js",
+      "sha256": "96a69c6c017344456b0cb14c9e960c93671897619f8d2c5bd8b1a84eb294cc4e",
+      "size": 12056
+    },
+    {
+      "path": "plugins/group/cekonline.js",
+      "sha256": "a1c06fc36affcb588981f993b8e55838e42dc536a91a8ed227d0640c2823df81",
+      "size": 6463
+    },
+    {
+      "path": "plugins/group/checksewa.js",
+      "sha256": "a4d6e06e36942c0d3e457acbeb12d64350faa5f765e3c6e24f238e02af752824",
+      "size": 5798
+    },
+    {
+      "path": "plugins/group/clearchat.js",
+      "sha256": "33c7406853e389f257847470df144e6494ace936dca5eb506af25021093e30be",
+      "size": 4169
+    },
+    {
+      "path": "plugins/group/close.js",
+      "sha256": "f190fdb9b04407da686213621bb117583d38e571de5ce342751b227c11a019be",
+      "size": 3532
+    },
+    {
+      "path": "plugins/group/delantilink.js",
+      "sha256": "0160806f1bf7f44b26b5a2f9891fa57f4ebb29432deede31afb623ec78302f59",
+      "size": 4343
+    },
+    {
+      "path": "plugins/group/delete.js",
+      "sha256": "8ce778a8389ace3d4f8082674af39be03c0fede81b733628de27892eb67157c2",
+      "size": 4421
+    },
+    {
+      "path": "plugins/group/delppgc.js",
+      "sha256": "2f061748ee7896762071405048cf8eeeac0c62680e62b1b426b3a390d3cb7a48",
+      "size": 3175
+    },
+    {
+      "path": "plugins/group/delstickercmd.js",
+      "sha256": "266c347118d283876aed25149fc9935d4758a716e501ec7ddf87127ceee8f111",
+      "size": 5262
+    },
+    {
+      "path": "plugins/group/deltoxic.js",
+      "sha256": "6e93045fbbe4ca95dc4701c642d4470aa5e35c53919c4d01175075376fa0437e",
+      "size": 4085
+    },
+    {
+      "path": "plugins/group/demote.js",
+      "sha256": "1b3660b950281fe775257ab32f0ff5fcfe02b8a5e4d3e0b76be2aceab219c1f6",
+      "size": 4475
+    },
+    {
+      "path": "plugins/group/game.js",
+      "sha256": "1c40c28c47bd3448e39bec754788444a94a9183faa5896d989d9d2abc37074f2",
+      "size": 4375
+    },
+    {
+      "path": "plugins/group/getpp.js",
+      "sha256": "52547f82dee0557c460245288bb9c634a3eb00b280093d6fd62d161ad90b06b3",
+      "size": 3712
+    },
+    {
+      "path": "plugins/group/giveaway.js",
+      "sha256": "5843327b099fc5a8f93ef2412c161160cfd7fbbc287a5b92883b0c9cce0fe849",
+      "size": 24305
+    },
+    {
+      "path": "plugins/group/goodbye.js",
+      "sha256": "6b7a84682c77c762e196c05aac1ea989913ed6faf742cb7e9c80b4d79c015ba0",
+      "size": 19031
+    },
+    {
+      "path": "plugins/group/groupinfo.js",
+      "sha256": "5dd8d104380a77f279f8805c53be73055e54939f0faa5b965166f1d3f4c030ca",
+      "size": 7602
+    },
+    {
+      "path": "plugins/group/hapusabsen.js",
+      "sha256": "b6ab1c72324d5ab05316c5ecb8577485ce9b93d00ade2213efc213a4feb57c68",
+      "size": 3384
+    },
+    {
+      "path": "plugins/group/hidetag2.js",
+      "sha256": "6a2e369a99841ebc0ee638ef69d58c80d196b1ef5de907ab2c9f5c4b4f28763a",
+      "size": 6188
+    },
+    {
+      "path": "plugins/group/ht.js",
+      "sha256": "0b6a08c8321ec0ff3d94698fede5080bad10317d8f74047ef9c6cbc3a12f9c44",
+      "size": 6169
+    },
+    {
+      "path": "plugins/group/htpremium.js",
+      "sha256": "101282376a3cd2f71f58c463935f3d94399a82533606c9db7309a40a06ec7bd9",
+      "size": 6622
+    },
+    {
+      "path": "plugins/group/intro.js",
+      "sha256": "f398f2a4fe35ebecdebfb5a73fa31b7c5f9251b81f8a6b7c50419ff1ad2792cc",
+      "size": 4463
+    },
+    {
+      "path": "plugins/group/jadwalgroup.js",
+      "sha256": "c6041586d0519ced44589f2d9430f870a64a338f61d4567e31f25577f3b64381",
+      "size": 7832
+    },
+    {
+      "path": "plugins/group/kick.js",
+      "sha256": "f5b0a7e00ed49de933562f021d49389ea5daaea9e3348eb29515dce41238cfb5",
+      "size": 4691
+    },
+    {
+      "path": "plugins/group/linkgc.js",
+      "sha256": "e1986832f45183b138f8a0047dd6f1bd4470ba62a73defb8aaa8bcba0fe2b149",
+      "size": 3309
+    },
+    {
+      "path": "plugins/group/listadmin.js",
+      "sha256": "593fee6e9056cfa8e9f52726ac781c9f98305d7dced638630885097c5273b34c",
+      "size": 4433
+    },
+    {
+      "path": "plugins/group/listantilink.js",
+      "sha256": "5168a18446071952569366d3b54a9c6cc970dc0b9d0596f71ebbcb59a83a2734",
+      "size": 4308
+    },
+    {
+      "path": "plugins/group/listtoxic.js",
+      "sha256": "556fe51e742cd71d1cf860f7b7ecf7e7af2f99c1679c98006520289f46d0c5d5",
+      "size": 4101
+    },
+    {
+      "path": "plugins/group/listwarn.js",
+      "sha256": "04ce84fa0cc96e8f0e4cdf7e2ea0c267c9a6c3e6a78a7f78bbbec7d9f5088dc0",
+      "size": 5173
+    },
+    {
+      "path": "plugins/group/mulaiabsen.js",
+      "sha256": "8c6a0e8c620e26a6ad61922aa6146e892dd7016cfd21c705866f0107d1e9ab33",
+      "size": 4580
+    },
+    {
+      "path": "plugins/group/mute.js",
+      "sha256": "fc207f3a473b1857736c0ce11000771f8834358f3ac433b34c89db9cbdb6f604",
+      "size": 3624
+    },
+    {
+      "path": "plugins/group/mutegc.js",
+      "sha256": "77c2d636607871c582bc66106d3380a636fea0688b42902122b54dcd59011ca3",
+      "size": 4061
+    },
+    {
+      "path": "plugins/group/mutemember.js",
+      "sha256": "14853dd5c8db2ab633387878f162ed668f806fc6741d4e4c326b33b1f14ab72a",
+      "size": 6764
+    },
+    {
+      "path": "plugins/group/notifclosegroup.js",
+      "sha256": "fb434ad4956b05fc4ce2e4014896d9fa3b88b08fdf464e982e80fac9521b1e8f",
+      "size": 4294
+    },
+    {
+      "path": "plugins/group/notifdemote.js",
+      "sha256": "ad92c88ce43407cf4e7ff27d62c3f30607d68882e6e73da321cdf66fd2ae5a07",
+      "size": 4184
+    },
+    {
+      "path": "plugins/group/notifgantitag.js",
+      "sha256": "fbeefecadecb7ffffbad5ac800e8c3db125a94feb4cd87e3a29c1fd0f0f7fa07",
+      "size": 10200
+    },
+    {
+      "path": "plugins/group/notifopengroup.js",
+      "sha256": "054ecd1b891e574f70c9efa46a20a9bb513858f6fa0a09e3799185d29d21f126",
+      "size": 4115
+    },
+    {
+      "path": "plugins/group/notifpromote.js",
+      "sha256": "366d6daa037c3597930cb7251fcc26545a54622ba71bbded5bc59f3853aaf1f1",
+      "size": 3946
+    },
+    {
+      "path": "plugins/group/notifsholat.js",
+      "sha256": "e352845117c4209a60402389b6ab66ceda0378f73d80471012750a51c40f5124",
+      "size": 5321
+    },
+    {
+      "path": "plugins/group/open.js",
+      "sha256": "259bf2b57116ad2112863f13633589c77e3253649ed4344e2718821703ef98b1",
+      "size": 3659
+    },
+    {
+      "path": "plugins/group/openvo.js",
+      "sha256": "cb77e124363daab8b714b2edeeca3745cb33dccb7314d4f4dbfdb095a2d74d6a",
+      "size": 5649
+    },
+    {
+      "path": "plugins/group/pinchat.js",
+      "sha256": "b2f3700b30eeb1a1ce2133270ed7f3165065f5ab6fde197193926f36eb2769b3",
+      "size": 4303
+    },
+    {
+      "path": "plugins/group/poll.js",
+      "sha256": "0a19bea674592de2d6eec85ca883fc9b5a0b69dc08cc91b1e007590c1a6586cb",
+      "size": 5039
+    },
+    {
+      "path": "plugins/group/promote.js",
+      "sha256": "d50a49e0bb88aabb817706e1e62689382bc147bf89bc67477f0fb21c01ff5a11",
+      "size": 4372
+    },
+    {
+      "path": "plugins/group/publicthisgc.js",
+      "sha256": "f84878a4caaa2979174b2a3de0e7231e7e6fc2c7d357a999de141779d25214e0",
+      "size": 4348
+    },
+    {
+      "path": "plugins/group/resetgoodbye.js",
+      "sha256": "cecf848aa454c933eeed310f94ccc8ff37f75f06b46d17cc6cebd547439ec3fc",
+      "size": 3319
+    },
+    {
+      "path": "plugins/group/resetintro.js",
+      "sha256": "38512b4d107a93ffdb7aa086e5871661975d920d5950c0bebb64c96574a2441c",
+      "size": 3471
+    },
+    {
+      "path": "plugins/group/resetlinkgc.js",
+      "sha256": "9c9951c51d795b2cb655f8c937fde793bb5d1d36a11d095f3cdf30bfd0bfacdd",
+      "size": 3399
+    },
+    {
+      "path": "plugins/group/resetrulesgrup.js",
+      "sha256": "511444ac8a008b993f4d6f4305bbbb27af85add89c1146d42ad64fc096804706",
+      "size": 3037
+    },
+    {
+      "path": "plugins/group/resetwarn.js",
+      "sha256": "1ed8e244b535ca67e0c794e9f2635d09872fe0d7506665635b7e390ffd8f6c29",
+      "size": 4244
+    },
+    {
+      "path": "plugins/group/resetwelcome.js",
+      "sha256": "27845277bcc6b9dad8aa1d2f4f3c1cae1eaf030399a806d923f49e2bb09bc9e5",
+      "size": 3252
+    },
+    {
+      "path": "plugins/group/rpg.js",
+      "sha256": "e8993dcb163d4336974e54b54772dc25ed1ead4f87ea253ecfcbb155b9ed30c7",
+      "size": 4291
+    },
+    {
+      "path": "plugins/group/rulesgrup.js",
+      "sha256": "2c3a0de356ca8787e293fd3a308f0c6e7f47b637785def7c3618421add3d892e",
+      "size": 5330
+    },
+    {
+      "path": "plugins/group/selfthisgc.js",
+      "sha256": "e0facbd77eab880fcc8b07372dd4cac8e4c6bb5b829ee90ba849f51fd16ce1af",
+      "size": 4095
+    },
+    {
+      "path": "plugins/group/setdeskgc.js",
+      "sha256": "e833778452fd384ca4914dc31500a4fc445367c2c2c07d743107030b46aa1640",
+      "size": 4080
+    },
+    {
+      "path": "plugins/group/setgoodbye.js",
+      "sha256": "83c7a4840e2847cf834a08b7641b70f4f7c8b9e0a9faaf99522f56563954950c",
+      "size": 4575
+    },
+    {
+      "path": "plugins/group/setintro.js",
+      "sha256": "b09827a824a922872ed90ce17e1a520dd805e87de60d4cafcdcede9e3499b470",
+      "size": 4195
+    },
+    {
+      "path": "plugins/group/setnamegc.js",
+      "sha256": "7eee79e7bdf8777ed1226f9e7026f22dd49dd5916df10016190a06dfa6e8e301",
+      "size": 3731
+    },
+    {
+      "path": "plugins/group/setppgc.js",
+      "sha256": "4e3f9930b6a244c0080a1569ad015686edb6a7d2d3d978e26f25b8af2e5ce4a7",
+      "size": 3833
+    },
+    {
+      "path": "plugins/group/setrulesgrup.js",
+      "sha256": "88f7156d200941dd2485bd61032176c9fa9e489e207bbddbeb6c491d7a10451e",
+      "size": 3763
+    },
+    {
+      "path": "plugins/group/setwelcome.js",
+      "sha256": "618644c2b3d51a11bbeb723dfddda0841bfb762666438ba7b1767b074a88b54a",
+      "size": 4513
+    },
+    {
+      "path": "plugins/group/slowmode.js",
+      "sha256": "907e127d55a77f7c9492865cec3fa10f24677e14d277a3b2570e482651bf93fd",
+      "size": 7218
+    },
+    {
+      "path": "plugins/group/tagall.js",
+      "sha256": "6dd802432adf3fa8dca17cad08aa711bee366e92cd463e66c089c23e6bc90e46",
+      "size": 4183
+    },
+    {
+      "path": "plugins/group/tam.js",
+      "sha256": "abf1bfb69607c735da37343928fb61db89b90cb3a456da19d057f14ba450c886",
+      "size": 4718
+    },
+    {
+      "path": "plugins/group/topchat.js",
+      "sha256": "3d08b07a988adf179fd272a55e6a79098004b74e00407b136a8c76db1001e675",
+      "size": 5153
+    },
+    {
+      "path": "plugins/group/totag.js",
+      "sha256": "f7382f9ed810df015815212461490349217360ad8cb04c25c7701819d47e7b1f",
+      "size": 4091
+    },
+    {
+      "path": "plugins/group/unmute.js",
+      "sha256": "97fe0f59a266a07c3a3e0d4fb0d50a930d10524494b08129c1de7ff9036cb617",
+      "size": 3360
+    },
+    {
+      "path": "plugins/group/unmutegc.js",
+      "sha256": "60fcc2bcef733ff9c1837b01493a6e7f25900872211a9fcd0173c736f97f5342",
+      "size": 3703
+    },
+    {
+      "path": "plugins/group/unmutemember.js",
+      "sha256": "179e237abef3eac5c9c9074fc85a91b1846c9d13bfaee97832e1839a0986d9c2",
+      "size": 6226
+    },
+    {
+      "path": "plugins/group/warn.js",
+      "sha256": "6f228cbf25a4f133c19d8c81f2e40cc0406916c8da53a4c50037694f5c20bafd",
+      "size": 8827
+    },
+    {
+      "path": "plugins/group/welcome.js",
+      "sha256": "eefe379c3170f5ffdddfb09f6c543831b90beb0c456626145f897c4754019ed4",
+      "size": 18016
+    },
+    {
+      "path": "plugins/info/benefitpartner.js",
+      "sha256": "42d03dedaed78b61aee6a7aefa2fe104511b38c5ede921142f440b088af2f358",
+      "size": 4696
+    },
+    {
+      "path": "plugins/info/berita.js",
+      "sha256": "6fe14b3ebed2a9ec51a83ff2a9fb07527d164e121e713274ebe909c080c171f8",
+      "size": 7528
+    },
+    {
+      "path": "plugins/info/bluearchive-char.js",
+      "sha256": "be8c4bf9ea4c2efc5a70f7f1da51808366c2b8a652e2e744293e4b60209a55ee",
+      "size": 9126
+    },
+    {
+      "path": "plugins/info/fiturpremium.js",
+      "sha256": "fee8c42bec6372c09c81372ff753d087069ac34c0eb1bbbc2d3204ee961cd660",
+      "size": 4201
+    },
+    {
+      "path": "plugins/info/gag.js",
+      "sha256": "6da8dded5318c2d30c84f43a1af899469c352fec6a82e3cacad89e47ae2bbabd",
+      "size": 5044
+    },
+    {
+      "path": "plugins/info/gag2.js",
+      "sha256": "5c379c1303b839af56eee07e601e59b3efe3a640e142509fd8d600e304b0cf04",
+      "size": 9328
+    },
+    {
+      "path": "plugins/info/gagwatch.js",
+      "sha256": "cf76812ba04f431428e813e822d85b8fd1e28408e5377aae91aff6419a0fc9cd",
+      "size": 4951
+    },
+    {
+      "path": "plugins/info/gempa.js",
+      "sha256": "ac3e10b4ba44d4213001a346c93038449ce06af7f84f258c1db1d0545f7361bb",
+      "size": 4989
+    },
+    {
+      "path": "plugins/info/harilibur.js",
+      "sha256": "a41834dcee61b95dbbeea1f2a06307feee405f94112aaa8dc6810cb80a4f4bcf",
+      "size": 4777
+    },
+    {
+      "path": "plugins/info/howmuchenergy.js",
+      "sha256": "60d1b9aaaab32c27bf795b200f82eece8998ca967ad9f46329cb7e7511c3556a",
+      "size": 4513
+    },
+    {
+      "path": "plugins/info/infotourney.js",
+      "sha256": "404e747f59e28a11114f6d8760dd9154f7835d1c12c107a9360f6c83b1b3d822",
+      "size": 6425
+    },
+    {
+      "path": "plugins/info/jadwalbola.js",
+      "sha256": "66eebfebbb526910319c1f10d2a83a4903a8b83a0f17e2dc860bf43233affc25",
+      "size": 6475
+    },
+    {
+      "path": "plugins/info/livescore.js",
+      "sha256": "3fe9175d62198cdbadbe033c0303c4ae1529696233cd5079e970be17bd655d66",
+      "size": 8211
+    },
+    {
+      "path": "plugins/info/whatrolethis.js",
+      "sha256": "7828924849553f9f5e92567880203639e247715f602ab0216fcd995e2de5167b",
+      "size": 5398
+    },
+    {
+      "path": "plugins/islamic/murrotal.js",
+      "sha256": "0d4e2d787655cf30fa2dd0c98332da5d8839184da72349a5fa25617859acbdae",
+      "size": 4766
+    },
+    {
+      "path": "plugins/islamic/quran.js",
+      "sha256": "4f6c9807810355335da233089aaeadc4b53f42c73877421d3a2b5ce21f26fc2e",
+      "size": 6375
+    },
+    {
+      "path": "plugins/jpm/jpm.js",
+      "sha256": "e182a3dcf8a86b6d80f6c40d27926e90930c6d9f0ed789a93356528fe363808a",
+      "size": 57001
+    },
+    {
+      "path": "plugins/main/allmenu.js",
+      "sha256": "43790861605b98748abac4cfc25e453e7e30daf3d73e4b00939d23615862fd25",
+      "size": 22748
+    },
+    {
+      "path": "plugins/main/benefitowner.js",
+      "sha256": "977bee7572be5dea396ea03be40b9c8b1d9e256a09046904de444c27b8df4b12",
+      "size": 5197
+    },
+    {
+      "path": "plugins/main/benefitpremium.js",
+      "sha256": "bf3c331f730df3818f72de79c35deab4292de231631d23109c18379874f5209d",
+      "size": 5763
+    },
+    {
+      "path": "plugins/main/carifitur.js",
+      "sha256": "43d99911c5dc654bbcef7b2ce52d160bc10a411cebd83406147c3a85ea0aaa21",
+      "size": 12674
+    },
+    {
+      "path": "plugins/main/donasi.js",
+      "sha256": "86bcf8162b4889343fa3f20bc413af2b3bcf20a3eb83e6a416ea3a0dcdb945ad",
+      "size": 6350
+    },
+    {
+      "path": "plugins/main/gacha.js",
+      "sha256": "470f365b733a9b81df9fb7369e49e68abf496fe6545219dc4ebef4ee5dcd1ecb",
+      "size": 7632
+    },
+    {
+      "path": "plugins/main/jadibot.js",
+      "sha256": "b6f5ceefe577754a53c21b9672105cb9c698eaa16f326fb665c746d2ed27f80f",
+      "size": 4060
+    },
+    {
+      "path": "plugins/main/leaderboard.js",
+      "sha256": "e25dcbca12b01171561b48c660114e4bd750120098433db1b96d5c46d828a724",
+      "size": 10252
+    },
+    {
+      "path": "plugins/main/menu.js",
+      "sha256": "61f920bb56ebf4fdc9a44d5e2e04ee70d65e97e91fea91d06edfb5a7e4c0f034",
+      "size": 57019
+    },
+    {
+      "path": "plugins/main/menucat.js",
+      "sha256": "9b6ffffd9d6799941f1b3e5eb3d12d9cfa180e1728361cad261658b624cdbeb6",
+      "size": 25672
+    },
+    {
+      "path": "plugins/main/owner.js",
+      "sha256": "199b4a4f1ac6d438e175414492b692ec3ce9cccda2ba54dade342b281fb2e285",
+      "size": 5308
+    },
+    {
+      "path": "plugins/main/ping.js",
+      "sha256": "752d11144201d60add1400385018f90e3b3ede75d287fff9a277e362ccd65930",
+      "size": 22937
+    },
+    {
+      "path": "plugins/main/ping2.js",
+      "sha256": "91aa75508eb3069305e0f75a64bb000036a205b53e366f06c42e091440f48d18",
+      "size": 8496
+    },
+    {
+      "path": "plugins/main/rules.js",
+      "sha256": "791985c2973e1e751e10dda97d59ecd51f50b9bcb81efcdc8d467af9a737c5c3",
+      "size": 6257
+    },
+    {
+      "path": "plugins/main/sc.js",
+      "sha256": "2a9973327a2e48b9b13d904a3fd41121ae815637f0492144fe8790f9340d63e3",
+      "size": 3492
+    },
+    {
+      "path": "plugins/main/stats.js",
+      "sha256": "5e4a077c5c136699efd9b793326e26d4700d85a33842f14af00e33609a44201c",
+      "size": 6736
+    },
+    {
+      "path": "plugins/main/stopjadibot.js",
+      "sha256": "817c12052b431d9e6c4ced38f2cb8cd5cd7aa8a2f2a38b74adb4aec6114f5239",
+      "size": 4462
+    },
+    {
+      "path": "plugins/main/system.js",
+      "sha256": "9dabd0c4e47c1bdd4bfa22d169a2dd970f81944ff23df9721fdba485ab6d5c41",
+      "size": 7334
+    },
+    {
+      "path": "plugins/main/totalfitur.js",
+      "sha256": "802c2bca278f1e19ad576b38120e97b3411d8f9b111c8c6da20d5f10425368c7",
+      "size": 5193
+    },
+    {
+      "path": "plugins/main/tqto.js",
+      "sha256": "29f298ca4c20a2b17b20626924663da85e50108d0cf60ee9d4be2b32a0a5fec6",
+      "size": 4247
+    },
+    {
+      "path": "plugins/media/mengkane.js",
+      "sha256": "c6f57e27d513c3600280aa56eed2b38eb44fa818bf4a2961626fb8184be610ec",
+      "size": 4383
+    },
+    {
+      "path": "plugins/media/music.js",
+      "sha256": "91cd7c4d5e2b8c48b892b9e4a359437ac436311b6843bc07120bcaeaeb62e3b1",
+      "size": 3596
+    },
+    {
+      "path": "plugins/nsfw/nsfw.js",
+      "sha256": "e37fd1726b7c8cca371497ef344f5543d66f1a0b6f6840eae350ef95878a3fa6",
+      "size": 13881
+    },
+    {
+      "path": "plugins/nsfw/paptt.js",
+      "sha256": "7eed632408a86ab1b4ae9e06c34eecb344916339d7a1e535a799f8d62bcd8ba6",
+      "size": 3613
+    },
+    {
+      "path": "plugins/owner/addenergi.js",
+      "sha256": "6f7a304425529eb4ea3ae63a72ccd906694f56e4085ff342bd000c1fe10fc697",
+      "size": 5957
+    },
+    {
+      "path": "plugins/owner/addexp.js",
+      "sha256": "7e94bb9ea4f5d9c796bd3e72710458b0d1a4e5f29ed46046e8649ae045741a74",
+      "size": 4788
+    },
+    {
+      "path": "plugins/owner/addkoin.js",
+      "sha256": "ac6348f32729231ff6dad0743d46e8eeea8a8793c25bc173dbd6f45a9e7d52c6",
+      "size": 5041
+    },
+    {
+      "path": "plugins/owner/addlevel.js",
+      "sha256": "1df65fdd8c8ae6113fa5daedc3ad538c2581050cf1859c76297ec17227da4b35",
+      "size": 5604
+    },
+    {
+      "path": "plugins/owner/addlimitall.js",
+      "sha256": "6e190bd4dbc222df88fabc61381a939602962623ee4aa5d4811fc711780046b8",
+      "size": 4424
+    },
+    {
+      "path": "plugins/owner/addowner.js",
+      "sha256": "85f132fcb38d52ee7c52ac1ff792ef905c6e5cc1145548502c1dd8b52cdb4e58",
+      "size": 16077
+    },
+    {
+      "path": "plugins/owner/addpartner.js",
+      "sha256": "c77a494dcb54a9b73bd8236c5f765539f8dd42e365bb694dd5797c7a6d9bee54",
+      "size": 8231
+    },
+    {
+      "path": "plugins/owner/addplugin.js",
+      "sha256": "4ae7f7523ec63faa5f761de75d154b3b36937e63543779bd78de84cbb0a4fec8",
+      "size": 7767
+    },
+    {
+      "path": "plugins/owner/addprem.js",
+      "sha256": "788c3592116b220e04a7c4359d4ca9a9bea651dc38c154440b12c69b700bd752",
+      "size": 11915
+    },
+    {
+      "path": "plugins/owner/addpremall.js",
+      "sha256": "87ddea08d0a299296f538aca60cdf3051a916ed0edd5ee88770da4e2963fcad1",
+      "size": 5295
+    },
+    {
+      "path": "plugins/owner/addsewa.js",
+      "sha256": "e37c15eb3b40e080ab9fd9c47f1618c2a9c5f5ace91cb2d49b5ffd7ab12defef",
+      "size": 10080
+    },
+    {
+      "path": "plugins/owner/akses.js",
+      "sha256": "40876ddf4ae0c1fd39d9ff4681607c039cabf2ac98cf30160c0aebcedf45cb90",
+      "size": 10223
+    },
+    {
+      "path": "plugins/owner/aktifaudiomenu.js",
+      "sha256": "cc5f833a6dfa853669e785d45b9ee1eef64abab43b43556705498d065d0f41db",
+      "size": 4662
+    },
+    {
+      "path": "plugins/owner/anticall.js",
+      "sha256": "5d62ba0cdca36a4da903bfbe9b307e9ba196558b45e70a4ee708ce0e34a8bd58",
+      "size": 4374
+    },
+    {
+      "path": "plugins/owner/arsip.js",
+      "sha256": "36d3cd46a7b5d2b948d5cdf9e019adcc82eebfdf482bc510d5bb0c15eadc9a8c",
+      "size": 5894
+    },
+    {
+      "path": "plugins/owner/autobackup.js",
+      "sha256": "cfb811c58e2ca8eaa3b2650ff615c87f1f346d7fbf1965c722baecde6f3c72c9",
+      "size": 9335
+    },
+    {
+      "path": "plugins/owner/autobio.js",
+      "sha256": "7cc28f9ce6607df657906caafc76c1554956acfb0f874541a85bf642f2c511c3",
+      "size": 7196
+    },
+    {
+      "path": "plugins/owner/autojoingc.js",
+      "sha256": "bdeb52aa9de3a6dc3c165c31f1a99b72ee39e79340cb86b46585f84acaa550c9",
+      "size": 5180
+    },
+    {
+      "path": "plugins/owner/autoreactsw.js",
+      "sha256": "c9e2a9e939d1d002a38be99f60edeb3ed46d1d37f8dd8325cec24dbd4007d6c0",
+      "size": 4739
+    },
+    {
+      "path": "plugins/owner/autoread.js",
+      "sha256": "31f260a070a6cadd3c3fd4866e4b68d322c6bc074c5ef49ddf43eb7372d5c9ad",
+      "size": 4241
+    },
+    {
+      "path": "plugins/owner/autoreadsw.js",
+      "sha256": "7abe6989a5476da61ed84b50c65e6a343ea5155d215944f952f213692f7aa726",
+      "size": 4174
+    },
+    {
+      "path": "plugins/owner/autosambut.js",
+      "sha256": "8b84019d4f58107607e5ff31722f31e917e1ff8d0d1f559e984d3e9d082d3140",
+      "size": 14735
+    },
+    {
+      "path": "plugins/owner/autosholat.js",
+      "sha256": "c915c575bc239225693d09d7d956c33a4d6497443bc4564392e40af317b8e25c",
+      "size": 15055
+    },
+    {
+      "path": "plugins/owner/autotyping.js",
+      "sha256": "390a44c87518813ae9bd314fe30422d279515e3c47d5765ce614c3d1d146437e",
+      "size": 4500
+    },
+    {
+      "path": "plugins/owner/baca.js",
+      "sha256": "39b3967ada5e363a000afb9ba6642f42661631128b7c059b82d546d83f7601e9",
+      "size": 2907
+    },
+    {
+      "path": "plugins/owner/backupdb.js",
+      "sha256": "0066c56c3d53c6743856a54bd7563dc65953851ea4f8cc3c3e995fcd242ad52f",
+      "size": 4064
+    },
+    {
+      "path": "plugins/owner/ban.js",
+      "sha256": "c5e10f66c8bf26c60f7f0f3445bfffdbf69d98b361ecdcc23ad6057cce320d49",
+      "size": 5310
+    },
+    {
+      "path": "plugins/owner/bcgc.js",
+      "sha256": "b19de623820be8b2d674839ad2e6a4b862b4994ef63066aa1530550612c3d2f1",
+      "size": 14748
+    },
+    {
+      "path": "plugins/owner/bcpc.js",
+      "sha256": "427c7239b518f92d92095c2695684ca39eccdfce5166beb3d6704c815ca8caa1",
+      "size": 9145
+    },
+    {
+      "path": "plugins/owner/bcpcjeda.js",
+      "sha256": "61b19fcc535e00d614aedd8a392bb5475306eba63de5bee872c736f701821d82",
+      "size": 5283
+    },
+    {
+      "path": "plugins/owner/block.js",
+      "sha256": "33801684ba63f3d5a43bb3a29c1177586ad2fe987d6ea27c26c71d4017e0e757",
+      "size": 4630
+    },
+    {
+      "path": "plugins/owner/botafk.js",
+      "sha256": "59654907ee3c3b6bd0c98d04d6fc201bcb1735925b6e03f0c33aff7eb8858e21",
+      "size": 5251
+    },
+    {
+      "path": "plugins/owner/botmode.js",
+      "sha256": "456ee2aafa5246f767f7b93c1ef3f2fd27cd0b4cc967438b7d876f78db5b8bed",
+      "size": 6889
+    },
+    {
+      "path": "plugins/owner/buatgrup.js",
+      "sha256": "513a62cba2f7bf32672f4bcf281fc7bf914e38c8ab1e777a6ad6e889b212441b",
+      "size": 7157
+    },
+    {
+      "path": "plugins/owner/buatsaluran.js",
+      "sha256": "65c0f6b86ad6e31bf0f30166460d7efee0eedfce34d93c11cc918c428156d1ed",
+      "size": 4352
+    },
+    {
+      "path": "plugins/owner/capenergi.js",
+      "sha256": "3d2b538bad38159f7f6ef7641516cc23066d5b9d578cb9faa4e8d4b969dd584b",
+      "size": 5550
+    },
+    {
+      "path": "plugins/owner/capfree.js",
+      "sha256": "1069ab0b0dfc5e2a93f13335a24c7835c7a3d6f10ff21d118ad236329e6f9a75",
+      "size": 4819
+    },
+    {
+      "path": "plugins/owner/capprem.js",
+      "sha256": "5f591558afacff25006ba780c54887e0e2ffae76d439d5abbd7e3c599ee0de47",
+      "size": 4902
+    },
+    {
+      "path": "plugins/owner/cekschedule.js",
+      "sha256": "633155a7fe93159ebe617de78beae70a2ee9037016a2fd2610d1c8bd55c73293",
+      "size": 6793
+    },
+    {
+      "path": "plugins/owner/cekupbot.js",
+      "sha256": "3d895625004d8eccc9509b755dc4d4602fd4dec2aab2c90285cdd77023a4bcb2",
+      "size": 6753
+    },
+    {
+      "path": "plugins/owner/checkban.js",
+      "sha256": "98e46fbb0208e41a9b1cffdae10ae8684e8e9439fb6aca9e6cb35bf505b550da",
+      "size": 3868
+    },
+    {
+      "path": "plugins/owner/clearsessions.js",
+      "sha256": "9b0cedbb6cf5c99473126517478e0b96c62542f5bc0f71b24b8d7cf783f026cf",
+      "size": 4430
+    },
+    {
+      "path": "plugins/owner/cmdvn.js",
+      "sha256": "21d88bde84e0a9f7edf500bd4c2737e804c3df4b347f5d9870149e6087edc429",
+      "size": 4341
+    },
+    {
+      "path": "plugins/owner/colongpp.js",
+      "sha256": "a0ebc93b72eb40fed5a77ef9e37c2b08c69594739893d83e15b6da6487bd61ee",
+      "size": 5325
+    },
+    {
+      "path": "plugins/owner/custompayment.js",
+      "sha256": "513085332ba983e27d346755a90e0e2f57a33374d39477d0e54a51c942d07ba0",
+      "size": 4130
+    },
+    {
+      "path": "plugins/owner/delenergi.js",
+      "sha256": "18b92b5cec46c154b4679daa1c248f1af2e21bd8356ad1abab2db4a7e4eba7e5",
+      "size": 5150
+    },
+    {
+      "path": "plugins/owner/delexp.js",
+      "sha256": "165412cad0941f29c2d8ed948e149a99a50c547d6966dac107cc5de1af6ecbd6",
+      "size": 5037
+    },
+    {
+      "path": "plugins/owner/delkoin.js",
+      "sha256": "c978a91fce845bd6b2aceb7f5c093b131c4b3735725c9bb7c488626f24b616b6",
+      "size": 5079
+    },
+    {
+      "path": "plugins/owner/dellevel.js",
+      "sha256": "47dff8d6630cdd21fd10c612039335acabf13a7c512be358e07380f70b9aee10",
+      "size": 5157
+    },
+    {
+      "path": "plugins/owner/delplugin.js",
+      "sha256": "c975a4212a519fa54f8acbdd77863cca77a8ee0600f790263c011833f1e632b4",
+      "size": 5676
+    },
+    {
+      "path": "plugins/owner/delpremall.js",
+      "sha256": "54722dd5f341a13b2cfa4b149aeabc706ad790e950beb3b48a6b4db4903e430e",
+      "size": 4950
+    },
+    {
+      "path": "plugins/owner/delsewa.js",
+      "sha256": "efbcfc3e10bf063c02589488a49c88c2c5ec0185ab131632fb35b2af26029110",
+      "size": 5972
+    },
+    {
+      "path": "plugins/owner/disableplugin.js",
+      "sha256": "dc8eee1b8888af35a1bbd9af9c4171075d236613c9b3aa367f84f930036928e2",
+      "size": 6107
+    },
+    {
+      "path": "plugins/owner/downbot.js",
+      "sha256": "fffba08c8c655fbe8aab75db82d3920b1ec4a56f8702595ec1303502b3276370",
+      "size": 7569
+    },
+    {
+      "path": "plugins/owner/enableplugin.js",
+      "sha256": "12d3e963d9b5a2f50dbbc9f5256bf8c4bd5090154d968bb90bc083735afd9bcf",
+      "size": 6092
+    },
+    {
+      "path": "plugins/owner/energitoggle.js",
+      "sha256": "bbbb43be3f978a12265f85e68b445e2cdb986f5b5518ac93b2bfb83d6c396e42",
+      "size": 3503
+    },
+    {
+      "path": "plugins/owner/eval.js",
+      "sha256": "08608bc4e598e3887fe5695978fb625ffe75f5afc1b87c4be247d1ce7420dabd",
+      "size": 4852
+    },
+    {
+      "path": "plugins/owner/exec.js",
+      "sha256": "2d4bae9549d04fc0b93d4a188e2deebf5533481b5abecaa15fa6cdf96883c9eb",
+      "size": 5762
+    },
+    {
+      "path": "plugins/owner/ganti-asset.js",
+      "sha256": "3a2574b2cc941b6e02fdab8525c89bb702ed1eda342ef386679e242356372ac6",
+      "size": 10439
+    },
+    {
+      "path": "plugins/owner/ganti-namabot.js",
+      "sha256": "29b2189fe1b10f8a958387b2d129794ebdf6686c2e344f4c0564e4150f9b87d6",
+      "size": 4162
+    },
+    {
+      "path": "plugins/owner/ganti-namadev.js",
+      "sha256": "d9c6f39d3f0e3f895b9bc652be7526fa936f5fd3f763860372fe3e08867ba463",
+      "size": 4000
+    },
+    {
+      "path": "plugins/owner/ganti-namaowner.js",
+      "sha256": "96f629252b53b8201cf5a0c51df35d4b04d734177755b58e0b5cce5fe5b5d971",
+      "size": 6499
+    },
+    {
+      "path": "plugins/owner/ganti-pp-kosong.js",
+      "sha256": "196c4eab9c20589d953f672be6914f0c60cbe3f7b1e6a76f7f640f43c792ae19",
+      "size": 4294
+    },
+    {
+      "path": "plugins/owner/ganti-tenki-demote.js",
+      "sha256": "026e51045ce9c5c5f014cc3acf2109a9c49451ca560ad36765a681b9dec17358",
+      "size": 4295
+    },
+    {
+      "path": "plugins/owner/ganti-tenki-games.js",
+      "sha256": "5c9a120f5ea2792668fdcc46e0529e7d4e4db51526ece5f9977f2b13b3a50235",
+      "size": 4376
+    },
+    {
+      "path": "plugins/owner/ganti-tenki-goodbye.js",
+      "sha256": "b5c1829d2a977c72313297753e4ce959945b5d2fe158a371859ce0f254a9764b",
+      "size": 4475
+    },
+    {
+      "path": "plugins/owner/ganti-tenki-large.js",
+      "sha256": "eac5e32a8c9e61381a7fd080a545d55a73d3df6ac5a26e8bfd3b0bf0d67b03f7",
+      "size": 4785
+    },
+    {
+      "path": "plugins/owner/ganti-tenki-levelup.js",
+      "sha256": "4462cd6c189c1f42ac726e4c0b19892a9839b0906d4af092ce944ad299244c40",
+      "size": 4314
+    },
+    {
+      "path": "plugins/owner/ganti-tenki-mp3.js",
+      "sha256": "4c58216c8010a0a9a32f099ea810e37c518e90a2b288eb472c4f2ba11f102c8e",
+      "size": 4409
+    },
+    {
+      "path": "plugins/owner/ganti-tenki-mp4.js",
+      "sha256": "4ba4e5bb8fc5b9ce6d4a574716b2386566612bc629d926d03967183b6041eb80",
+      "size": 4467
+    },
+    {
+      "path": "plugins/owner/ganti-tenki-promote.js",
+      "sha256": "9e458656bef5a02ccba5da1dfb7e999bc1929e4ada16051c8520a3e44ba8bcb8",
+      "size": 4431
+    },
+    {
+      "path": "plugins/owner/ganti-tenki-rpg.js",
+      "sha256": "940eaf7c1a1b8bf6a97bbcc30e393969a5bbf09eb21658846652b82fde6dd398",
+      "size": 4409
+    },
+    {
+      "path": "plugins/owner/ganti-tenki-rules.js",
+      "sha256": "ed9efe461f08d76617f536c74937469793f16b914431568f6450b5e2ddb5cc51",
+      "size": 4422
+    },
+    {
+      "path": "plugins/owner/ganti-tenki-store.js",
+      "sha256": "0f154c42f4ef702c4a0fc405ea0628b9cb19b98b70a31f9132ccfea313a0fbcd",
+      "size": 4358
+    },
+    {
+      "path": "plugins/owner/ganti-tenki-v8.js",
+      "sha256": "ed4dfa617b84a39a7cf10d3c5e5049d95a3b110d07e8198b37acdcf1b5aaf3b6",
+      "size": 4317
+    },
+    {
+      "path": "plugins/owner/ganti-tenki-welcome.js",
+      "sha256": "0ab085b34e317bef4428429667854dd0d692df9c147d69850748ffac797d0bcf",
+      "size": 4481
+    },
+    {
+      "path": "plugins/owner/ganti-tenki-winner.js",
+      "sha256": "cc1f44a33ae96b7931cbd892bfc7515adab9c738c9777651e3efb4ef85d8264e",
+      "size": 4512
+    },
+    {
+      "path": "plugins/owner/ganti-tenki.js",
+      "sha256": "cd079b7bb8f78c960b144f408cfbced5bdffc3a6e55f6d0a0762cece9133f99c",
+      "size": 4421
+    },
+    {
+      "path": "plugins/owner/ganti-tenki2.js",
+      "sha256": "b12e76a9165b45cb2c9158ba4a5ddd095006e0c3f7827806f58c1b041e239efd",
+      "size": 4296
+    },
+    {
+      "path": "plugins/owner/ganti-tenki3.js",
+      "sha256": "4e3e7364fc37a8b53ad56c6757741f4cc0d21066d2866a67f44473b59293dccd",
+      "size": 4300
+    },
+    {
+      "path": "plugins/owner/ganticode.js",
+      "sha256": "6ea3272a16b73641145b8287a820b64a93ae539e2f48bfc22764d0733e37efdb",
+      "size": 9690
+    },
+    {
+      "path": "plugins/owner/gantiscraper.js",
+      "sha256": "3ac50e4e150506896aa785b225b9c5ee6931f655949f3fe85c21b7efef2be481",
+      "size": 13338
+    },
+    {
+      "path": "plugins/owner/get.js",
+      "sha256": "0771acc0f75315b1f4fd0a24fffd065b84be858a83745974ebcc5ceb2e943c7a",
+      "size": 15754
+    },
+    {
+      "path": "plugins/owner/goodbyeall.js",
+      "sha256": "70d5b00d8029ca0691adb0471da6dea7a41ab873ac6d87a0f5770bf2a4c95e47",
+      "size": 4986
+    },
+    {
+      "path": "plugins/owner/hapusdata.js",
+      "sha256": "e0e7b8885172a04ec56b818ba5ae7345e84170ddb214e60fe70a5b0c09024ba7",
+      "size": 7000
+    },
+    {
+      "path": "plugins/owner/hapusgrup.js",
+      "sha256": "eec95fbbe2365e149830c60854a432169e6b0b6381ccfe608778877b55e36a43",
+      "size": 4048
+    },
+    {
+      "path": "plugins/owner/hapussaluran.js",
+      "sha256": "10da285a6061c9992e017bce64de197ac71149cf71368761bf9a9c6f2a16f80b",
+      "size": 3499
+    },
+    {
+      "path": "plugins/owner/join.js",
+      "sha256": "7b8d52a7fc0f61fd16fb73f523bdbcfab44d672315dd710c006c5e7b891505cf",
+      "size": 9484
+    },
+    {
+      "path": "plugins/owner/leave.js",
+      "sha256": "d3072589cc090c5500359f38c3132ace1425bdf4240c5543bad172ec37c3f5fd",
+      "size": 6025
+    },
+    {
+      "path": "plugins/owner/listban.js",
+      "sha256": "0681e9c052f2b52bdaae80f56ef59aaee1bcfc52a10aaeb30027b0f90ebdf9d9",
+      "size": 3698
+    },
+    {
+      "path": "plugins/owner/listjadibot.js",
+      "sha256": "9858c7018fcecd50ee492b32c5c55abeffb0546e01b045dd4444c4bc84b88f47",
+      "size": 4882
+    },
+    {
+      "path": "plugins/owner/listjadibotaktif.js",
+      "sha256": "8138f482d6f2eb40a30c8c398607d3cb4e20da53eba99a44ac2587f6e38b4d50",
+      "size": 4599
+    },
+    {
+      "path": "plugins/owner/listsewa.js",
+      "sha256": "c0f15a5947bb60c862415af25fe8c04f99381cd092cd773887cf24664eef8754",
+      "size": 6728
+    },
+    {
+      "path": "plugins/owner/listversi.js",
+      "sha256": "c7e4741ed714d14906d18bd953256037e9050f00a0403addcf7ff2d333066fe9",
+      "size": 8910
+    },
+    {
+      "path": "plugins/owner/mutechat.js",
+      "sha256": "b3a0b19a9ccccdecceb42ea52fb3213833ed5ca9a1c12b333220157b46c3264f",
+      "size": 4563
+    },
+    {
+      "path": "plugins/owner/onlyadmin.js",
+      "sha256": "49ca3f5dd28c44ec86052b5a679f2c50ca9fce14d902157c1dd8dc602c43ac27",
+      "size": 6126
+    },
+    {
+      "path": "plugins/owner/onlygc.js",
+      "sha256": "d34745f5288aa7b4a7ebf88b1ee84e14f845d2b274e7c704cdcdd0b393a9247e",
+      "size": 4428
+    },
+    {
+      "path": "plugins/owner/onlypc.js",
+      "sha256": "8ea2db27adec41c22735798617067a0f1739d2e701ad4c4faa63461b3ede9300",
+      "size": 4373
+    },
+    {
+      "path": "plugins/owner/onlythisgrup.js",
+      "sha256": "83d189d9327ebe39f18099babfff59c62514d3d84b99786a40dc1436a60f8f5a",
+      "size": 5226
+    },
+    {
+      "path": "plugins/owner/payment.js",
+      "sha256": "55f7eb2af7ecffa50b1020d8dc33f116f2a0e362a5a0dcaae7082a51e83d809d",
+      "size": 5812
+    },
+    {
+      "path": "plugins/owner/pinchat.js",
+      "sha256": "ecd504770cb964e6a297fe2020d24c3a230a9640facd1845f344e689c91cd92c",
+      "size": 4564
+    },
+    {
+      "path": "plugins/owner/prefix.js",
+      "sha256": "2e2f9d48d403c96095cb7d5a5508ef8393f99648aab959500600d081e2cbb1fb",
+      "size": 11507
+    },
+    {
+      "path": "plugins/owner/ptvch.js",
+      "sha256": "1db8ce920ff43afd6e6f7d11f1cde7caa5b1649091b36a5f4f134b4805890d54",
+      "size": 4343
+    },
+    {
+      "path": "plugins/owner/public.js",
+      "sha256": "7323013e5540c1cfd4df7c74e94acfb8c010167b543eb532c5d1dac3f727cef9",
+      "size": 4863
+    },
+    {
+      "path": "plugins/owner/q.js",
+      "sha256": "d804d9ac519ef57cb701369187e8bc93125c1ba6fbce37fc457c9dd510335930",
+      "size": 3017
+    },
+    {
+      "path": "plugins/owner/renewsewa.js",
+      "sha256": "e9522d5419dd12d0f9e75456ebe32f69f8fcd1bd1f374f878d956094119b48cf",
+      "size": 8308
+    },
+    {
+      "path": "plugins/owner/resetdb.js",
+      "sha256": "34fc8168736f6450b0b2c7fdc4c2f6e436dab122c626296ea306fdaebe8916df",
+      "size": 6215
+    },
+    {
+      "path": "plugins/owner/resetlimitdefault.js",
+      "sha256": "b0b116f0be2ce4184927a2b442065a236aa0044ed7cec6ed7ac1a632ef47ac8f",
+      "size": 3230
+    },
+    {
+      "path": "plugins/owner/resetrules.js",
+      "sha256": "95f15fd6340094229198015165937a42f52d8a62b0821f7777871e0a4d32e852",
+      "size": 3088
+    },
+    {
+      "path": "plugins/owner/restart.js",
+      "sha256": "d93795256550478dfea2faf0e5eced7cede3c5a3328dd361bd16776ab3b8d816",
+      "size": 4314
+    },
+    {
+      "path": "plugins/owner/sampah.js",
+      "sha256": "31032412724926cf6aa5e1b02c8160ef0901e1c9a26358cf3a9447bfeb57e62b",
+      "size": 3814
+    },
+    {
+      "path": "plugins/owner/savedb.js",
+      "sha256": "ef2ce3b3a7b5a456040e2311f82638f1c4c5fa881b982a263b990b602000b82a",
+      "size": 4432
+    },
+    {
+      "path": "plugins/owner/savekontak.js",
+      "sha256": "73df0d73708b8c06ab5695f2fe04da20e4f8cf81c37e4a11f0a206a667fb317c",
+      "size": 7131
+    },
+    {
+      "path": "plugins/owner/schedule.js",
+      "sha256": "712a8d2667b798f84b48137e6768ebbd01a342de0709d3e81a8db10848fbbc5a",
+      "size": 29790
+    },
+    {
+      "path": "plugins/owner/searchplugin.js",
+      "sha256": "1eb041bd5dcffb1dda62bf9645ecb100564d8ded07488e7071431a2156bbb2d4",
+      "size": 8593
+    },
+    {
+      "path": "plugins/owner/self.js",
+      "sha256": "4c4d86256f06f4a75998b718466fceef2afb49757e28f60d3ab85b2c3feb67d8",
+      "size": 4749
+    },
+    {
+      "path": "plugins/owner/setallmenu.js",
+      "sha256": "8cc57ee2ee713577f43cd82810146e536039cfcfc03087431790fb6e4bc37599",
+      "size": 6810
+    },
+    {
+      "path": "plugins/owner/setaudioallmenu.js",
+      "sha256": "18b595e35e25231de232c8f67e970bd86a7a00b465d76c36ae8b1199b95e3a80",
+      "size": 5231
+    },
+    {
+      "path": "plugins/owner/setgoodbyetype.js",
+      "sha256": "e49e7b5b5fe71340241c39fb9706434cc5ee041ca2acfecbc855dfddf52684c0",
+      "size": 7243
+    },
+    {
+      "path": "plugins/owner/setlimitdefault.js",
+      "sha256": "037275f875750bfc0d92c1760822a4dbdabe5c9d8f54ed89878cbeb019623cc3",
+      "size": 3999
+    },
+    {
+      "path": "plugins/owner/setmenu.js",
+      "sha256": "f51a3f06bd6d7ca3d944ff65c97b15135ad533a1cf26132f010975d07a9d33fd",
+      "size": 5809
+    },
+    {
+      "path": "plugins/owner/setmenucat.js",
+      "sha256": "f3461caa990fa5677aea4fc02b581c87837aeeba44568857caea7bc758b15462",
+      "size": 5822
+    },
+    {
+      "path": "plugins/owner/setownertype.js",
+      "sha256": "17e6443b8aa1c78bdca894cff8d9c7d099d3867ed39f1cb88372be122eb7ea94",
+      "size": 4756
+    },
+    {
+      "path": "plugins/owner/setreply.js",
+      "sha256": "32758b3e26dd5aaa82124734a169f9286f63bb140a08762c241fcfa0a356cdd4",
+      "size": 6234
+    },
+    {
+      "path": "plugins/owner/setrules.js",
+      "sha256": "7422beab962c7ae1a42997aaec0c695c4734e877bf8086ee6dca9055cf201938",
+      "size": 3643
+    },
+    {
+      "path": "plugins/owner/setwelcometype.js",
+      "sha256": "d9649889ebcf7e911f5c0b07e173df489634cccdec6fc268e6d5b61e408520f3",
+      "size": 7355
+    },
+    {
+      "path": "plugins/owner/sewabot.js",
+      "sha256": "cb1f8225603dabf61aa429cc89f451b9c790ee669655081bcb17bb850aa927d6",
+      "size": 12529
+    },
+    {
+      "path": "plugins/owner/similarity.js",
+      "sha256": "60b37f2156584aae7fa8173d073e90af4538cbdc92783a3a018510c16b6ab5de",
+      "size": 3658
+    },
+    {
+      "path": "plugins/owner/sistemdaftar.js",
+      "sha256": "a0b0a60d24a1e72baa0f42b4dbf59a8968348f0d77742c4763b5320021d14d63",
+      "size": 8454
+    },
+    {
+      "path": "plugins/owner/sistemenergi.js",
+      "sha256": "cdbb9d72eea4116be054a0e171491d73595b5215a2ab78d2527cc0abe7ef1d48",
+      "size": 4742
+    },
+    {
+      "path": "plugins/owner/sprem.js",
+      "sha256": "db0964136cf7b6c804f114258b7994bbcc7b39b6334f96c22c981806b524c6c2",
+      "size": 5190
+    },
+    {
+      "path": "plugins/owner/srt.js",
+      "sha256": "80df02499f0cc838a01f17c9043deed4248a77bf9de951e940a248b2319c26f2",
+      "size": 13986
+    },
+    {
+      "path": "plugins/owner/star.js",
+      "sha256": "f1cea508f3550e9e6a0a2a8d09ec6a26185c068b536f5977acbe432b34483d84",
+      "size": 3801
+    },
+    {
+      "path": "plugins/owner/startschedule.js",
+      "sha256": "09de75ae9c8d7ed51b027da786aa2306ec53f3b9a490ddecd08eae03213379de",
+      "size": 5183
+    },
+    {
+      "path": "plugins/owner/stop.js",
+      "sha256": "c15e16493d0276804ea94f5fd91ff327033a5fbb8d4d4cdf56bcd1c28a45e165",
+      "size": 3473
+    },
+    {
+      "path": "plugins/owner/stopalljadibot.js",
+      "sha256": "e594c7b6a03228d405c137e29037e6fd52a2d624f2badc1d64bb43b26f183405",
+      "size": 3953
+    },
+    {
+      "path": "plugins/owner/stopbcpc.js",
+      "sha256": "ceaf12d7a8b2392466b84a046188e79f366292458f8d07b65cda24146d56c481",
+      "size": 2995
+    },
+    {
+      "path": "plugins/owner/stopdandeletejadibot.js",
+      "sha256": "77904baacce528012067467f4073d6e6ae16b1a3bda1f88b40ca55d06b6e4eb8",
+      "size": 5614
+    },
+    {
+      "path": "plugins/owner/stopschedule.js",
+      "sha256": "b93279b16b7aa7c985fc3cd95e344ef09359272b1494d195fb46906815544942",
+      "size": 5179
+    },
+    {
+      "path": "plugins/owner/swgc.js",
+      "sha256": "cf99a4a875750c1a9653ec618e3fc4fa75018234f6786502ca2ae0e551d69d65",
+      "size": 13416
+    },
+    {
+      "path": "plugins/owner/swgcall.js",
+      "sha256": "02fa91a1e24127bf2d552614f64bf30ddd45639a53ed55913b83ef142f6a9c09",
+      "size": 11607
+    },
+    {
+      "path": "plugins/owner/swgcv2.js",
+      "sha256": "ad660b2eb21bb2602dea0b33cc6be2a944716d79c3564d2c8ea2cf72b7f52aed",
+      "size": 13454
+    },
+    {
+      "path": "plugins/owner/swgcv2all.js",
+      "sha256": "ba15ad1a33ad1dadd1ce8c2c0479d694aea2c1bd384002f5f474907e940a9a8b",
+      "size": 8806
+    },
+    {
+      "path": "plugins/owner/templateplugin.js",
+      "sha256": "f69a0618527d0528ae4dac0f45eec4935fece41501dde35965cc0c2377369629",
+      "size": 3948
+    },
+    {
+      "path": "plugins/owner/unban.js",
+      "sha256": "10898e5fad48dcc21bafe926d2b31370032896ca44a27b97d4fb08fd4b945443",
+      "size": 5208
+    },
+    {
+      "path": "plugins/owner/unblock.js",
+      "sha256": "54facb83d4179d37c7e9c09e8184d4a16c8087b233bed4ad7f4c5813661bf320",
+      "size": 4430
+    },
+    {
+      "path": "plugins/owner/upbot.js",
+      "sha256": "f645d282e53c34a254210b2741eb93fc16011924074dc2a98f2a476ec75451e5",
+      "size": 10389
+    },
+    {
+      "path": "plugins/owner/upch.js",
+      "sha256": "8d685bd0bffac46c4ad874e81e26da4de384965fd77a87b415fa38596905762c",
+      "size": 8169
+    },
+    {
+      "path": "plugins/owner/welcomeall.js",
+      "sha256": "c4858dd65caa256a3325312e3039e419bf9ae870b19f2889c9bb3a0ee4372d77",
+      "size": 5017
+    },
+    {
+      "path": "plugins/panel/addseller.js",
+      "sha256": "0a765e5cb228fffcb825c11089120777a057cf6fefe07a17cc98ff383cb631e9",
+      "size": 9436
+    },
+    {
+      "path": "plugins/panel/cadmin.js",
+      "sha256": "e7752dc8704e5628a51702b252a5e5e41aa7a966ba0a2640a7ba3302735ef294",
+      "size": 11066
+    },
+    {
+      "path": "plugins/panel/cekjeda.js",
+      "sha256": "4c665f81b32df005646f9b3329458103d411ee710533d43b5be5b3bf6a9b50fb",
+      "size": 5510
+    },
+    {
+      "path": "plugins/panel/cpanel.js",
+      "sha256": "0f50bb53c483bf8302b2d972384fbc41ab5d73bece2c9d7dda8798a1e13376c3",
+      "size": 8468
+    },
+    {
+      "path": "plugins/panel/createserver.js",
+      "sha256": "2e4e2e8fef338a0488a66de7173d45805fa4b7de3125b91bd054f4bba906b974",
+      "size": 17314
+    },
+    {
+      "path": "plugins/panel/deladmin.js",
+      "sha256": "b9dba90a433ce1ea31d1587dd4f77debea69f5c5998af1a42a6a02ac66049f67",
+      "size": 7093
+    },
+    {
+      "path": "plugins/panel/delpanel.js",
+      "sha256": "92f56a3ad299b1163f6f11dc40db903bcc5050d0b70d82d27c58325b75677fc5",
+      "size": 8284
+    },
+    {
+      "path": "plugins/panel/delserver.js",
+      "sha256": "ca4d07d223df7ce0d715b3dba337c55ea1e4f091617d28eacbf20badd2a83467",
+      "size": 7307
+    },
+    {
+      "path": "plugins/panel/gcseller.js",
+      "sha256": "bae533aaab62b27cc34d9593094fb4194b902530b0dd263f6009d5e77c201cec",
+      "size": 7493
+    },
+    {
+      "path": "plugins/panel/installtemabilling.js",
+      "sha256": "cb52dd7e1525e945dc7effedb439a0f0ce6b0b447d88aa66eb7103623df6aa23",
+      "size": 7646
+    },
+    {
+      "path": "plugins/panel/installtemaenigma.js",
+      "sha256": "c609203c761ec78b77483a77a842c04e69a6c055fd20c0bc09cc7437469c030f",
+      "size": 8336
+    },
+    {
+      "path": "plugins/panel/installtemanebula.js",
+      "sha256": "b3a0a003fb8940aff05da09f22dc0e5e7873c9f7f09da60585a4ced3b4990c6d",
+      "size": 8136
+    },
+    {
+      "path": "plugins/panel/installtemastellar.js",
+      "sha256": "a167823802dcd2905bf3e197fda8a667b3aada3560cd939c7f42b7bd63ad7ec3",
+      "size": 6627
+    },
+    {
+      "path": "plugins/panel/jedacreate.js",
+      "sha256": "a2920f21a6163bbbf9ea8d41aa143021c9a696a71bf4116cec4dd18d58c2347b",
+      "size": 5797
+    },
+    {
+      "path": "plugins/panel/linode.js",
+      "sha256": "72e3e1a45d8d6a17b2d071ebf6db49eb0ab6faf78db044ff41f8ab8bbe8d35f8",
+      "size": 15919
+    },
+    {
+      "path": "plugins/panel/listadmin.js",
+      "sha256": "0943edb2cf72b06f9e2b6e29da8d6dda8fe9d790d4255928bb6ec802af8452d4",
+      "size": 6864
+    },
+    {
+      "path": "plugins/panel/listserver.js",
+      "sha256": "1c1d13cedfadb872a95d4f7068c8ef57f3e2294ca1289e55bbe58b928ee4b70c",
+      "size": 9083
+    },
+    {
+      "path": "plugins/panel/listuser.js",
+      "sha256": "bc40f3a3f7aaadc4a01e725027fdc6ed6f3fc27ee2a8276b49506c5e0fdbe70e",
+      "size": 7355
+    },
+    {
+      "path": "plugins/panel/rolemanager.js",
+      "sha256": "907f8cef39ebcee35d730b4db05e614bb7f48cd564116a91319f22539c654b05",
+      "size": 8277
+    },
+    {
+      "path": "plugins/panel/seller.js",
+      "sha256": "5e061fe98e6154ee0062eddf43d2f11e43e2a8fcb3f46740404e2e42f3f3ed8e",
+      "size": 9249
+    },
+    {
+      "path": "plugins/panel/serverinfo.js",
+      "sha256": "c2632e1fb1ecacb1aafb960edcdc016bcef421cf4491fc1dda078fdabe32b3c5",
+      "size": 8715
+    },
+    {
+      "path": "plugins/panel/uninstalltema.js",
+      "sha256": "6dff48a813e2d9c58891c9c218d236a12ca6655ade079a38021756541dea58a8",
+      "size": 5754
+    },
+    {
+      "path": "plugins/primbon/artinama.js",
+      "sha256": "c8383bdf3a6c05c4c6b040d522656166b7520e675bfe728d064a34d300188f1b",
+      "size": 3994
+    },
+    {
+      "path": "plugins/primbon/kecocokannamapasangan.js",
+      "sha256": "af296b5533498f77c729710851218223859169c584526df5057d18ad420fb011",
+      "size": 4603
+    },
+    {
+      "path": "plugins/primbon/nomerhoki.js",
+      "sha256": "b6e4629893a7e79b9c6ac2374a17d404b9cf29f194ab4c6f188525fa892cdc7c",
+      "size": 5320
+    },
+    {
+      "path": "plugins/primbon/potensipenyakit.js",
+      "sha256": "b0da3e5681cbd61f882754a3b38ca9a9b9a95ed0882578713d9a7a8973f26e6b",
+      "size": 4519
+    },
+    {
+      "path": "plugins/primbon/ramalanjodoh.js",
+      "sha256": "b3e4f93771df5e9b7018b1b5e898ac96f1d1333f441ec536922c7012cc1147de",
+      "size": 5135
+    },
+    {
+      "path": "plugins/primbon/sifatusahabisnis.js",
+      "sha256": "af2ba50cd75fa0bf4c25e5d31df022c7fed1d27e31f822bdf4ca98a9bf56c783",
+      "size": 4294
+    },
+    {
+      "path": "plugins/primbon/tafsirmimpi.js",
+      "sha256": "05415225e5cb1bb6622969bacd572c786a093da2aa58806bc5fd4614237385c3",
+      "size": 4589
+    },
+    {
+      "path": "plugins/primbon/zodiak.js",
+      "sha256": "eb9d9aec1eeefdb59f9801b1fe2309fbffcb543e8d6f097598b0a31dc24f4adc",
+      "size": 5042
+    },
+    {
+      "path": "plugins/pushkontak/pushkontak.js",
+      "sha256": "53174db679e1cc091f482d36ca53fba869b195bf2f46ee6e76ca663e165de7ec",
+      "size": 33846
+    },
+    {
+      "path": "plugins/random/anime.js",
+      "sha256": "f4c6ef9d3c6a6d4091ff469181b89f22f31fc6a4af42d54a7c9002010eb46359",
+      "size": 5552
+    },
+    {
+      "path": "plugins/random/barandom.js",
+      "sha256": "e0eb909bd4e465a379bae761d025de16aed76c8bff3deb98f91e1f9b22c838a5",
+      "size": 3108
+    },
+    {
+      "path": "plugins/random/cecanchina.js",
+      "sha256": "fa2647a342590f74c6b58c51e5e749c37313768e5ae7d1e536ff880ce235a374",
+      "size": 3465
+    },
+    {
+      "path": "plugins/random/cecanindo.js",
+      "sha256": "8f3030c7b9eee85f928c28cd238331b513b537645b992ec23d3f1ef32d46fc04",
+      "size": 3182
+    },
+    {
+      "path": "plugins/random/cecanjepang.js",
+      "sha256": "ecd3e0022840b236c9ea83d7a563b978482d339d9ddd295393a8991116014e5e",
+      "size": 3373
+    },
+    {
+      "path": "plugins/random/cecankorea.js",
+      "sha256": "6d029af9bf4f1993189ae04e1c822eb236db059b11b6bc5025175c3cb8a08987",
+      "size": 3241
+    },
+    {
+      "path": "plugins/random/cecanthai.js",
+      "sha256": "49cbe9878c04e6e1363d1ceeea2a7ad9417519599a6b550c05934aadf14b8dcf",
+      "size": 3397
+    },
+    {
+      "path": "plugins/random/cecanvietnam.js",
+      "sha256": "3e103d09dcd432d85a3d408d0e5e20cb623cc9310ce12913eb317469674c0a90",
+      "size": 3331
+    },
+    {
+      "path": "plugins/random/couple.js",
+      "sha256": "fc0da32ec9c25988fe49780ec6dad5f5f92817244a429bf585474c1bc9c5e84a",
+      "size": 3296
+    },
+    {
+      "path": "plugins/random/lahelu.js",
+      "sha256": "624074095cb7d316003120109b44126cae112a4c29cc275dd3622304d1c1aaf6",
+      "size": 3794
+    },
+    {
+      "path": "plugins/random/meme.js",
+      "sha256": "14b9928913c1f4992e3857ea21ba09605c90de1e56d6de6715c4cec2639e173f",
+      "size": 3384
+    },
+    {
+      "path": "plugins/random/quotesimage.js",
+      "sha256": "01679e4d3ef6356ef7082e07158a5442e8f52b1985ae5e8e1fc4f0b714072c1d",
+      "size": 3703
+    },
+    {
+      "path": "plugins/religi/asmaulhusna.js",
+      "sha256": "17b15823ae89c8ccaaed08986498c1d308f3c9d559d350953a1cc11a75478441",
+      "size": 4786
+    },
+    {
+      "path": "plugins/religi/audioquran.js",
+      "sha256": "ea9b6dd4e28e4174ebe2f0f67cfa886bdf546a9f13f848f722bf59e70a08f4c7",
+      "size": 17877
+    },
+    {
+      "path": "plugins/religi/islami.js",
+      "sha256": "58df02ff2db6bbffda4baaffbf38748aaafeed18d52bfade8fa75f4402c41e6d",
+      "size": 9183
+    },
+    {
+      "path": "plugins/religi/jadwalsholat.js",
+      "sha256": "238fb66600dec5aad7df7cb814c78f8241f0d3d5a8d70dd1ad8d4b63d2b5a96f",
+      "size": 6264
+    },
+    {
+      "path": "plugins/rpg/adventure.js",
+      "sha256": "a0d0e1a6674179e3990083a2801ceb0f06bdebad7a3f208aef2b475535b6213f",
+      "size": 6451
+    },
+    {
+      "path": "plugins/rpg/alchemy.js",
+      "sha256": "964be5790b2baea586287e7a2fde25dd8798bf2a760d21d4068b0bca53ccf9b6",
+      "size": 8071
+    },
+    {
+      "path": "plugins/rpg/arena.js",
+      "sha256": "a8d0b04d1ca7c8b2239331f48176012a8a42ef7d0c26dbf8a6625e9b276ed32b",
+      "size": 8082
+    },
+    {
+      "path": "plugins/rpg/bank.js",
+      "sha256": "c619501c70fae07a1c17ec9fa5ec98de3e1834cd19597082b796fae06976520a",
+      "size": 14235
+    },
+    {
+      "path": "plugins/rpg/beg.js",
+      "sha256": "4231b2abd679a470418d2d80cb6101544850525aeda1c4021cf994b4ef78320a",
+      "size": 5225
+    },
+    {
+      "path": "plugins/rpg/berburu.js",
+      "sha256": "bc57e46945e90f127705c4b324ba6db6152731451b6588e0e7712749c3f944ed",
+      "size": 6762
+    },
+    {
+      "path": "plugins/rpg/berladang.js",
+      "sha256": "aaf50e921855b5be2bd5cb7d1f7cf85ab25f76cb07256e11ec0c76380d6abcc5",
+      "size": 6577
+    },
+    {
+      "path": "plugins/rpg/blacksmith.js",
+      "sha256": "3330ff92d20ae42f3d34e5e276b353588281830240648bcfd6e735781d26c22d",
+      "size": 7970
+    },
+    {
+      "path": "plugins/rpg/boss.js",
+      "sha256": "babba531c1492af15116ccbc1956587d8805fa37ae3fdef36f8f28fc3dba19f2",
+      "size": 10354
+    },
+    {
+      "path": "plugins/rpg/breeding.js",
+      "sha256": "77e98eb5665520a01f0ae3bda5ed49cef0090bd403622e0cc1447963876725b2",
+      "size": 8739
+    },
+    {
+      "path": "plugins/rpg/buykoin.js",
+      "sha256": "945989c9618450bfc5ea272c3b038d7c51692434550cd0197e255f33b3a65d0c",
+      "size": 5621
+    },
+    {
+      "path": "plugins/rpg/casino.js",
+      "sha256": "0adf4d087ba3667b31f6889977946c0c4f19a4c1e9573d8077ede703a101092a",
+      "size": 6281
+    },
+    {
+      "path": "plugins/rpg/challenge.js",
+      "sha256": "fc4f40d51dd9490be1b2fdc4ad50cb46287eab2b7d50942960e89fe1b55faf5c",
+      "size": 7480
+    },
+    {
+      "path": "plugins/rpg/coinflip.js",
+      "sha256": "f4b89e3cb95acfaa26fbc2d2ebf9d234cb677ee8c72cfef4e3243f3f97ac395b",
+      "size": 5760
+    },
+    {
+      "path": "plugins/rpg/cook.js",
+      "sha256": "f57fbddbdf55e28a2eba01e5b6d341062704f70f57ee3eb536894d3013422380",
+      "size": 6367
+    },
+    {
+      "path": "plugins/rpg/cooking.js",
+      "sha256": "8898322ba8ffbf631f178c37cc068929cfbd9d9dfd73ab12d5b5c834a39284b9",
+      "size": 8509
+    },
+    {
+      "path": "plugins/rpg/craft.js",
+      "sha256": "d0ce1b487ab5f7562e32133e70d5b50e69a5857407f0b955f1427a6296170861",
+      "size": 6849
+    },
+    {
+      "path": "plugins/rpg/crime.js",
+      "sha256": "00b4b6ba2065643cd0321827c12607c338565226468258c6c07ceaa22b3fb2da",
+      "size": 5099
+    },
+    {
+      "path": "plugins/rpg/daily.js",
+      "sha256": "cfaad42b2f8c52e9157a5c508482a353a6e00b448b35d20cb732762ecb80485e",
+      "size": 5098
+    },
+    {
+      "path": "plugins/rpg/dice.js",
+      "sha256": "d5c8bc4eb3311459ce13533052c26bddf18d3cbca107c663ff7fc273df4b76e3",
+      "size": 5496
+    },
+    {
+      "path": "plugins/rpg/divorce.js",
+      "sha256": "7342b814ce836b92c24932bb3f884c2b2e4e0ff073cfd9f1b4e650d5b54d2139",
+      "size": 4769
+    },
+    {
+      "path": "plugins/rpg/duel.js",
+      "sha256": "532c780551503371ed13cae38c1e4386bea0c607ac09abdc4e55417992eabaa5",
+      "size": 7505
+    },
+    {
+      "path": "plugins/rpg/enchant.js",
+      "sha256": "ac53e57dfe9aab8f52959c79e9deee3301f21adc7eaffbf64268a39c997c9d24",
+      "size": 8127
+    },
+    {
+      "path": "plugins/rpg/expedition.js",
+      "sha256": "c943dd38378dd1c2bc01a8320775601840a1a4c619327dc08076049a316593e1",
+      "size": 11676
+    },
+    {
+      "path": "plugins/rpg/fishing.js",
+      "sha256": "61d0894bc88a5e3259fd7c64816f035ff86bbd4704e1e81ec77ea994939759eb",
+      "size": 6009
+    },
+    {
+      "path": "plugins/rpg/freelance.js",
+      "sha256": "eda53a37762facc370301e00574b84267254718086b869850eb2434d5d4e588b",
+      "size": 5562
+    },
+    {
+      "path": "plugins/rpg/garden.js",
+      "sha256": "3ad3f1aab8b2932fff08762de4c17bc0f9f5d953809e40f6d251b74f38a28c9c",
+      "size": 12592
+    },
+    {
+      "path": "plugins/rpg/gift.js",
+      "sha256": "06296caca4371be60db58814fbd2dc1b68199968ed75ff4903ab25005622d926",
+      "size": 5240
+    },
+    {
+      "path": "plugins/rpg/guild.js",
+      "sha256": "3a59412ba9bbb30c8b4382db22e615b3ee02fd8c7d01a07984ae07d18fd2b156",
+      "size": 14081
+    },
+    {
+      "path": "plugins/rpg/heal.js",
+      "sha256": "a81e8cccc95125a24fb51ba27c38db4988f75cd337bf46bb9ea325cb4965c2bc",
+      "size": 5155
+    },
+    {
+      "path": "plugins/rpg/hourly.js",
+      "sha256": "187d92edd5eb071d03ab4ae3b69dece6ff3a6a669cabc010a4232f0b1f2fcbe6",
+      "size": 4665
+    },
+    {
+      "path": "plugins/rpg/hunt.js",
+      "sha256": "6969460225eafceb8d55edb828d46ab1f78a3829572c3830c75f3f8200331cac",
+      "size": 5553
+    },
+    {
+      "path": "plugins/rpg/inventory.js",
+      "sha256": "4f90b40e079b83d2755f548f1aa55badc6d069350bfa14e29a1b6ca194373ed2",
+      "size": 6757
+    },
+    {
+      "path": "plugins/rpg/jualan.js",
+      "sha256": "918e4159d84877cb96c186f883a88c0ea10e32fe9bbbb2d2826b8ebe1d71d105",
+      "size": 5738
+    },
+    {
+      "path": "plugins/rpg/kurir.js",
+      "sha256": "6a73b930a114e7b2d39dbbb253c50350ae7a7b3caacddcbd8d3f2aad175458e7",
+      "size": 5729
+    },
+    {
+      "path": "plugins/rpg/leveluprpg.js",
+      "sha256": "bf244efe9549dcb8040549b8fa3b9dcd5bae02310ffa975d632dea487712b416",
+      "size": 4219
+    },
+    {
+      "path": "plugins/rpg/lottery.js",
+      "sha256": "17d07493e4d4e5b22197b5533bff40455758b0a34f9f6bc75557870da3331332",
+      "size": 9003
+    },
+    {
+      "path": "plugins/rpg/maling.js",
+      "sha256": "ded6986a71203e6389c6b4408dae324a3f16421c7035ec17e9a4fe50bb8b9b6d",
+      "size": 7148
+    },
+    {
+      "path": "plugins/rpg/marry.js",
+      "sha256": "f4f3454d97a9cdb6ae31eca20f9de59a162505624dc9dc6c5960777cb2b2ea4e",
+      "size": 6364
+    },
+    {
+      "path": "plugins/rpg/meditation.js",
+      "sha256": "d3d1add807eb856ba571c2e83aa377b7fc88927d05c0d78396f6351eb5ec4f0d",
+      "size": 5206
+    },
+    {
+      "path": "plugins/rpg/merchant.js",
+      "sha256": "9ef9329eb7fa0e35c485055dad139f9c9159e5aa49c235ab692d0c2ba257e9ca",
+      "size": 9415
+    },
+    {
+      "path": "plugins/rpg/mining.js",
+      "sha256": "8e227202f400598ccc850689f69a47bea8a989f4e262f81415ddde243592ad62",
+      "size": 5867
+    },
+    {
+      "path": "plugins/rpg/mulung.js",
+      "sha256": "d61b1b5646438313dc070737fdda0c694b4e9de798c8ef0b9617454501439ccf",
+      "size": 6084
+    },
+    {
+      "path": "plugins/rpg/nambalban.js",
+      "sha256": "e3508d71a9732ae95d4f17831aded72d9577bd2bb8bcb197a74ca9c95afb1804",
+      "size": 5061
+    },
+    {
+      "path": "plugins/rpg/ngamen.js",
+      "sha256": "168cd981f98824d131bcc490d8556c6b425e72e5ecd2e31ed767b592b9212061",
+      "size": 5156
+    },
+    {
+      "path": "plugins/rpg/ngemis.js",
+      "sha256": "07a8ac45fc86be992d12fa2628ff8db1922e1844130623a1206242c4abf827fc",
+      "size": 5549
+    },
+    {
+      "path": "plugins/rpg/ngojek.js",
+      "sha256": "83da07b07a0ed65441248c5bcb1ae0690d9676db3294f333ce009b0ae29d5320",
+      "size": 5905
+    },
+    {
+      "path": "plugins/rpg/nulis.js",
+      "sha256": "457a6dba87154326ff3dad09881d654df23e939bfe0c98571d34dccd801b3730",
+      "size": 5648
+    },
+    {
+      "path": "plugins/rpg/nyapu.js",
+      "sha256": "07052081cd7d4dc219cf648e08de960ffabc958c3d6efc6ac0478a9aa952fb59",
+      "size": 4951
+    },
+    {
+      "path": "plugins/rpg/parkir.js",
+      "sha256": "fd70f2ffe7e16a4b2c2baebdabcfae80f6915587a78cb618be4d33704bd08e08",
+      "size": 5719
+    },
+    {
+      "path": "plugins/rpg/pet.js",
+      "sha256": "b44f9d79af84d783452a34c4cab9f548089243ca0dbdbd6a48ee107711cb2bc7",
+      "size": 13885
+    },
+    {
+      "path": "plugins/rpg/petshop.js",
+      "sha256": "e3eb88f5b53ce14c42affec3e0fc2ad26f8e86d85a8d907e45d64fcf12d80273",
+      "size": 6838
+    },
+    {
+      "path": "plugins/rpg/quest.js",
+      "sha256": "001f2bae54db35f93a92ebd402df6ac2413c158089a4341f39ee2f9f8651a2a5",
+      "size": 8495
+    },
+    {
+      "path": "plugins/rpg/rob.js",
+      "sha256": "e0f72f8743f425b7b5aa7f384f791738bc088b4350f006a3a353d950fba24495",
+      "size": 6908
+    },
+    {
+      "path": "plugins/rpg/sellall.js",
+      "sha256": "5ef59f20bb7f989f1d3b91749e8a87b470d9cc9935c3e32358a84f72f1296f8d",
+      "size": 4578
+    },
+    {
+      "path": "plugins/rpg/shop.js",
+      "sha256": "d1416fc92c49778175f1925ca21eaaa893e82d61d5f1752ab82f455f8dacfd02",
+      "size": 10631
+    },
+    {
+      "path": "plugins/rpg/slot.js",
+      "sha256": "2a1f2531904a70bd2d6bf392cd78e74db2af7029182a004e2f541a427a2c327d",
+      "size": 5906
+    },
+    {
+      "path": "plugins/rpg/stamina.js",
+      "sha256": "19734ee7f3734b9af063b6fa6a9c994913ec4a831401fcc0bd4f6decf4bee736",
+      "size": 6025
+    },
+    {
+      "path": "plugins/rpg/steal.js",
+      "sha256": "1f8a0674519e90d17926ae1b85ee207cecb1862a62c137088e28a11c0af0ec85",
+      "size": 7799
+    },
+    {
+      "path": "plugins/rpg/streamer.js",
+      "sha256": "28a40f494de0de527df3021131e604779805d859fef72debb42e3b08c7568fbf",
+      "size": 5664
+    },
+    {
+      "path": "plugins/rpg/training.js",
+      "sha256": "ca64f5534528e45bf20f736bdfe9669e0f0dfad50ecc4cd0c779d8a11e94ec36",
+      "size": 7712
+    },
+    {
+      "path": "plugins/rpg/transfer.js",
+      "sha256": "efc5ed2199a5fdeaa07c1587cad2239f205103dad61c5c564e9431070c07eea5",
+      "size": 8373
+    },
+    {
+      "path": "plugins/rpg/treasure.js",
+      "sha256": "4c4a6df5be9b129cdcfa2e890d8977535fbfa094c1714aa4a8f3a3dc0fc5d20b",
+      "size": 9282
+    },
+    {
+      "path": "plugins/rpg/use.js",
+      "sha256": "b69e5c6ae0a7156d117320f3045720a8c97ed0d169d7dc422bdc15186202407a",
+      "size": 13563
+    },
+    {
+      "path": "plugins/rpg/weekly.js",
+      "sha256": "0872e37e34304744500d00730714173ffef4b43bc45e69e119afb1379d9316a0",
+      "size": 4966
+    },
+    {
+      "path": "plugins/rpg/woodcut.js",
+      "sha256": "e6f6ac25423d0e1a120df06357c9e647ccac40dc108f42d839d7bbce4ed9e78e",
+      "size": 5760
+    },
+    {
+      "path": "plugins/rpg/work.js",
+      "sha256": "825c2c6cf31f322624004f719cfc9e682cdca483d2ab177e99cb8afc8c8a68be",
+      "size": 5303
+    },
+    {
+      "path": "plugins/search/android1-get.js",
+      "sha256": "98f9285d7db7feddd5144ad298c4e37222c5f765d526eec061236d7ec61c5898",
+      "size": 5254
+    },
+    {
+      "path": "plugins/search/android1.js",
+      "sha256": "bbe3b97f6b644fc3ab6ef5325bba7649e58483d17d4bbd281e524d12e7a88dd9",
+      "size": 6386
+    },
+    {
+      "path": "plugins/search/animeapaini.js",
+      "sha256": "f772b0bf7d16f19e967718a793f217d47c8de1eb53b52825bc224a5eb4b583fe",
+      "size": 7193
+    },
+    {
+      "path": "plugins/search/apkmod-get.js",
+      "sha256": "9844e3f13f2fcf109aad5188b680fbaca1aece6694f6b4e8ec1ecf9e9f7cb1be",
+      "size": 5087
+    },
+    {
+      "path": "plugins/search/apkmod.js",
+      "sha256": "c2e0437a69a1903d86950a9888bc3122ae58e61adb5d7a60ab1629a6f94f51a6",
+      "size": 5695
+    },
+    {
+      "path": "plugins/search/applemusic.js",
+      "sha256": "14caa6ce3788c91ecdbe801c6f29576b4700c888365262defc6a367e9db3f2f9",
+      "size": 4491
+    },
+    {
+      "path": "plugins/search/bingimage.js",
+      "sha256": "47de7650fb82fb95a9472f6ae57c90f2cb24651f4074de0a06fec9f8e201aea3",
+      "size": 4413
+    },
+    {
+      "path": "plugins/search/carigrup.js",
+      "sha256": "da9fecb6e7c7300d11d787f2d9bf5cdc87c25c0ed1c9efe696f2a423f8e01560",
+      "size": 4977
+    },
+    {
+      "path": "plugins/search/carisinyal.js",
+      "sha256": "9073238f594bbd208ad0a4aa20a316b843942da141f752a189941d00d8e2454c",
+      "size": 12979
+    },
+    {
+      "path": "plugins/search/chords.js",
+      "sha256": "940798b900d001667f1ebae22f2c37d0ebcbc959b00e4573cba252b85b5ae796",
+      "size": 4188
+    },
+    {
+      "path": "plugins/search/comparation.js",
+      "sha256": "8b8d1e249182b67a539e14df64404f5b095060d75f7f77a091c29d1727bca952",
+      "size": 14704
+    },
+    {
+      "path": "plugins/search/film.js",
+      "sha256": "2bdfe7e72a290592cacc39827ccebc7541e2ef08e8bcc3bf60d2280e0ddb8585",
+      "size": 6097
+    },
+    {
+      "path": "plugins/search/filmget.js",
+      "sha256": "dc4c619f02bf092d7acc2c90ae273f62e215a1e8289d58fd270fdef538c08135",
+      "size": 7595
+    },
+    {
+      "path": "plugins/search/google.js",
+      "sha256": "5af247e83328a180b1e400748b6af11b2a067a914ef320975c076a7b7978a06b",
+      "size": 4627
+    },
+    {
+      "path": "plugins/search/gsmarena.js",
+      "sha256": "068ca692e9a6bc48230ac2e50586e4f492a1f3a96502b703a76dbb796a5dd564",
+      "size": 5931
+    },
+    {
+      "path": "plugins/search/lyrics.js",
+      "sha256": "b207425e9980a7772c64c2971ca5b1f63215249786f6bd925f522ef7df2ffbf8",
+      "size": 5280
+    },
+    {
+      "path": "plugins/search/mangatoon.js",
+      "sha256": "04ed5f6c3661cf206b2df0a096d8cc4ba4daf9c678ad979d0fa51240743f2d8f",
+      "size": 5990
+    },
+    {
+      "path": "plugins/search/mcpedl.js",
+      "sha256": "4c6187cba337bf2196f367fd78abc0fcd60af7c5573cc0e19c501be128961f3c",
+      "size": 5898
+    },
+    {
+      "path": "plugins/search/melolo.js",
+      "sha256": "492b90b7f56e204350c429526a9adcf3573192e06e65f5c0b0cf75ae15bf28db",
+      "size": 6748
+    },
+    {
+      "path": "plugins/search/movieku.js",
+      "sha256": "9fa537fb973a9b702166c8a84f1af8c7bc74668ec18fc7ddf4f53d540323b8f7",
+      "size": 11816
+    },
+    {
+      "path": "plugins/search/nerdfont-ambil.js",
+      "sha256": "0ed661abc63530f0fe9dbd6ea9a92030cb4ef1b6c520da1d6645f49036d87b24",
+      "size": 6013
+    },
+    {
+      "path": "plugins/search/nerdfont.js",
+      "sha256": "a232a854e29b6cd0de13f15f1fb061195c1349694bce2d3e23210cd6f3b9b547",
+      "size": 6009
+    },
+    {
+      "path": "plugins/search/npm.js",
+      "sha256": "d81a816a6f047141b48f3e7d89510632dfca5d017f101c529b8a6bd7222a330b",
+      "size": 5303
+    },
+    {
+      "path": "plugins/search/pap.js",
+      "sha256": "130cacef84913cb34b64157f851c2cf5e9f514224720d4a19c6acb19fdb8eb8e",
+      "size": 6332
+    },
+    {
+      "path": "plugins/search/pddikti.js",
+      "sha256": "5d4f1006b2852340bc8769d492a3911c61844b17f8e7eb7c3057e358226a2542",
+      "size": 14695
+    },
+    {
+      "path": "plugins/search/pin.js",
+      "sha256": "a41081491b36d7d3f05810d4cdd08dff0be6f29b956b43c6ef8694da79ff3d4a",
+      "size": 6676
+    },
+    {
+      "path": "plugins/search/pin2.js",
+      "sha256": "22432dea384bf8e7fafb09d2765c578ac670a3dccd9cb45d8919615fd653dad8",
+      "size": 5551
+    },
+    {
+      "path": "plugins/search/pinvid.js",
+      "sha256": "42d0361ea28e270087e8af7eb4209b1c9cb363ae82557ffcd8fbe77e05b5a23f",
+      "size": 8731
+    },
+    {
+      "path": "plugins/search/pixiv.js",
+      "sha256": "35e0e391d4bc0a6c325194ba74e7ae264e9be210ac205e2eee935d4e8d26f0be",
+      "size": 6163
+    },
+    {
+      "path": "plugins/search/play.js",
+      "sha256": "30f79c0ccea5fae7dbe32a1d9b83c73a82e065effb01913d56232032eaa86083",
+      "size": 6093
+    },
+    {
+      "path": "plugins/search/playcall.js",
+      "sha256": "2ae1c0ea036fc9b41188752656b24f3d3a7bb0988151925c2c64537d9da71169",
+      "size": 7727
+    },
+    {
+      "path": "plugins/search/playch.js",
+      "sha256": "bf65ec6ff7d89c8098a82cd999e92a2b2abd625229f4d20db45e0414fed2d90f",
+      "size": 9536
+    },
+    {
+      "path": "plugins/search/playsoundcloud.js",
+      "sha256": "4860146133d62cf6560c4f3076048841b46caf4c875470c73857eeb077b00e3a",
+      "size": 5162
+    },
+    {
+      "path": "plugins/search/playtiktok.js",
+      "sha256": "05fecb90a2aa8d437d0329e18faf342f3fad8250232d266d2d2bc9f583f2eacc",
+      "size": 5248
+    },
+    {
+      "path": "plugins/search/playvid.js",
+      "sha256": "f4863417f11d74ecf96c97532c60c8531aa01c7133f124224b3723b56a369f68",
+      "size": 6495
+    },
+    {
+      "path": "plugins/search/ptvsearch.js",
+      "sha256": "e644bb2dd7af3e51fed4bb772493bc47ef7a33a20472cece9c8f7e2462547ea8",
+      "size": 3988
+    },
+    {
+      "path": "plugins/search/resep.js",
+      "sha256": "7cb080107885a325baa83988395bb1d94a940844aabafe42feda38d6a4d1c9fc",
+      "size": 8973
+    },
+    {
+      "path": "plugins/search/searchthatsong.js",
+      "sha256": "b9ded1496bef936d5c3d92a69a779ac424bdb83cc4a524ced7019c580c5ff329",
+      "size": 9966
+    },
+    {
+      "path": "plugins/search/soundcloud.js",
+      "sha256": "d20a69120a7d3f747a3949acbe31f18962e536f7ea578a7998ebccec4f5508e5",
+      "size": 6863
+    },
+    {
+      "path": "plugins/search/spotify.js",
+      "sha256": "1c549f22f7b9427f43af27d3cf164c465f781033a9f36e7af6f053def6199702",
+      "size": 6579
+    },
+    {
+      "path": "plugins/search/spotplay.js",
+      "sha256": "4560ba6f6540654c5d460c2291da1f0d5cd6124d03e8d3d32ce3a5e2c316960f",
+      "size": 4837
+    },
+    {
+      "path": "plugins/search/tiktokfoto.js",
+      "sha256": "82293f17216fc0a24279d56d0bd4be3659f33f9c63e0a05eb258fd975f868821",
+      "size": 8435
+    },
+    {
+      "path": "plugins/search/ttsearch.js",
+      "sha256": "742aef60c6595dc2e1e0d9a8fc46b20d28f73d3485b546dac9a3474ff4b1f7b6",
+      "size": 6158
+    },
+    {
+      "path": "plugins/search/wikipedia.js",
+      "sha256": "571916ea2b877422e6b407a7df05979574b317f3a30cdae8a33ed20e8642fc6b",
+      "size": 10976
+    },
+    {
+      "path": "plugins/search/yts.js",
+      "sha256": "6182e732f567e46445bb0c29e4334080fc8b67c4ed2d6f56aead2099e469075e",
+      "size": 6581
+    },
+    {
+      "path": "plugins/stalker/countrystalk.js",
+      "sha256": "ef9b949c5feef126ac43bf5a7e1f30c0177ed07038695128640a67a9e0148b67",
+      "size": 6576
+    },
+    {
+      "path": "plugins/stalker/discordstalk.js",
+      "sha256": "a2bc67bf882b8b4cf3ced461a828173265fab792f53e6f96d87cad59ec7dc3ab",
+      "size": 5214
+    },
+    {
+      "path": "plugins/stalker/ffstalk.js",
+      "sha256": "f5285771c9fd6d88f44b499a852552a6650df181101a125cf715a6120c32ffc3",
+      "size": 8031
+    },
+    {
+      "path": "plugins/stalker/genshinstalk.js",
+      "sha256": "325a7d689448b2a3f6b22141342a83693cca478328059ead1d9b6c2221eb955c",
+      "size": 6120
+    },
+    {
+      "path": "plugins/stalker/githubstalk.js",
+      "sha256": "8e1245b3f686c9566efb5e1194bf1f1e09393643fbea8252ed92f7de89d78b87",
+      "size": 5073
+    },
+    {
+      "path": "plugins/stalker/igstalk.js",
+      "sha256": "97023b61bf82fd36a56932a0dcb176d43916b31f095c4df674846a6d01068fda",
+      "size": 5646
+    },
+    {
+      "path": "plugins/stalker/npmstalk.js",
+      "sha256": "73484e3477cb34ef6080a6d2e81c04469a1c6fadff3c91b0498b919a4d8aafd2",
+      "size": 5988
+    },
+    {
+      "path": "plugins/stalker/pintereststalk.js",
+      "sha256": "68943ffe5b948f88c22037762b901752f99e3c5aac9ae6d48f04e1e643d4d27d",
+      "size": 6301
+    },
+    {
+      "path": "plugins/stalker/robloxplayer.js",
+      "sha256": "a0561e0538a34827a4df42f7991e46cbfa38dd5be47a0e4e8850bc204b4066e4",
+      "size": 5563
+    },
+    {
+      "path": "plugins/stalker/robloxstalk.js",
+      "sha256": "e38bedf44c68c531a5131e61251c2bc2964262a2c6a3b4ea4bbd7d6f5d4bd011",
+      "size": 11053
+    },
+    {
+      "path": "plugins/stalker/stalkdc.js",
+      "sha256": "127979130da72da1190b5944eb0f8b12a2f95d1f76ab7b453b5b73864ca7e2fd",
+      "size": 11667
+    },
+    {
+      "path": "plugins/stalker/stalkml.js",
+      "sha256": "704768d59909d483489f57827f2fda780a61ab020bc70c47d08013fe1f0bb059",
+      "size": 7690
+    },
+    {
+      "path": "plugins/stalker/tiktokstalk.js",
+      "sha256": "36d02379fc7223b0110d412be68727960a19499877feda901388ba4a7ab68a88",
+      "size": 5685
+    },
+    {
+      "path": "plugins/stalker/wastalk.js",
+      "sha256": "efc6c702066151e539d4c080a3862f52eff76f4f4b825a0a3b92c2dbe50a45e1",
+      "size": 6770
+    },
+    {
+      "path": "plugins/stalker/ytstalk.js",
+      "sha256": "3f8a4b9de3d12fe81c1ecf4bbdd2fbb6700b8cbf3c74b48bd636d405f9fbf6da",
+      "size": 4788
+    },
+    {
+      "path": "plugins/sticker/animebrat.js",
+      "sha256": "8d0abc7727c7f9298b21fdc570c1a57ddc80bd2b6f8701451116398d8054ef64",
+      "size": 3820
+    },
+    {
+      "path": "plugins/sticker/attp.js",
+      "sha256": "b45303b0031445716e075db0a04cb0eb65a4aaf26f452f6d0421d54e2125369c",
+      "size": 5373
+    },
+    {
+      "path": "plugins/sticker/attp2.js",
+      "sha256": "c4a5bfec6d0974df55dbed03351d974f47949b092fc42be2d1f3cfcf460f4d1e",
+      "size": 4543
+    },
+    {
+      "path": "plugins/sticker/brat.js",
+      "sha256": "108cfda16f2d31bf1a87df1ba709d04932c32b370c8ec004721f2fbcb05e7710",
+      "size": 6453
+    },
+    {
+      "path": "plugins/sticker/bratcewek.js",
+      "sha256": "73ddb6244b6ae37506f2bafb728f283f7363e2aa0a0613260e97f0e4de94ba90",
+      "size": 3824
+    },
+    {
+      "path": "plugins/sticker/bratextra.js",
+      "sha256": "0a00471df83b0434140b8f2fa569aaf1c1bc746b904ad5b75f9851af48ab7de5",
+      "size": 17609
+    },
+    {
+      "path": "plugins/sticker/bratgreen.js",
+      "sha256": "a26eaff1876975ecc2d935aa14c22065b911b3fed1e0b4cbf779bd7436dd99f9",
+      "size": 3751
+    },
+    {
+      "path": "plugins/sticker/bratlocal.js",
+      "sha256": "1fd65f2c278a8fa0dafe403eb9b5b96930dbc308527247d13f2b82e1b2e5b4be",
+      "size": 17183
+    },
+    {
+      "path": "plugins/sticker/bratvid.js",
+      "sha256": "316e88426603ba43da3a20721ab5586e49dc13bb5c05b4279c9b8e84965bd86d",
+      "size": 4068
+    },
+    {
+      "path": "plugins/sticker/bratvid2.js",
+      "sha256": "7f8c0ee10443d29f8db117de07e5c87acda12e3c6ccbb6585c56d1cda66c6094",
+      "size": 3733
+    },
+    {
+      "path": "plugins/sticker/emojimix.js",
+      "sha256": "9e3f8f316b0364997977e322b2261aeaff737781218bc2f777a31d03140b0536",
+      "size": 4572
+    },
+    {
+      "path": "plugins/sticker/linesticker.js",
+      "sha256": "8f6a4d6091cf976caaf1df65acce2cae585d4a392288d353b8988fd69c81b450",
+      "size": 7228
+    },
+    {
+      "path": "plugins/sticker/pinpack.js",
+      "sha256": "08e185edc92b4c4524884163a9cdaa729c83fc38b189320de1564a273167e37f",
+      "size": 7618
+    },
+    {
+      "path": "plugins/sticker/qc.js",
+      "sha256": "efdca01f75f4e66640d55a92b6ab648f2e425b4477b8580266a58a2eebbc2973",
+      "size": 8300
+    },
+    {
+      "path": "plugins/sticker/smeme-animated.js",
+      "sha256": "b5b3a1648a8b8662234bee57dcc53c00aa7264cafbae5d6aa2612ea4c885a635",
+      "size": 5412
+    },
+    {
+      "path": "plugins/sticker/smeme.js",
+      "sha256": "bc412455282ea3098cf3534f8747e3ef0db124e5ee8372fe68b7f876278fb289",
+      "size": 7919
+    },
+    {
+      "path": "plugins/sticker/smemevid.js",
+      "sha256": "1cc448ced0e6adf281876ac1ae2744960cf30fb5539c22f748047167c338fd0e",
+      "size": 8179
+    },
+    {
+      "path": "plugins/sticker/sticker.js",
+      "sha256": "e0c0f9c41b30de35af2f25598b3cf4d170c4f90534c0b394bd474c954cd75bdf",
+      "size": 12041
+    },
+    {
+      "path": "plugins/sticker/stickerly.js",
+      "sha256": "25ce27a0dd3f9b58dce2981d687cce5bf7864e95a99e889d52377867ae42b152",
+      "size": 10029
+    },
+    {
+      "path": "plugins/sticker/stickerpack.js",
+      "sha256": "f0a15e66297462f1238358e244058b27b9f0e5a846ad26aa4a46a6189d3cec79",
+      "size": 9874
+    },
+    {
+      "path": "plugins/sticker/swm.js",
+      "sha256": "52c8f3f2929c8af0926b9bb8ca7a4b412980fd51c17db4514d1a91ae8a0ba17a",
+      "size": 6381
+    },
+    {
+      "path": "plugins/sticker/ttp.js",
+      "sha256": "52ac1b3b565a27ecb4813a40a33d23f1429130bcb20c6356c072baa5d024884a",
+      "size": 4226
+    },
+    {
+      "path": "plugins/store/addlist.js",
+      "sha256": "d4221195ff10c1011c752b17fcdc4475c1d9c0f78a7cdcd1a87e1ba75b3c2371",
+      "size": 8313
+    },
+    {
+      "path": "plugins/store/addproduk.js",
+      "sha256": "fd96a4ec1e262cf2ceaece2e16d5242d35c149b9aa1d29e327938588d9694733",
+      "size": 10722
+    },
+    {
+      "path": "plugins/store/addstok.js",
+      "sha256": "f52518a48220fa580b490477a71c8f94ce4075aded8aa1ba5de555804f7f5de5",
+      "size": 13112
+    },
+    {
+      "path": "plugins/store/beli.js",
+      "sha256": "ebc5f5c5d28762e9ad9b2f3e040a1b642c7a01e3483ded21ea2993c23a559ddf",
+      "size": 9380
+    },
+    {
+      "path": "plugins/store/done.js",
+      "sha256": "636de081a12eaa36ac6047a3f1922cf13d4fefe5a5ec3718e334f9a8cc286341",
+      "size": 12566
+    },
+    {
+      "path": "plugins/store/editlist.js",
+      "sha256": "ca5f7fce22319b6e1829edebd7706ae5061104c3c87c7265e6a68597d6b3966f",
+      "size": 9471
+    },
+    {
+      "path": "plugins/store/editproduk.js",
+      "sha256": "05fb38ab6a898a578c534e48031535e75701e05b0f7280321d22567e05713dd1",
+      "size": 12749
+    },
+    {
+      "path": "plugins/store/editstok.js",
+      "sha256": "ba7559676839829aee59a149ddbd282e92ba9cd6081b48234d69c20b169f449e",
+      "size": 6747
+    },
+    {
+      "path": "plugins/store/hapuslist.js",
+      "sha256": "250bcd2f5fcab847ddc64f12e9eb30de4954bda6218bbe218dd7fa5c912b450f",
+      "size": 4285
+    },
+    {
+      "path": "plugins/store/hapusproduk.js",
+      "sha256": "ef52d7b5cb3e4e287e30eb08d627c93b1626fdb461601fa3cf759766de115954",
+      "size": 4975
+    },
+    {
+      "path": "plugins/store/hapusstok.js",
+      "sha256": "843f668c50f5983a88bf97aad7778d194cfda3f99a7feb55638bcd681c93de47",
+      "size": 6610
+    },
+    {
+      "path": "plugins/store/list.js",
+      "sha256": "9648fda956709033564efd3a2659f806dfdf2baaf351a394c654064cd347be75",
+      "size": 4902
+    },
+    {
+      "path": "plugins/store/listproduk.js",
+      "sha256": "21619e13c2adc514d7ef6d1de7e344d80bbc9ac95653fd347b0fb374d9d4ceff",
+      "size": 6294
+    },
+    {
+      "path": "plugins/store/liststok.js",
+      "sha256": "93e8f5c912593e075fb921fe8ca457cfeca333dbfcbe54f5e24a1156a7d96ada",
+      "size": 7391
+    },
+    {
+      "path": "plugins/tools/bandingkan-hp.js",
+      "sha256": "042ec9919c6e6a1d16aacb43a4a0fad7307918fdc017b1faeff6a89920c9a95a",
+      "size": 11701
+    },
+    {
+      "path": "plugins/tools/carbon.js",
+      "sha256": "f00620263f12e4c88941c721de595a4f78a233edbd92dd269ef994429c8302b1",
+      "size": 6072
+    },
+    {
+      "path": "plugins/tools/caribug.js",
+      "sha256": "06cdf64d47a4aacc65b0b8f0c2a22827a99431fe45ec3a30f4be33fa1303d223",
+      "size": 5367
+    },
+    {
+      "path": "plugins/tools/cekidch.js",
+      "sha256": "226a4d545d18e1fb8d39184e06f6995254eee4831447ff3849dee0ea4baf3a85",
+      "size": 7215
+    },
+    {
+      "path": "plugins/tools/cekxl.js",
+      "sha256": "c6a69f0664afd0853871345035b86576555da9f1f813f304f94407ecead216f9",
+      "size": 8976
+    },
+    {
+      "path": "plugins/tools/cjstoesm.js",
+      "sha256": "e3826841ee5823edb5ed927a7193195be40a1d896dcf746d4f3809aa5015354e",
+      "size": 9281
+    },
+    {
+      "path": "plugins/tools/converter.js",
+      "sha256": "d01ac2d5001612af233f999d3f9a7e9cfc837c41f762694a32dedb5140819968",
+      "size": 7235
+    },
+    {
+      "path": "plugins/tools/dafont.js",
+      "sha256": "bdf2288a27bb5b7d0b983ed641cfdc7ca6657b4d0fee783ed72a0bb18e28ec64",
+      "size": 7688
+    },
+    {
+      "path": "plugins/tools/delpp.js",
+      "sha256": "09016ebaf5aa3034a558cbe56f67a057bbe8f1e59d58c8d43beab866f9459499",
+      "size": 3286
+    },
+    {
+      "path": "plugins/tools/deploy.js",
+      "sha256": "679a9c37aad45eb1ff0ab0a9eda2ba8dd91610de3cc48903d26c0d82a0f4e33f",
+      "size": 8661
+    },
+    {
+      "path": "plugins/tools/emojitoanimasi.js",
+      "sha256": "4ddb265569736ef08c836ea34f99c02f9efcdaffcd0c59fdb4a90c42e389a49b",
+      "size": 4647
+    },
+    {
+      "path": "plugins/tools/emojitoimage.js",
+      "sha256": "2eb3713c4218de4b94773b5456f4412a8f5c81da26f9d28b46c382e8a1d02ce6",
+      "size": 5247
+    },
+    {
+      "path": "plugins/tools/esmtocjs.js",
+      "sha256": "85c89d878bdb15f43ed413ac1e642f5326ed1b3e13efcdd757b34fbdcf1e66ff",
+      "size": 8143
+    },
+    {
+      "path": "plugins/tools/getpaste.js",
+      "sha256": "a23267a5527daec27ff5b7d52f43abfa5ea71b65dce6c9129432cc3ab9cd77fd",
+      "size": 4371
+    },
+    {
+      "path": "plugins/tools/hd.js",
+      "sha256": "87f0562b5b112d58178c0f55ca99e1c4759e130015e8e33fd5cb12656038e207",
+      "size": 4943
+    },
+    {
+      "path": "plugins/tools/hd2.js",
+      "sha256": "b00c6c5ef1741325b3636f06533cdf78cf0a160f4b9ad703e420c2a6343ab1d0",
+      "size": 5915
+    },
+    {
+      "path": "plugins/tools/hd3.js",
+      "sha256": "a196a6cf2fecda11c54b819b0683a1d4de226d15eca718b6d802b623608c9234",
+      "size": 6160
+    },
+    {
+      "path": "plugins/tools/hdvid.js",
+      "sha256": "4a79181ca5cf9b384904e88aea01fdf1e93ce3454ce3a1d568ceaa33a6151a2a",
+      "size": 6960
+    },
+    {
+      "path": "plugins/tools/hitungwrmlbb.js",
+      "sha256": "3bfd3d3288d9a2a3bb68c8d04d10908c75c06661b81e0e8c7fb85b9b7b19945a",
+      "size": 5055
+    },
+    {
+      "path": "plugins/tools/imgtoprompt.js",
+      "sha256": "ded3df1a894ad607d3d96e374e812027a6d74b213a7dc6f1960d99dc65383862",
+      "size": 5425
+    },
+    {
+      "path": "plugins/tools/invoicemaker.js",
+      "sha256": "6e7a42ad5bdfb3fbb8b5e4dbdd985ac3f185ffbfa063c4074e6e5a876e6d48d5",
+      "size": 8753
+    },
+    {
+      "path": "plugins/tools/ipwho.js",
+      "sha256": "96a38212e1d0644b1910e843649007e0ddb6cf6c24833432692c86224efa9435",
+      "size": 11637
+    },
+    {
+      "path": "plugins/tools/izen.js",
+      "sha256": "515f01a00903fdae048e73d4414df82a4772a8c6c12e5b49943fceddcc52c7d9",
+      "size": 4410
+    },
+    {
+      "path": "plugins/tools/kalkulatormbg.js",
+      "sha256": "c9425aba8c0e34386ba9f8636bf6817f321d983a55d359a455f65baa122f67de",
+      "size": 8340
+    },
+    {
+      "path": "plugins/tools/lookup.js",
+      "sha256": "86fbe8a350491420bf298b440d219d6fa3c7b6b51f32d6d03344fd08d917fbe6",
+      "size": 7662
+    },
+    {
+      "path": "plugins/tools/musikapaini.js",
+      "sha256": "5ef0cb5b4342cc82065ec733668a2a82722d0b7a7b4db682b4c6b6717aea5dce",
+      "size": 7912
+    },
+    {
+      "path": "plugins/tools/nikparser.js",
+      "sha256": "e79ee2418401531c11304fbacc43a69d894e84522b0ad85cfe7fc0f49bf20c09",
+      "size": 6699
+    },
+    {
+      "path": "plugins/tools/nulis.js",
+      "sha256": "3f581d4a53799c5ac7ae984ae88d75d1b40baa3dc8f23929839000c6a43d7f08",
+      "size": 6831
+    },
+    {
+      "path": "plugins/tools/ocr.js",
+      "sha256": "8bbfcb133bc18ffe32e224273e3f748779f88d33ec85d56e2f015f97745b4c8a",
+      "size": 5361
+    },
+    {
+      "path": "plugins/tools/pastebin.js",
+      "sha256": "d675f1a0e297514b029a44c4ec8732f70acec07311e1a6aa00208033e3dbd149",
+      "size": 5430
+    },
+    {
+      "path": "plugins/tools/phisingataubukan.js",
+      "sha256": "c3747b5a0adf9add6959d613b03edc446806aca3792c7fe8eed9c3b6ebab26ad",
+      "size": 5500
+    },
+    {
+      "path": "plugins/tools/ptv.js",
+      "sha256": "580914b0b23674722d28d9c31c0f9d848bb3531ee25cde16468b426b95091bf3",
+      "size": 3982
+    },
+    {
+      "path": "plugins/tools/qrcustom.js",
+      "sha256": "60eeeed41f886ef63a6bd7f67bfd0c8c5176188464f4d20023accf01743590ae",
+      "size": 5347
+    },
+    {
+      "path": "plugins/tools/qwa.js",
+      "sha256": "3b05c7422d4b79235095c150c53f725f58071d0da5fd835e0b35551df0dc278f",
+      "size": 6835
+    },
+    {
+      "path": "plugins/tools/readmore.js",
+      "sha256": "0298546763b91269a11b8883ec8279d16815db4cc69e69efdb17212a9d5b9d91",
+      "size": 3214
+    },
+    {
+      "path": "plugins/tools/removebg.js",
+      "sha256": "5cca3a81b0add8c2f9a3cc5fe7f63d719252a30fe2c629f9a2869833f524e380",
+      "size": 4660
+    },
+    {
+      "path": "plugins/tools/rvo.js",
+      "sha256": "7f6c3798676d1e9836dd100436c3486b671dba584c643905f0f432f82d55ba65",
+      "size": 5844
+    },
+    {
+      "path": "plugins/tools/sendngl.js",
+      "sha256": "359305c8a596dd4f8119081f6aed2b2b66eed0f1205acc379db0b312262feb97",
+      "size": 3943
+    },
+    {
+      "path": "plugins/tools/setbio.js",
+      "sha256": "ad9cdb9db98229e31fb392d6395853e92c695a8a630640684a093d154d47efdc",
+      "size": 4102
+    },
+    {
+      "path": "plugins/tools/setname.js",
+      "sha256": "b41b86825d9dc4a9dfc5c73ad148af0071a9176403bd53eeff4c5a2b9c478ebb",
+      "size": 3535
+    },
+    {
+      "path": "plugins/tools/setpp.js",
+      "sha256": "d30e43ea7f7a7e2bfbd4f3de95bbb954eec70b24d1e3d4a5a8f5cadb8ac1bda5",
+      "size": 4038
+    },
+    {
+      "path": "plugins/tools/spamngl.js",
+      "sha256": "f94fb1375e726cc36843ce14ac0539fd0483ffde51344129aa7e3fd976a1407c",
+      "size": 4443
+    },
+    {
+      "path": "plugins/tools/ssweb.js",
+      "sha256": "17dda6925c6f6de085f59c9a18ab61dfd8f96eb68437f72f40569b8dea61365f",
+      "size": 4836
+    },
+    {
+      "path": "plugins/tools/styleteks.js",
+      "sha256": "d1181e551b486802c9690c315bdb0e3db708978f8757f1457e1589bce2675cb5",
+      "size": 15007
+    },
+    {
+      "path": "plugins/tools/tempmail.js",
+      "sha256": "8b15af3db5556f9513137a99e586700dd57e2c42e280b061a8b20a6858a5806b",
+      "size": 6892
+    },
+    {
+      "path": "plugins/tools/toaudio.js",
+      "sha256": "802d95cf56df6518b9b0cf11b047fd5ff6258f4b355db38152f319462ab531e3",
+      "size": 7369
+    },
+    {
+      "path": "plugins/tools/toimg.js",
+      "sha256": "6babecc7d738fdd2bcb4afe0a6e95f3057e7b04093b6de224aa1aad3555bbec6",
+      "size": 5355
+    },
+    {
+      "path": "plugins/tools/tourl.js",
+      "sha256": "0628a3690676e1051a1f2cb5c33d05f6fd5c4e7600c841d95d7542eea6ad845f",
+      "size": 30363
+    },
+    {
+      "path": "plugins/tools/tovideo.js",
+      "sha256": "010128c022e05513c29e1d7302c13357c5b3cddf8b0f0d66577cab87be3b97e9",
+      "size": 8771
+    },
+    {
+      "path": "plugins/tools/tovn.js",
+      "sha256": "2c14522bc5b7825a3a13b2d6aa2607620ab2d3d431cbf6d8ef2ba266d7397d55",
+      "size": 6985
+    },
+    {
+      "path": "plugins/tools/transkrip.js",
+      "sha256": "8b6493ac670b726f72ef12d15e9034f1c42a4f1d1c99d6f51ea327f7d016d9eb",
+      "size": 7586
+    },
+    {
+      "path": "plugins/tools/txt2qr.js",
+      "sha256": "759fffb84d48f891af41d78e7816e6099cca971ff06449637f5025660c6bab3e",
+      "size": 4013
+    },
+    {
+      "path": "plugins/tools/videotranscribe.js",
+      "sha256": "8575f176b56ef32683e07e864a62b6bb74f923df1bf84b17379d73b4809fa832",
+      "size": 7340
+    },
+    {
+      "path": "plugins/tools/wink.js",
+      "sha256": "885118917392bbb22d0c9ee8d7e96fbc8556a5b911fcae1f56461682a0ff0004",
+      "size": 5636
+    },
+    {
+      "path": "plugins/tts/tts.js",
+      "sha256": "74100bc0d8930d791c2da283ec88e2a6e13ffe58f11fcd63d03c24f360b1d522",
+      "size": 3554
+    },
+    {
+      "path": "plugins/tts/ttselon.js",
+      "sha256": "9ed74fa17e77d4d3328649ce6996dbd597862065cbbd282a750c92528abb651a",
+      "size": 5457
+    },
+    {
+      "path": "plugins/user/bataldaftar.js",
+      "sha256": "558adf7032053c5b1a39e98e33f564c2e828d5d05588c332921888e63bc80f1c",
+      "size": 2950
+    },
+    {
+      "path": "plugins/user/birthday.js",
+      "sha256": "59e4cdca834533e84cc2d4d975e743d534880a69ecf1c7c9abf325c5d95efaa7",
+      "size": 5122
+    },
+    {
+      "path": "plugins/user/birthdaylist.js",
+      "sha256": "3245dcac880151f782c2d7fb547b4fd2e230fe5071831a42a8879edf27ecda79",
+      "size": 5843
+    },
+    {
+      "path": "plugins/user/buyenergi.js",
+      "sha256": "661f589b9338732ef08a7e509d4a30e6113ad254f1042f39a081ca05b69892f5",
+      "size": 5566
+    },
+    {
+      "path": "plugins/user/buyfitur.js",
+      "sha256": "9fc1bf14968b80d4b0d910ff1bfbad4938410d2124b702472717dae48fea0c13",
+      "size": 7291
+    },
+    {
+      "path": "plugins/user/daftar.js",
+      "sha256": "ad90e68ac7bc9b5e4823554dd3cfacae98902aab869dbfed2e1e9bd88c75fa7a",
+      "size": 23796
+    },
+    {
+      "path": "plugins/user/daily.js",
+      "sha256": "e316acaadf8f4d6558575411d3167f294f06de586d1c3f87b6164d2b1364173a",
+      "size": 5059
+    },
+    {
+      "path": "plugins/user/energi.js",
+      "sha256": "1d4b24eaefafa74c399adbf90dc95aeedc391c095c9f6afe347c1c64bda954af",
+      "size": 5471
+    },
+    {
+      "path": "plugins/user/exp.js",
+      "sha256": "9e1b2f14cbd2f5af126b86e6154b760e6ddd70ff93899a0902ef453c8540c48a",
+      "size": 4324
+    },
+    {
+      "path": "plugins/user/koin.js",
+      "sha256": "9e9594d075a37729f0e943f0ec189b835b65c1ec841d0592e37965fe4f436139",
+      "size": 4776
+    },
+    {
+      "path": "plugins/user/level.js",
+      "sha256": "5c6219f8ddf2ff62c47a455dfaff68ff48bdfa30668f23770abdb607a169e146",
+      "size": 6369
+    },
+    {
+      "path": "plugins/user/levelup.js",
+      "sha256": "a3201fe607e76d88237bfe84b921685cd17437ad2bd0699df354b64cceace54f",
+      "size": 4206
+    },
+    {
+      "path": "plugins/user/listdaftar.js",
+      "sha256": "650047db26b6795bc54f322c8b1c2f7f9fe5213422c8f6cb7112ae7ea6b0c8c4",
+      "size": 8986
+    },
+    {
+      "path": "plugins/user/notiflimit.js",
+      "sha256": "2cd6a463fb336bdc21f508d72d40143cda76f7c5bcb8803b29aff40805323a00",
+      "size": 3329
+    },
+    {
+      "path": "plugins/user/profile.js",
+      "sha256": "a8de46736b7815c7d8f944266c7faa120d6439c6268739db8a7992f7938fdf09",
+      "size": 15440
+    },
+    {
+      "path": "plugins/user/setbirthday.js",
+      "sha256": "342912dc90ee796ef2c0ae99c84c0d02c435767ee772bb02396b7c8763738819",
+      "size": 5565
+    },
+    {
+      "path": "plugins/user/unreg.js",
+      "sha256": "87e0303878513c534fd9b702d02c7274761444f6c2c23ccf4f015231259f58f0",
+      "size": 4271
+    },
+    {
+      "path": "plugins/utility/inspect.js",
+      "sha256": "5a31f07832000d76aae08e6e58b7048c462141773aea55a072935147b088dbb7",
+      "size": 8747
+    },
+    {
+      "path": "plugins/utility/notifmakan.js",
+      "sha256": "227761c2513cd86abd53fd6d10ca0aa0c4302877531310db28ce1bc365e66751",
+      "size": 8465
+    },
+    {
+      "path": "plugins/utility/notiftidur.js",
+      "sha256": "b8a8fec5716dbdf0d06491ba77e531d89a4d3fd856230e6dce3941c93c62e3e9",
+      "size": 7493
+    },
+    {
+      "path": "plugins/vps/cekvps.js",
+      "sha256": "86b19074044c88ad2f64b38cf3944810d9426034c2abdcd00f9ae3a952b91b80",
+      "size": 6561
+    },
+    {
+      "path": "plugins/vps/createvps.js",
+      "sha256": "e1602477b1f167270ec97e684da468ef23ab6f5db31cd71dc4a744566b078bb8",
+      "size": 9173
+    },
+    {
+      "path": "plugins/vps/delvps.js",
+      "sha256": "5044f4be8a7fe397e917b1b2bf848ef7cd60fa33bd58217e5670467f24e8c405",
+      "size": 4472
+    },
+    {
+      "path": "plugins/vps/listvps.js",
+      "sha256": "9d9cdf9bde6200c2fb9e3ca77fae1074bc5aa2625157d73d3cdc512206bf92cc",
+      "size": 5756
+    },
+    {
+      "path": "plugins/vps/sisavps.js",
+      "sha256": "53093133d0e97b1492ae372ee9fc41e07a37ed3079a6eaf0c48e67230673c28f",
+      "size": 5240
+    },
+    {
+      "path": "plugins/vps/vpskontrol.js",
+      "sha256": "01d5f5bc26ca4f290798d23dfdfc67ed075c4b9695eed8cc5ba4326ee33e6ec1",
+      "size": 5465
+    },
+    {
+      "path": "src/connection.js",
+      "sha256": "4f0157e9b93d7959ef0cf6aa18259307e301ea42a125f1b7251f957d8dd1d493",
+      "size": 46238
+    },
+    {
+      "path": "src/data/asahotak.json",
+      "sha256": "4b4eff618242cb8415d574acfbbb00b1ebe8adb586ac5cd33e4cea148af687f7",
+      "size": 35761
+    },
+    {
+      "path": "src/data/asmaulhusna.json",
+      "sha256": "688e10da81ecbd4c615a967e0e90578b1811df0cbd1c58b54146fce04d5fad5b",
+      "size": 20702
+    },
+    {
+      "path": "src/data/autoanime_winbu_sent.json",
+      "sha256": "2ca4a763d2bf6749ca14065317abab55162bdcf200e513d022a77e73d4706e5c",
+      "size": 255
+    },
+    {
+      "path": "src/data/autoanime_winbu_state.json",
+      "sha256": "9e5b2e29de29349324ebdcfab84271ecd335f42149447ec000adde183f424d11",
+      "size": 118
+    },
+    {
+      "path": "src/data/bucin.json",
+      "sha256": "a81dacf0700c4902200c1c27f5ccfff10e62e0a9685a373a5eee15fa68fb8975",
+      "size": 36989
+    },
+    {
+      "path": "src/data/caklontong.json",
+      "sha256": "b2c5896ce90fd669f328663556fe02a03fb31fcbf8993bbe7f7bba90aee367ee",
+      "size": 63889
+    },
+    {
+      "path": "src/data/dare.json",
+      "sha256": "88c6d66073c6b0d9c9ec17ba3e70167e1f5acaf77c82f14dd79d639af65a49b9",
+      "size": 6126
+    },
+    {
+      "path": "src/data/family100.json",
+      "sha256": "4d9d29dd643bb99f5ae4bfa2cc0d148c4cb0d3902cb0cf3fa5beb1beeb6d503b",
+      "size": 1594707
+    },
+    {
+      "path": "src/data/kataacak.json",
+      "sha256": "711a054b36a134ed69c4565f01185950b88f36ecb7d57cc7a26014c2ccdece9e",
+      "size": 1562
+    },
+    {
+      "path": "src/data/nsfw/ass.json",
+      "sha256": "05440c04b2bd1feb1e2e36dd485394a3cbf92195a4460de79a3b41a775e0a317",
+      "size": 6084
+    },
+    {
+      "path": "src/data/nsfw/bdsm.json",
+      "sha256": "691942ff52bf45c2dce8cd7310649327b65cab5afab80bdb5a78453338225395",
+      "size": 3303
+    },
+    {
+      "path": "src/data/nsfw/cum.json",
+      "sha256": "33d9bbed6db4907266418a2c2d2e7a12f674144ec34d31f8652796b638a8f8a6",
+      "size": 1278
+    },
+    {
+      "path": "src/data/nsfw/gangbang.json",
+      "sha256": "bb3ee280086c0a56cd087475c561bf64bf4ce946ada3d7f2f39111f9b6f050df",
+      "size": 5008
+    },
+    {
+      "path": "src/data/nsfw/hentai.json",
+      "sha256": "76fbffe8d2c029dc99ce05e9705b090c2825a6749722738ee67b70607679e8d5",
+      "size": 17768
+    },
+    {
+      "path": "src/data/nsfw/kasedaiki.json",
+      "sha256": "2acd63609c87b0087e7be2211be9d8038e29a664f14d78125c9a2843f6f949d5",
+      "size": 9298
+    },
+    {
+      "path": "src/data/nsfw/manstrubation.json",
+      "sha256": "448dcbb06c0977474a23bd60add350747806f1e36f4eb83cf2aae69b9741b36c",
+      "size": 18647
+    },
+    {
+      "path": "src/data/nsfw/opaianime.json",
+      "sha256": "f9afcdbe62919763ecc20013934cbf9b27b9c340acffb7417d4ab3429c883be4",
+      "size": 2441
+    },
+    {
+      "path": "src/data/renungan.json",
+      "sha256": "2d7676443416792304229b8be73bbea5885a971adee3fe74d7b230f4ee6ef397",
+      "size": 5705
+    },
+    {
+      "path": "src/data/riddle.json",
+      "sha256": "3b1e11ce4e5432f78a658cdb188e7832c9033f0945e0a19e279369ea28c1a8c3",
+      "size": 2916
+    },
+    {
+      "path": "src/data/siapakahaku.json",
+      "sha256": "05ef7998df146a3c343bbd7cec44ba5668bdde2e304d8a189ececb0c2eb4aac5",
+      "size": 41125
+    },
+    {
+      "path": "src/data/susunkata.json",
+      "sha256": "89c93fde7bb86f528ce652273126019901c8154973c96f690fa3017f7bfbfb95",
+      "size": 34838
+    },
+    {
+      "path": "src/data/tebakbendera.json",
+      "sha256": "56d07a67cfb8faa913e4cd0c62a97a0413ed4e6f163215f96e31ca2b809f7188",
+      "size": 44274
+    },
+    {
+      "path": "src/data/tebakbendera2.json",
+      "sha256": "2a4309932588b9acf2b5d3f83124d1d809ed996ab699b737c48365f2e28df887",
+      "size": 26641
+    },
+    {
+      "path": "src/data/tebakdrakor.json",
+      "sha256": "0f80bc6f18d25c60a18ef6bd6261c190d5b3cf4725e578cb87c7f9cd64c549c6",
+      "size": 10700
+    },
+    {
+      "path": "src/data/tebakepep.json",
+      "sha256": "31a77ef677be3626c37a50c2a2af26e3886729cf58845ab299ddfe5ed3a51fff",
+      "size": 16371
+    },
+    {
+      "path": "src/data/tebakfilm.json",
+      "sha256": "2edbdfc363fc8c4c737bd65435889bdea06aa89ab53b2c56b5a92fded6457148",
+      "size": 3056
+    },
+    {
+      "path": "src/data/tebakgambar.json",
+      "sha256": "2dcceb2c592407cff93d56f15251f263038016b58a3958870ce01769af415b5f",
+      "size": 233727
+    },
+    {
+      "path": "src/data/tebakhewan.json",
+      "sha256": "2568151dcca24cbc5eb7a75593846f1c57ceec2ca3126918508c5c2989912dd8",
+      "size": 2740
+    },
+    {
+      "path": "src/data/tebakjkt48.json",
+      "sha256": "85cb69d3f36226ccdb4c59ade3494764eb1e6402d7d05ef8c47d53d715f2c63c",
+      "size": 5381
+    },
+    {
+      "path": "src/data/tebakkabupaten.json",
+      "sha256": "0d6b0ae832754b3cd96378ed26bfc98211003984e907dd4d78c5f6c7093b992f",
+      "size": 91343
+    },
+    {
+      "path": "src/data/tebakkalimat.json",
+      "sha256": "9ffcd9f9c5b5cdc9dd6c847674a0196cda5eafc455a9611da81152f54a637fef",
+      "size": 10061
+    },
+    {
+      "path": "src/data/tebakkata.json",
+      "sha256": "98afe80d8b8b9abbb1a80876d55717d2633a5ff18769135ba8521399e4604586",
+      "size": 28012
+    },
+    {
+      "path": "src/data/tebakkimia.json",
+      "sha256": "0588c96686013c79e5c71110791a126c4d71465d87be39191daece66d00fc15d",
+      "size": 6647
+    },
+    {
+      "path": "src/data/tebaklagu.json",
+      "sha256": "52bdd10c57365b1bfbce46b99f0e4d7fc6c0eedc6b5551b1f2b07303e1cebd4f",
+      "size": 2815
+    },
+    {
+      "path": "src/data/tebaklirik.json",
+      "sha256": "ec8e6750020ede72a13a7b225ddcc43d391dc320610f755f555c994e9046354d",
+      "size": 5819
+    },
+    {
+      "path": "src/data/tebakmakanan.json",
+      "sha256": "3f180aa597287528cec733bb66f6d5bf80ff2066d692169482500c68f28f6e6b",
+      "size": 10910
+    },
+    {
+      "path": "src/data/tebaknegara.json",
+      "sha256": "7ce0656ab60ff4aecdd1dda484dfbdec3637504b6264cdf499093f0993c0e853",
+      "size": 2990
+    },
+    {
+      "path": "src/data/tebakprofesi.json",
+      "sha256": "00697a099ab4da436d193194810938ae086fa72b5f2df8ff49ca2deca22ad86f",
+      "size": 2691
+    },
+    {
+      "path": "src/data/tebaktebakan.json",
+      "sha256": "23a606440bcfc995725bb5e06a9332adefde463f608d93b78a67b50b6e1c4808",
+      "size": 18963
+    },
+    {
+      "path": "src/data/tekateki.json",
+      "sha256": "32421fccb64beafd6344a8da7932ff52e40a30833dd1cd61f49a58898b3f3ba2",
+      "size": 19077
+    },
+    {
+      "path": "src/data/truth.json",
+      "sha256": "5d39a42921020b042cb79f3f79dc15f8e2207511a8027caef0d328989a516a87",
+      "size": 4117
+    },
+    {
+      "path": "src/database/partner.json",
+      "sha256": "4718316c693f24dddbe15c491bf26866fefb69fa641c57056d354966d36ee181",
+      "size": 20
+    },
+    {
+      "path": "src/database/premium.json",
+      "sha256": "dafb3ab6857147a4b7371327c7712c5e280e832144ab4af2d237872e4a56dcaf",
+      "size": 19
+    },
+    {
+      "path": "src/handler.js",
+      "sha256": "a3f480dd93ef3d8088bc333bc734b286e5f67f9a161659f18b62b301ddd1d6e4",
+      "size": 74563
+    },
+    {
+      "path": "src/lib/tenki-agent.js",
+      "sha256": "1c70281386c7919a578fd482985c03f1461d23972090aa7457d3cd0da4bc17f5",
+      "size": 2609
+    },
+    {
+      "path": "src/lib/tenki-apimanager.js",
+      "sha256": "5b74d8c9809251aabf5c63727c26a5982476f4bed4d7a4a963a6501a639705ac",
+      "size": 39851
+    },
+    {
+      "path": "src/lib/tenki-asset-manager.js",
+      "sha256": "7cb699e6965bfb4abcba85f64a68f437bba1bd437ff8b26364040e521d9d307a",
+      "size": 5010
+    },
+    {
+      "path": "src/lib/tenki-auto-ai.js",
+      "sha256": "b65d7e1732823ffec70353988a10a239d5d469b23bbc46efe1632274657488a2",
+      "size": 49456
+    },
+    {
+      "path": "src/lib/tenki-auto-anime.js",
+      "sha256": "5aa131aaf127bf601eb4e98de24a481250297b84684209276f8d7d1f291aa61a",
+      "size": 16199
+    },
+    {
+      "path": "src/lib/tenki-auto-backup.js",
+      "sha256": "ee6023a43cf13a4d72d4ce290fee3105b3e290fab1efe8bd5d8d21e041f5180c",
+      "size": 14843
+    },
+    {
+      "path": "src/lib/tenki-auto-download.js",
+      "sha256": "b292af21471957cca46b82744df7f0021b64cd2d9cefec73aabb409594e789f6",
+      "size": 6963
+    },
+    {
+      "path": "src/lib/tenki-auto-jpm.js",
+      "sha256": "50824316c6e0b9d96343a38eecf56f65574d69799e63bcb553f6876b27563c78",
+      "size": 8092
+    },
+    {
+      "path": "src/lib/tenki-backup.js",
+      "sha256": "83f766b7f8927dae0cf8b0e4beb75e7353e7036d5be944ed9f3501128ba8cd58",
+      "size": 7483
+    },
+    {
+      "path": "src/lib/tenki-brat.js",
+      "sha256": "f7641910802d57428adf2daaf48d11d2078f4c47ae4ada98763a59ccef133a0b",
+      "size": 7638
+    },
+    {
+      "path": "src/lib/tenki-builder.js",
+      "sha256": "3c440eef0bab0951e3e6282629f44cd0976d1d523c8635ca6b7f2dafb3fe8030",
+      "size": 61886
+    },
+    {
+      "path": "src/lib/tenki-carbon.js",
+      "sha256": "bb0314db0ed68f2c963db9c43e375d3c76c162e9adf19c92ebbb4c79d21a990a",
+      "size": 6905
+    },
+    {
+      "path": "src/lib/tenki-channels.js",
+      "sha256": "476aa08004923494c2e10c74d6a3b6667ffdc3d0e938767224a46cb01b1e3746",
+      "size": 2100
+    },
+    {
+      "path": "src/lib/tenki-context.js",
+      "sha256": "96748f84d7ebf91eb9e72501b2fe039274e9c09c412c67e0b86617c0a9430f73",
+      "size": 8506
+    },
+    {
+      "path": "src/lib/tenki-data-pruner.js",
+      "sha256": "e6a9820dfde21fff8c6fdc9128ae7b368372c06997af0ef8c54cb51f395a05be",
+      "size": 4293
+    },
+    {
+      "path": "src/lib/tenki-database.js",
+      "sha256": "f63d7a9907d317c813017131d70e29799fa30839406833e47e72fbcc82eb147f",
+      "size": 29559
+    },
+    {
+      "path": "src/lib/tenki-error.js",
+      "sha256": "ccc7ca1617419f7533148f41d3245cf9c18fe8bdb9512fa3a216f57fe7e74c7a",
+      "size": 2710
+    },
+    {
+      "path": "src/lib/tenki-exif.js",
+      "sha256": "c30e04aac119021f1f47f2662281aff727e5d23380b1d5e372a778476e34889c",
+      "size": 15273
+    },
+    {
+      "path": "src/lib/tenki-ffmpeg.js",
+      "sha256": "68d37f9e86ba5daffd1c80601f1d8a0276387afbe899afbaf1f2d7dc07a254e3",
+      "size": 3989
+    },
+    {
+      "path": "src/lib/tenki-fisch-data.js",
+      "sha256": "318924dcbc6c93eb1fe63a7e5afe0dc6c0b87fa53b40f8e3e28ae3feadbb76ff",
+      "size": 35352
+    },
+    {
+      "path": "src/lib/tenki-fisch.js",
+      "sha256": "770977cb2d161970298a1de157e20d91a71fa3ce0f6d2715374449a37fa8fc48",
+      "size": 19019
+    },
+    {
+      "path": "src/lib/tenki-formatter.js",
+      "sha256": "1898d04d91f7d4011c3ca902d5c3bec833f0e6a62e09b0fbd87fce88aed3f862",
+      "size": 13947
+    },
+    {
+      "path": "src/lib/tenki-game-data.js",
+      "sha256": "19c240bf683028a4395dde121d210eb1c426e014a8e99f578bf1870a43d547c4",
+      "size": 11309
+    },
+    {
+      "path": "src/lib/tenki-game-queue.js",
+      "sha256": "dafdf64257b79b46ba8972781bd1c79f1357761bd9912cb70f67583adaa5f1e9",
+      "size": 5826
+    },
+    {
+      "path": "src/lib/tenki-game-ulartangga.js",
+      "sha256": "e164813d6fadb79340ae1da4855dadbeec4276bb0128614ca1964b65a0e0f4de",
+      "size": 5599
+    },
+    {
+      "path": "src/lib/tenki-games.js",
+      "sha256": "642e04c0b06ccea9f60aa7690bd2e17aeeb07422289b3c902a61b1e1df82dff5",
+      "size": 13946
+    },
+    {
+      "path": "src/lib/tenki-group-protection.js",
+      "sha256": "a7ab6f7fb431466979cc0db9e0692e1c8ddbdd2bab2eff4b9374e6c8d931962a",
+      "size": 53880
+    },
+    {
+      "path": "src/lib/tenki-http.js",
+      "sha256": "249c38d32c52f7cb34b6f1f37c9cca3942113fe4362095b0f2faecf27d06e51b",
+      "size": 3471
+    },
+    {
+      "path": "src/lib/tenki-jadibot-database.js",
+      "sha256": "0237c9cf825d23174a0c9f9564bb66d19bb0d91bcae8a7bddd6245ff3b382103",
+      "size": 8231
+    },
+    {
+      "path": "src/lib/tenki-jadibot-manager.js",
+      "sha256": "8b8309ac20a2a2389cec47ac6e320399bebc48765d2d27158ff69c44d711ca6f",
+      "size": 28575
+    },
+    {
+      "path": "src/lib/tenki-jpm-helper.js",
+      "sha256": "57d4a665ec2ef04ca47b7bf14186bf60153f78b0df698d64665d4c6b12c88eb3",
+      "size": 3559
+    },
+    {
+      "path": "src/lib/tenki-latex.js",
+      "sha256": "356b86e7aa1452da97abdf4bf2a3f8fe53cab035ff830f0fa6c2ff2e922fcdb6",
+      "size": 3797
+    },
+    {
+      "path": "src/lib/tenki-level.js",
+      "sha256": "a0c94dfae8d486280ac1bad0bf7fb67263354c5711be90c708506df64909e1c5",
+      "size": 11571
+    },
+    {
+      "path": "src/lib/tenki-lid.js",
+      "sha256": "58a811c83c456f4b577a41221bf568bb34e9fb42b8e66c25925b3888bf79d94e",
+      "size": 15599
+    },
+    {
+      "path": "src/lib/tenki-logger.js",
+      "sha256": "8a0030a6381e08d183afcd96529914de299c19698063a6a21fae57525e94b0ad",
+      "size": 15459
+    },
+    {
+      "path": "src/lib/tenki-memory-monitor.js",
+      "sha256": "3e8f36c68f9357913206fc991a0cbcfe697c922383cb68e26da5a5d23d063424",
+      "size": 3370
+    },
+    {
+      "path": "src/lib/tenki-menu-audio.js",
+      "sha256": "1ec6f98f55987a3b0af8f64217399248c1cdbbf82d9359615bbea17ae16455f1",
+      "size": 10071
+    },
+    {
+      "path": "src/lib/tenki-message.js",
+      "sha256": "a10f9d3f45b823056024655f08ec50f59d124f63cfdd0f762289845ea0575787",
+      "size": 8992
+    },
+    {
+      "path": "src/lib/tenki-middleware.js",
+      "sha256": "e26c2c0c7c8fc0b4694bffa9dbe745e8ece9f11daa43152ff92df8d8eb3bff05",
+      "size": 11953
+    },
+    {
+      "path": "src/lib/tenki-minecraft-data.js",
+      "sha256": "bd73d058ce6ef6af47ab6aca070693efe9dc7ada7d6de72ad5f9bfd02209a709",
+      "size": 39467
+    },
+    {
+      "path": "src/lib/tenki-minecraft.js",
+      "sha256": "5c62d19eb44d0d157cf2432ea407d63b74045fc7a79cdbbe553a33d7cbc40ca7",
+      "size": 25920
+    },
+    {
+      "path": "src/lib/tenki-money.js",
+      "sha256": "10e514cfa3b60ded81ce22c47264417c92925889f40f3d6236ba959334c3a10a",
+      "size": 7762
+    },
+    {
+      "path": "src/lib/tenki-notif-scheduler.js",
+      "sha256": "49dad5eb83f660889f17e8a3a6c3e12340c22ede5d7c63e62c7315ea00adfe50",
+      "size": 12991
+    },
+    {
+      "path": "src/lib/tenki-otp-service.js",
+      "sha256": "9a06e947b446f01ae01802c2fb4d31e36ba3faadb8786e65cdf584d9ba5461a5",
+      "size": 6674
+    },
+    {
+      "path": "src/lib/tenki-panel-jeda.js",
+      "sha256": "7e49e4f77acedb490415d41864ad6978e031ec6bf65f0233baa642c09a903a97",
+      "size": 4308
+    },
+    {
+      "path": "src/lib/tenki-performance.js",
+      "sha256": "5361a63422be0e62ad77b6dff7a2c139e83ea34d2b3c79297e31e2e2b1bb53ea",
+      "size": 5636
+    },
+    {
+      "path": "src/lib/tenki-pinterest.js",
+      "sha256": "0086022183ec64515ab3b78b696764a5a6bc513be01dd036ea62377f21aec0f3",
+      "size": 8156
+    },
+    {
+      "path": "src/lib/tenki-plugins.js",
+      "sha256": "85bbcc8476505ed53d20a0e153252a7d06aab28b47e174e5c2c6eb10f7e38fdf",
+      "size": 16225
+    },
+    {
+      "path": "src/lib/tenki-premium-db.js",
+      "sha256": "90e976fb01aabfff863cf9d4856c8d4a6454836c218bb711dd7a4d0d20b33a2f",
+      "size": 13806
+    },
+    {
+      "path": "src/lib/tenki-profile-picture.js",
+      "sha256": "28aa63904f4fa3b0a003e58aaab5d457ea97884d2abdc32cfda7fd4e938f3f7f",
+      "size": 3507
+    },
+    {
+      "path": "src/lib/tenki-reconnect.js",
+      "sha256": "26aef722a7ce2028a34b4f3dc5b00f581ef4847cfd86ff09c77acff852f47d3c",
+      "size": 5229
+    },
+    {
+      "path": "src/lib/tenki-roles-cpanel.js",
+      "sha256": "65256ff963bef9a7f634806aacbf901bb8c0d9426803c65655adbbc2b8fe11f2",
+      "size": 8428
+    },
+    {
+      "path": "src/lib/tenki-roles-digitalocean.js",
+      "sha256": "6ff0b64585d1628a1939743c9af5ce07062a18e0f7729a1d327bdd2a9cf77931",
+      "size": 8395
+    },
+    {
+      "path": "src/lib/tenki-roles-linode.js",
+      "sha256": "2a1de02e5c027a2b55dfc7b4efc23b6cc7a65dcaf122cde63200291fad9a5d5a",
+      "size": 8488
+    },
+    {
+      "path": "src/lib/tenki-scheduler.js",
+      "sha256": "0b91b90dcd44dcef09a1a2a7c7af4742fbd856ebef06ef85a5771eb7b6cd7cdd",
+      "size": 26200
+    },
+    {
+      "path": "src/lib/tenki-serialize.js",
+      "sha256": "1519b5d19cc830fa67ceaed5508328ac87c9748b36aac1c625094a608fdb7977",
+      "size": 50449
+    },
+    {
+      "path": "src/lib/tenki-sholat-api.js",
+      "sha256": "eaf9d2412f4e20df03cde9db39576e8b06c52df60fd246b026425c6cb430327f",
+      "size": 5177
+    },
+    {
+      "path": "src/lib/tenki-sholat-scheduler.js",
+      "sha256": "cdc470e52daa1a1789e801975527ddc17cf2b4c385fa9fd612e8da1bcc97edf9",
+      "size": 12996
+    },
+    {
+      "path": "src/lib/tenki-similarity.js",
+      "sha256": "915b8db0422ce52116f9d21d1ef2ec7a35a206a7dc4f92f565727f0ab7331908",
+      "size": 15539
+    },
+    {
+      "path": "src/lib/tenki-socket.js",
+      "sha256": "42919d4914cf7e4d2b7ecb0753c1a74c076ebdbc6e08e23efda326f7df266c40",
+      "size": 36116
+    },
+    {
+      "path": "src/lib/tenki-sticker-command.js",
+      "sha256": "c69d930e94e13f75e0bba1293ac40e02c0c5cec4d204066f1cd924d0b914dd92",
+      "size": 6661
+    },
+    {
+      "path": "src/lib/tenki-store-backup.js",
+      "sha256": "4d2f7725f6cbca65ad48d81fad7b5ec930dbad28cf730fdc69186e65119e7a1f",
+      "size": 8245
+    },
+    {
+      "path": "src/lib/tenki-temp-cleaner.js",
+      "sha256": "3ee53370d05efcd89b6a4e35a3cfc460050d25596efd658b9aa5bb24db07e722",
+      "size": 3439
+    },
+    {
+      "path": "src/lib/tenki-time.js",
+      "sha256": "c9d9c2de8237cc121c9d10388f074e60304bad362f158cd5c7eeecc06c5aa5b6",
+      "size": 3770
+    },
+    {
+      "path": "src/lib/tenki-tmpfiles.js",
+      "sha256": "e3534f34e83c760f0f3b2949d82565de4bc963f7ce95b2f6042ce0f457d4b3ad",
+      "size": 3726
+    },
+    {
+      "path": "src/lib/tenki-updater.js",
+      "sha256": "a4408a2b4ab9c21e9f6b08819c1100065fda51779ec5112cb06a3f52253e8a51",
+      "size": 18690
+    },
+    {
+      "path": "src/lib/tenki-uploader.js",
+      "sha256": "d13a0d6bda8e9c2d4899eefae2a85ecf9272354d7650f6332428ca5ed36054a4",
+      "size": 5555
+    },
+    {
+      "path": "src/lib/tenki-utils.js",
+      "sha256": "aef91cff1f5c1a9da55f5cddabeb55b071c68f4ca556cf25c63c8de1ec79af16",
+      "size": 11171
+    },
+    {
+      "path": "src/lib/tenki-welcome-card.js",
+      "sha256": "b0c5788382c1a9f678cd1cfa2ab1cf2a6a98e3d550b79ce4b489ace5e5892eef",
+      "size": 21321
+    },
+    {
+      "path": "src/scraper/aio.js",
+      "sha256": "6eeeb8b23346bd7ebb367be6c8f577287d1b2469f7ee73ac80877a51366f7a20",
+      "size": 11918
+    },
+    {
+      "path": "src/scraper/claudehaiku.js",
+      "sha256": "1bdcbc72fc9cbb514cee88c5fbb1bf59ef7093aeb481ae4661a7aaabb2c2d689",
+      "size": 5748
+    },
+    {
+      "path": "src/scraper/dafont.js",
+      "sha256": "8b84b9294c8c02984ddb1e831d19dda32415150b1347117fb08f17b4b32829e6",
+      "size": 4701
+    },
+    {
+      "path": "src/scraper/dailymotion.js",
+      "sha256": "84518df20c6f74bc09a65035020797641f98316f66937dde14d81d302fcccebd",
+      "size": 3954
+    },
+    {
+      "path": "src/scraper/deepseek.js",
+      "sha256": "96006cccaa50168372e3988f22a98590d13f58a8970e90e934376ce85eec83eb",
+      "size": 7229
+    },
+    {
+      "path": "src/scraper/douyin.js",
+      "sha256": "1195b150d3ead324b069e6db3ced4feba7b934f547a709fd20d5b39950b32c9a",
+      "size": 3471
+    },
+    {
+      "path": "src/scraper/dramabox.js",
+      "sha256": "79d1adaea1d9570e3774ab5af76fb8cd49842f17a480e616c61ed89ca211ebfb",
+      "size": 3398
+    },
+    {
+      "path": "src/scraper/fbdown.js",
+      "sha256": "9122527e2b6d0a74b41ed9ef2fe2f999d31f4cbbdabe56f5a9a21db2ad3749e5",
+      "size": 2552
+    },
+    {
+      "path": "src/scraper/feeb.js",
+      "sha256": "bac28cc8da8faea81dc146d71ca2818a92e27f7f85e7318f21e544f4422ae041",
+      "size": 7322
+    },
+    {
+      "path": "src/scraper/gemini.js",
+      "sha256": "58a068af54d38625884a31ab63d671539ba64d7ff1de90f08f1e1f0b4f395953",
+      "size": 6089
+    },
+    {
+      "path": "src/scraper/geminiVision.js",
+      "sha256": "9299c65ed692a4122009a8aed8cebe29e31a85463bea756e8ac34a0ae0d0abd2",
+      "size": 3712
+    },
+    {
+      "path": "src/scraper/google.js",
+      "sha256": "9c7abdba9dd9eb0016cbc3a42051eaf9e7574f364190f6d295e9357386a33dac",
+      "size": 6619
+    },
+    {
+      "path": "src/scraper/gpt5.js",
+      "sha256": "48ca9eb67c922c95473b20bd36632c961823a6271b0841ae3c7dd15f1202b8c0",
+      "size": 5629
+    },
+    {
+      "path": "src/scraper/gpt52.js",
+      "sha256": "b91236e95915292535c6737ef01dda5d014b80953f8c1136083647ac1bc7f20c",
+      "size": 23441
+    },
+    {
+      "path": "src/scraper/gsmarena.js",
+      "sha256": "4d7dd4a8114f629ae72c9aa3bb53cbc17f1da14dfff00a4abafc6d3cb3000bb1",
+      "size": 2653
+    },
+    {
+      "path": "src/scraper/hd.js",
+      "sha256": "209af62f42576f2cd0a7438c626eee729421dc3a294a322f5a286d6044b0cbeb",
+      "size": 4579
+    },
+    {
+      "path": "src/scraper/hdvid.js",
+      "sha256": "234b0ee9013d6891708b4a8a14c278a2ad15738054c772731c5f259ec41bcb84",
+      "size": 7137
+    },
+    {
+      "path": "src/scraper/hdvid2.js",
+      "sha256": "206db543b25cc1d325cd45a13531140dc3d8618336eb30b0eef757a7613e23d0",
+      "size": 8879
+    },
+    {
+      "path": "src/scraper/hokinfo.js",
+      "sha256": "57d29462ccdf33088846001498275bd249bde2b8cc68795c89c77db9f0096ab7",
+      "size": 4946
+    },
+    {
+      "path": "src/scraper/ig.js",
+      "sha256": "dd69ff586d953c34a7d593f485b04f60ce3a6109b1f7cfdf1834bcaa39d28cd0",
+      "size": 4011
+    },
+    {
+      "path": "src/scraper/img2img.js",
+      "sha256": "e248967dd12c0f0ed33cd2301429f2fcfd3f0a7dc6482a703b9d37e0c680086f",
+      "size": 4547
+    },
+    {
+      "path": "src/scraper/img2prompt.js",
+      "sha256": "37fc5b2080a8fe4e9a7cdfbc0dc7e65695530832a76348ab3dbce0b3451b5bbf",
+      "size": 3097
+    },
+    {
+      "path": "src/scraper/imgdrop.js",
+      "sha256": "471a72d5dae54186bfc2743185e9cccad66258d46ddcf47139a5bd3c205d62d9",
+      "size": 8723
+    },
+    {
+      "path": "src/scraper/imglarger.js",
+      "sha256": "8d3210b81e201b2c2ce35496fab7e33231fe8e57e45bf29b9dd98487a8c8f3b8",
+      "size": 5087
+    },
+    {
+      "path": "src/scraper/konachan.js",
+      "sha256": "f5afc0ccf884479d378e4b70c91b378d677b0d5afda3d6b9273f4f747ecbb459",
+      "size": 4252
+    },
+    {
+      "path": "src/scraper/kusonime.js",
+      "sha256": "ab432e31e9a89568cde0295165d07d7021e4b8dc066b1b264eea77ff72a9f299",
+      "size": 10265
+    },
+    {
+      "path": "src/scraper/likee.js",
+      "sha256": "e95189e5de5f6e3ba5e7a3e87051f324ee4c70d0468afa86b0f486f185c1b379",
+      "size": 3582
+    },
+    {
+      "path": "src/scraper/logic-bell.js",
+      "sha256": "266dc4a5616cf44048ccf5af573083c3ebc3f2251852cdcd7ad55a00937c36bd",
+      "size": 6248
+    },
+    {
+      "path": "src/scraper/lufemboy.js",
+      "sha256": "44afad9ca1c0eaddc1ca6577d87ba8c5daf87c238f411db01082ef48a47cde64",
+      "size": 3483
+    },
+    {
+      "path": "src/scraper/mconverter.js",
+      "sha256": "64707ea814c0b128a00558dbc738a59dc5399787727538bce6700b930e10eeeb",
+      "size": 11249
+    },
+    {
+      "path": "src/scraper/mediafire.js",
+      "sha256": "54baba78617911e2f5bed5a33df1efbbfff2de6104468cb90d41501a9a515be6",
+      "size": 5277
+    },
+    {
+      "path": "src/scraper/pindl.js",
+      "sha256": "a1f92937caa50ae880c5ede65c03a6d89f966dc1b506c1331dee7f2e9fd6296f",
+      "size": 5560
+    },
+    {
+      "path": "src/scraper/qwen3.js",
+      "sha256": "3a57d1202e8e6543a63252b47aebaa0983d08c87da32d6cf37e6dd1d1c99ddc6",
+      "size": 5500
+    },
+    {
+      "path": "src/scraper/reddit.js",
+      "sha256": "f062c078ddf268aa807c36f44ae22d16eba6c8907a5d888691fbf6cda63f6df3",
+      "size": 4212
+    },
+    {
+      "path": "src/scraper/rednote.js",
+      "sha256": "f5a174632265a02632b0d91ef54699ca345d8c4e56b1ac266cd0ab750b011b50",
+      "size": 3649
+    },
+    {
+      "path": "src/scraper/reelsvideo.js",
+      "sha256": "879373f1b9a58b0a0bf4c05e6a86b92d434e0eee26c993d88f04bc8ceeaef3fc",
+      "size": 5309
+    },
+    {
+      "path": "src/scraper/removebackground.js",
+      "sha256": "7834ecfc8cddce14dea14ca7887846ebe6bfdf2c05e13a93a5271b193c2ede73",
+      "size": 3497
+    },
+    {
+      "path": "src/scraper/seaart.js",
+      "sha256": "6efcfb6d192e2089461a3bd0d7f6bd1bae60f5f261d0c1bb2934849519da061b",
+      "size": 5577
+    },
+    {
+      "path": "src/scraper/sfiledl.js",
+      "sha256": "ffabca21cd891a76d538ae01a97b8ddf296a3db02ee9814292e05f4ede8d4a64",
+      "size": 5102
+    },
+    {
+      "path": "src/scraper/soundcloud.js",
+      "sha256": "5f3ef000893fe2b3d84f6408c0f408d15f44736038caba8f2e4240a5bffa71d5",
+      "size": 3949
+    },
+    {
+      "path": "src/scraper/soundclouddl.js",
+      "sha256": "4cdc44cb3907018e1ce684349efafbc9091fe14a4082a9bf055877ef425c011d",
+      "size": 4143
+    },
+    {
+      "path": "src/scraper/spotify.js",
+      "sha256": "79b47765705b9ac5722fbb483a447594b50c73d633cbce54b1238e17b479a360",
+      "size": 3387
+    },
+    {
+      "path": "src/scraper/tempmail.js",
+      "sha256": "4e0f2cf06b905b5c15efec22c5895efadb0dc08993cea757dd9b2b46da6aa7e5",
+      "size": 3867
+    },
+    {
+      "path": "src/scraper/terabox.js",
+      "sha256": "0d14403180f6550d7588a26b2fcc971f891c524eda011e6ca6d4aac37b1021d2",
+      "size": 4347
+    },
+    {
+      "path": "src/scraper/tiktok.js",
+      "sha256": "9bf42ea5a1b6e2f072aebd1eaebaeb1d07b132f6f5437c6588a548c224eb9b8a",
+      "size": 6597
+    },
+    {
+      "path": "src/scraper/tiktoksearch.js",
+      "sha256": "afb435ddc94a1e840f366507376d8fe4be677b2dd04c852e62b6eba45185f5da",
+      "size": 5214
+    },
+    {
+      "path": "src/scraper/topmedia.js",
+      "sha256": "7d330876f775d6e0454ba95b3adff8ac9af81e2ec586e9c3adc1e38e9f3e586c",
+      "size": 3461
+    },
+    {
+      "path": "src/scraper/twitter.js",
+      "sha256": "bcd71ce37e9b79a245ab7bf71aee7261d585a7a947f107dba0e5aeee42d40b99",
+      "size": 6261
+    },
+    {
+      "path": "src/scraper/txt2img.js",
+      "sha256": "8df5215547208347e946067b1cdde59fcdf705263c17d39f5dc91348dbc7e8bc",
+      "size": 4240
+    },
+    {
+      "path": "src/scraper/txt2img2.js",
+      "sha256": "d7dfe324ebfb228e8989b4c8bf444bd469a64445c29c1aad0133e5395f25e624",
+      "size": 8079
+    },
+    {
+      "path": "src/scraper/unlimitedai.js",
+      "sha256": "fd02da91a871125e0216c934bd19b2e03406c198c9cadc3316febbc77eb4f5c4",
+      "size": 10091
+    },
+    {
+      "path": "src/scraper/upscaler.js",
+      "sha256": "db1d486cbede0991b4ee5a65bab0290ce6e69445e737c864dd2197f967140e1a",
+      "size": 3577
+    },
+    {
+      "path": "src/scraper/videy.js",
+      "sha256": "fe957f6d2449819125b118888a3ab82335fa5876f844e485c1f00bb28a3c2248",
+      "size": 3310
+    },
+    {
+      "path": "src/scraper/wallpapersearch.js",
+      "sha256": "43bf25330ff9a6e933e9218b5079d7c3b638ecb131e1b2e6e5c17b65e6df372a",
+      "size": 3722
+    },
+    {
+      "path": "src/scraper/wink.js",
+      "sha256": "7afac460bfd0d0dd6d7511e2303e6bb5b580e34114238ba1813c415ca40ca9ba",
+      "size": 17109
+    },
+    {
+      "path": "src/scraper/wwchar.js",
+      "sha256": "97e28595f2f89a7594555b69ed244c841f101d53a6328d3640e535b7f12eb646",
+      "size": 4829
+    },
+    {
+      "path": "src/scraper/youtube.js",
+      "sha256": "fe083d5691b64da031d1f2a6de32bee92ff65bedff78fd296c85235477f3b59f",
+      "size": 6071
+    },
+    {
+      "path": "src/scraper/yt.js",
+      "sha256": "ca877a716ad727de6ac4e28272b74a83f513b2a864eb1cc50bf153a311e99b5a",
+      "size": 6009
+    },
+    {
+      "path": "src/scraper/ytdl.js",
+      "sha256": "38603d3968bddea35a5fbb67e78ec54d4c3bbd6cbdc365751e2a903cb3866e5b",
+      "size": 7591
+    },
+    {
+      "path": "src/tiktok/bocil.json",
+      "sha256": "3d1b691aa4845ddaf74444a90e965313009b805494e5523bbfa11da6b1221d93",
+      "size": 1470
+    },
+    {
+      "path": "src/tiktok/gheayubi.json",
+      "sha256": "75565fc8e17bcf3fe8a16d1eb45f7e247b8d79ac81ebf20fec4d39e40d2bd011",
+      "size": 1080
+    },
+    {
+      "path": "src/tiktok/kayes.json",
+      "sha256": "f0bbe2c853b4a3dfe8319a823b45cebabd24b60add59ebbe65099a22a8ffa593",
+      "size": 296
+    },
+    {
+      "path": "src/tiktok/notnot.json",
+      "sha256": "05d204eb48cb3010fa35d68ba34f89d21de8307ffd5f7b81df86db8263799476",
+      "size": 492
+    },
+    {
+      "path": "src/tiktok/panrika.json",
+      "sha256": "7fba15f017626f2929598698191c4e786acd0f277da485270b9e4a732f54079e",
+      "size": 982
+    },
+    {
+      "path": "src/tiktok/santuy.json",
+      "sha256": "ea5a7999775c301890dd5e10866f81d2ddc4199a4ea5c1ce70137de4c7af1955",
+      "size": 1374
+    },
+    {
+      "path": "src/tiktok/tiktokgirl.json",
+      "sha256": "1496e471f4648b5945e2592c04be09f5c5b2a8b7327aac99bb67f3d98e51a6cf",
+      "size": 10656
+    },
+    {
+      "path": "src/tiktok/ukhty.json",
+      "sha256": "cd9c1b31685568db1ff80dc4d471442417955e76da039d349364a8b90aa6339a",
+      "size": 1472
+    }
+  ]
+}
