@@ -1,6 +1,6 @@
 {
   "name": "tenki-no-ko",
-  "version": "2.0.21",
+  "version": "2.0.22",
   "description": "WhatsApp Multi-Device Bot dengan sistem plugin modular",
   "main": "index.js",
   "scripts": {
@@ -33,7 +33,7 @@
     "@napi-rs/canvas": "^0.1.88",
     "adm-zip": "^0.5.17",
     "archiver": "^7.0.1",
-    "arsya": "npm:arsya-baileys-open@1.0.6",
+    "arsya": "npm:arsya-baileys-open@^1.0.9",
     "awesome-phonenumber": "^7.7.0",
     "axios": "^1.13.2",
     "axios-cookiejar-support": "^6.0.5",
