@@ -1,6 +1,6 @@
 {
   "name": "tenki-no-ko",
-  "version": "2.0.24",
+  "version": "2.0.25",
   "description": "WhatsApp Multi-Device Bot dengan sistem plugin modular",
   "main": "index.js",
   "scripts": {

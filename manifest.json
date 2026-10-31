@@ -1,6 +1,6 @@
 {
-  "version": "2.0.24",
-  "date": "2026-10-30",
+  "version": "2.0.25",
+  "date": "2026-10-31",
   "scope": [
     "plugins",
     "src",
@@ -10,13 +10,13 @@
   "minVersion": "",
   "requiresInstall": true,
   "changelog": [
-    "Optimasi enc update: obfuscator seed deterministik"
+    "Test update: perubahan minimal src/lib/tenki-logger.js"
   ],
   "removed": [],
   "files": [
     {
       "path": "package.json",
-      "sha256": "10410d1be1b7480b330e3ffce58ee4fd49caa185ee4a2d013f6a1ae0b90f9ef5",
+      "sha256": "2f6493f47687465b4fdca50d8ef26f105c30cde0f899c360f524cb128c4b982f",
       "size": 2252
     },
     {
@@ -4661,8 +4661,8 @@
     },
     {
       "path": "src/lib/tenki-logger.js",
-      "sha256": "1a915e1db7afb9954e9901f96cfe7491c27953de80214a0b8611eea7baf22fdb",
-      "size": 15738
+      "sha256": "bec8c15aa431dd9b70a79f8b4223c28c13742287ba314374fa1077914db894f4",
+      "size": 15886
     },
     {
       "path": "src/lib/tenki-memory-monitor.js",
